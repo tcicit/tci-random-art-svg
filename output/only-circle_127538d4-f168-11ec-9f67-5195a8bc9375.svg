@@ -1,0 +1,907 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            version="1.1" 
+            baseProfile="full"
+            width="900" height="900"
+            viewBox="0 0 900 900">
+            <title>TCI Generativ Art Generator 2 Lines Only</title>
+            <desc>Generiert mit Python</desc>
+            <autor>Thomas Cigolla</autor>
+            <date>2022-06-21T15:43:03.020856</date>
+            <license>CC BY-NC 4.0</license>
+
+
+            <rect x="0" y="0" width="900" height="900" fill="white" />
+
+            <rect x="0" y="0" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="50.0" cy="50.0" r="45" fill="#f8efc9"/>
+<circle cx="50.0" cy="50.0" r="37" fill="#f4ec8e"/>
+<circle cx="50.0" cy="50.0" r="32" fill="#f1a975"/>
+<circle cx="50.0" cy="50.0" r="29" fill="#f4ec8e"/>
+<circle cx="50.0" cy="50.0" r="20" fill="#e939dc"/>
+<circle cx="50.0" cy="50.0" r="12" fill="#f1a975"/>
+<circle cx="50.0" cy="50.0" r="9" fill="#f8efc9"/>
+<circle cx="50.0" cy="50.0" r="6" fill="#e31794"/>
+<circle cx="50.0" cy="50.0" r="2" fill="#f8efc9"/>
+<circle cx="50.0" cy="50.0" r="-3" fill="#f8efc9"/>
+<rect x="100" y="0" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="150.0" cy="50.0" r="41" fill="#e939dc"/>
+<circle cx="150.0" cy="50.0" r="33" fill="#f8efc9"/>
+<circle cx="150.0" cy="50.0" r="29" fill="#f4ec8e"/>
+<circle cx="150.0" cy="50.0" r="27" fill="#e31794"/>
+<circle cx="150.0" cy="50.0" r="20" fill="#e31794"/>
+<circle cx="150.0" cy="50.0" r="11" fill="#e31794"/>
+<circle cx="150.0" cy="50.0" r="6" fill="#f4ec8e"/>
+<circle cx="150.0" cy="50.0" r="0" fill="#f4ec8e"/>
+<circle cx="150.0" cy="50.0" r="-8" fill="#e31794"/>
+<circle cx="150.0" cy="50.0" r="-16" fill="#f8efc9"/>
+<rect x="200" y="0" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="250.0" cy="50.0" r="46" fill="#e31794"/>
+<circle cx="250.0" cy="50.0" r="40" fill="#f1a975"/>
+<circle cx="250.0" cy="50.0" r="32" fill="#e939dc"/>
+<circle cx="250.0" cy="50.0" r="28" fill="#f4ec8e"/>
+<circle cx="250.0" cy="50.0" r="24" fill="#f1a975"/>
+<circle cx="250.0" cy="50.0" r="18" fill="#f1a975"/>
+<circle cx="250.0" cy="50.0" r="16" fill="#f8efc9"/>
+<circle cx="250.0" cy="50.0" r="12" fill="#f8efc9"/>
+<circle cx="250.0" cy="50.0" r="7" fill="#f4ec8e"/>
+<circle cx="250.0" cy="50.0" r="0" fill="#e31794"/>
+<rect x="300" y="0" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="350.0" cy="50.0" r="47" fill="#e31794"/>
+<circle cx="350.0" cy="50.0" r="41" fill="#f1a975"/>
+<circle cx="350.0" cy="50.0" r="33" fill="#e31794"/>
+<circle cx="350.0" cy="50.0" r="24" fill="#f4ec8e"/>
+<circle cx="350.0" cy="50.0" r="15" fill="#f8efc9"/>
+<circle cx="350.0" cy="50.0" r="9" fill="#f4ec8e"/>
+<circle cx="350.0" cy="50.0" r="1" fill="#f4ec8e"/>
+<circle cx="350.0" cy="50.0" r="-7" fill="#f4ec8e"/>
+<circle cx="350.0" cy="50.0" r="-16" fill="#e31794"/>
+<circle cx="350.0" cy="50.0" r="-18" fill="#f1a975"/>
+<rect x="400" y="0" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="450.0" cy="50.0" r="47" fill="#e31794"/>
+<circle cx="450.0" cy="50.0" r="41" fill="#f1a975"/>
+<circle cx="450.0" cy="50.0" r="32" fill="#f4ec8e"/>
+<circle cx="450.0" cy="50.0" r="24" fill="#f4ec8e"/>
+<circle cx="450.0" cy="50.0" r="17" fill="#f8efc9"/>
+<circle cx="450.0" cy="50.0" r="12" fill="#e939dc"/>
+<circle cx="450.0" cy="50.0" r="4" fill="#e31794"/>
+<circle cx="450.0" cy="50.0" r="2" fill="#f8efc9"/>
+<circle cx="450.0" cy="50.0" r="-5" fill="#f1a975"/>
+<circle cx="450.0" cy="50.0" r="-13" fill="#f8efc9"/>
+<rect x="500" y="0" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="550.0" cy="50.0" r="42" fill="#e939dc"/>
+<circle cx="550.0" cy="50.0" r="35" fill="#e939dc"/>
+<circle cx="550.0" cy="50.0" r="28" fill="#e31794"/>
+<circle cx="550.0" cy="50.0" r="20" fill="#f4ec8e"/>
+<circle cx="550.0" cy="50.0" r="15" fill="#f4ec8e"/>
+<circle cx="550.0" cy="50.0" r="9" fill="#f4ec8e"/>
+<circle cx="550.0" cy="50.0" r="4" fill="#f1a975"/>
+<circle cx="550.0" cy="50.0" r="-1" fill="#e31794"/>
+<circle cx="550.0" cy="50.0" r="-5" fill="#e939dc"/>
+<circle cx="550.0" cy="50.0" r="-8" fill="#e31794"/>
+<rect x="600" y="0" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="650.0" cy="50.0" r="44" fill="#f8efc9"/>
+<circle cx="650.0" cy="50.0" r="37" fill="#f1a975"/>
+<circle cx="650.0" cy="50.0" r="32" fill="#e939dc"/>
+<circle cx="650.0" cy="50.0" r="29" fill="#f1a975"/>
+<circle cx="650.0" cy="50.0" r="23" fill="#f8efc9"/>
+<circle cx="650.0" cy="50.0" r="21" fill="#f4ec8e"/>
+<circle cx="650.0" cy="50.0" r="18" fill="#f4ec8e"/>
+<circle cx="650.0" cy="50.0" r="13" fill="#f1a975"/>
+<circle cx="650.0" cy="50.0" r="6" fill="#e939dc"/>
+<circle cx="650.0" cy="50.0" r="4" fill="#f1a975"/>
+<rect x="700" y="0" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="750.0" cy="50.0" r="42" fill="#f4ec8e"/>
+<circle cx="750.0" cy="50.0" r="33" fill="#e939dc"/>
+<circle cx="750.0" cy="50.0" r="28" fill="#f4ec8e"/>
+<circle cx="750.0" cy="50.0" r="20" fill="#e939dc"/>
+<circle cx="750.0" cy="50.0" r="15" fill="#f8efc9"/>
+<circle cx="750.0" cy="50.0" r="10" fill="#f4ec8e"/>
+<circle cx="750.0" cy="50.0" r="6" fill="#f8efc9"/>
+<circle cx="750.0" cy="50.0" r="3" fill="#f4ec8e"/>
+<circle cx="750.0" cy="50.0" r="-6" fill="#e31794"/>
+<circle cx="750.0" cy="50.0" r="-15" fill="#e939dc"/>
+<rect x="800" y="0" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="850.0" cy="50.0" r="44" fill="#f1a975"/>
+<circle cx="850.0" cy="50.0" r="37" fill="#f1a975"/>
+<circle cx="850.0" cy="50.0" r="29" fill="#f8efc9"/>
+<circle cx="850.0" cy="50.0" r="22" fill="#f1a975"/>
+<circle cx="850.0" cy="50.0" r="15" fill="#f1a975"/>
+<circle cx="850.0" cy="50.0" r="8" fill="#f4ec8e"/>
+<circle cx="850.0" cy="50.0" r="1" fill="#f8efc9"/>
+<circle cx="850.0" cy="50.0" r="-3" fill="#f8efc9"/>
+<circle cx="850.0" cy="50.0" r="-11" fill="#f1a975"/>
+<circle cx="850.0" cy="50.0" r="-17" fill="#e31794"/>
+<rect x="0" y="100" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="50.0" cy="150.0" r="47" fill="#e31794"/>
+<circle cx="50.0" cy="150.0" r="40" fill="#f8efc9"/>
+<circle cx="50.0" cy="150.0" r="37" fill="#f1a975"/>
+<circle cx="50.0" cy="150.0" r="30" fill="#e31794"/>
+<circle cx="50.0" cy="150.0" r="26" fill="#e31794"/>
+<circle cx="50.0" cy="150.0" r="19" fill="#f4ec8e"/>
+<circle cx="50.0" cy="150.0" r="17" fill="#f4ec8e"/>
+<circle cx="50.0" cy="150.0" r="13" fill="#f8efc9"/>
+<circle cx="50.0" cy="150.0" r="9" fill="#e31794"/>
+<circle cx="50.0" cy="150.0" r="4" fill="#e939dc"/>
+<rect x="100" y="100" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="150.0" cy="150.0" r="44" fill="#f1a975"/>
+<circle cx="150.0" cy="150.0" r="40" fill="#e31794"/>
+<circle cx="150.0" cy="150.0" r="36" fill="#e939dc"/>
+<circle cx="150.0" cy="150.0" r="32" fill="#e31794"/>
+<circle cx="150.0" cy="150.0" r="27" fill="#f4ec8e"/>
+<circle cx="150.0" cy="150.0" r="19" fill="#f8efc9"/>
+<circle cx="150.0" cy="150.0" r="17" fill="#e31794"/>
+<circle cx="150.0" cy="150.0" r="10" fill="#f4ec8e"/>
+<circle cx="150.0" cy="150.0" r="5" fill="#f4ec8e"/>
+<circle cx="150.0" cy="150.0" r="3" fill="#f4ec8e"/>
+<rect x="200" y="100" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="250.0" cy="150.0" r="45" fill="#f8efc9"/>
+<circle cx="250.0" cy="150.0" r="43" fill="#e939dc"/>
+<circle cx="250.0" cy="150.0" r="41" fill="#f4ec8e"/>
+<circle cx="250.0" cy="150.0" r="34" fill="#f4ec8e"/>
+<circle cx="250.0" cy="150.0" r="29" fill="#e31794"/>
+<circle cx="250.0" cy="150.0" r="22" fill="#e31794"/>
+<circle cx="250.0" cy="150.0" r="14" fill="#e31794"/>
+<circle cx="250.0" cy="150.0" r="8" fill="#f8efc9"/>
+<circle cx="250.0" cy="150.0" r="3" fill="#e31794"/>
+<circle cx="250.0" cy="150.0" r="-1" fill="#e939dc"/>
+<rect x="300" y="100" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="350.0" cy="150.0" r="42" fill="#e939dc"/>
+<circle cx="350.0" cy="150.0" r="38" fill="#f4ec8e"/>
+<circle cx="350.0" cy="150.0" r="34" fill="#e939dc"/>
+<circle cx="350.0" cy="150.0" r="28" fill="#f1a975"/>
+<circle cx="350.0" cy="150.0" r="21" fill="#e939dc"/>
+<circle cx="350.0" cy="150.0" r="16" fill="#f4ec8e"/>
+<circle cx="350.0" cy="150.0" r="10" fill="#f1a975"/>
+<circle cx="350.0" cy="150.0" r="6" fill="#f1a975"/>
+<circle cx="350.0" cy="150.0" r="3" fill="#e31794"/>
+<circle cx="350.0" cy="150.0" r="-5" fill="#f1a975"/>
+<rect x="400" y="100" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="450.0" cy="150.0" r="41" fill="#f8efc9"/>
+<circle cx="450.0" cy="150.0" r="38" fill="#e31794"/>
+<circle cx="450.0" cy="150.0" r="29" fill="#e31794"/>
+<circle cx="450.0" cy="150.0" r="26" fill="#e939dc"/>
+<circle cx="450.0" cy="150.0" r="23" fill="#f1a975"/>
+<circle cx="450.0" cy="150.0" r="17" fill="#e939dc"/>
+<circle cx="450.0" cy="150.0" r="13" fill="#e31794"/>
+<circle cx="450.0" cy="150.0" r="9" fill="#e31794"/>
+<circle cx="450.0" cy="150.0" r="6" fill="#e31794"/>
+<circle cx="450.0" cy="150.0" r="-1" fill="#f8efc9"/>
+<rect x="500" y="100" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="550.0" cy="150.0" r="43" fill="#e939dc"/>
+<circle cx="550.0" cy="150.0" r="39" fill="#e939dc"/>
+<circle cx="550.0" cy="150.0" r="33" fill="#e31794"/>
+<circle cx="550.0" cy="150.0" r="28" fill="#f1a975"/>
+<circle cx="550.0" cy="150.0" r="22" fill="#f8efc9"/>
+<circle cx="550.0" cy="150.0" r="14" fill="#f1a975"/>
+<circle cx="550.0" cy="150.0" r="8" fill="#f8efc9"/>
+<circle cx="550.0" cy="150.0" r="1" fill="#e939dc"/>
+<circle cx="550.0" cy="150.0" r="-8" fill="#e31794"/>
+<circle cx="550.0" cy="150.0" r="-12" fill="#f4ec8e"/>
+<rect x="600" y="100" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="650.0" cy="150.0" r="45" fill="#f4ec8e"/>
+<circle cx="650.0" cy="150.0" r="42" fill="#e31794"/>
+<circle cx="650.0" cy="150.0" r="37" fill="#f8efc9"/>
+<circle cx="650.0" cy="150.0" r="34" fill="#e939dc"/>
+<circle cx="650.0" cy="150.0" r="32" fill="#e31794"/>
+<circle cx="650.0" cy="150.0" r="24" fill="#e31794"/>
+<circle cx="650.0" cy="150.0" r="16" fill="#e939dc"/>
+<circle cx="650.0" cy="150.0" r="8" fill="#f1a975"/>
+<circle cx="650.0" cy="150.0" r="2" fill="#e939dc"/>
+<circle cx="650.0" cy="150.0" r="-1" fill="#e31794"/>
+<rect x="700" y="100" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="750.0" cy="150.0" r="43" fill="#e939dc"/>
+<circle cx="750.0" cy="150.0" r="34" fill="#e939dc"/>
+<circle cx="750.0" cy="150.0" r="29" fill="#f4ec8e"/>
+<circle cx="750.0" cy="150.0" r="22" fill="#e31794"/>
+<circle cx="750.0" cy="150.0" r="16" fill="#e31794"/>
+<circle cx="750.0" cy="150.0" r="7" fill="#f4ec8e"/>
+<circle cx="750.0" cy="150.0" r="-2" fill="#e939dc"/>
+<circle cx="750.0" cy="150.0" r="-5" fill="#f4ec8e"/>
+<circle cx="750.0" cy="150.0" r="-9" fill="#e31794"/>
+<circle cx="750.0" cy="150.0" r="-13" fill="#f1a975"/>
+<rect x="800" y="100" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="850.0" cy="150.0" r="48" fill="#f8efc9"/>
+<circle cx="850.0" cy="150.0" r="45" fill="#f8efc9"/>
+<circle cx="850.0" cy="150.0" r="41" fill="#e31794"/>
+<circle cx="850.0" cy="150.0" r="33" fill="#e939dc"/>
+<circle cx="850.0" cy="150.0" r="26" fill="#f8efc9"/>
+<circle cx="850.0" cy="150.0" r="20" fill="#e31794"/>
+<circle cx="850.0" cy="150.0" r="17" fill="#e939dc"/>
+<circle cx="850.0" cy="150.0" r="12" fill="#e31794"/>
+<circle cx="850.0" cy="150.0" r="10" fill="#f4ec8e"/>
+<circle cx="850.0" cy="150.0" r="5" fill="#f8efc9"/>
+<rect x="0" y="200" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="50.0" cy="250.0" r="45" fill="#f1a975"/>
+<circle cx="50.0" cy="250.0" r="43" fill="#f4ec8e"/>
+<circle cx="50.0" cy="250.0" r="36" fill="#f4ec8e"/>
+<circle cx="50.0" cy="250.0" r="29" fill="#e939dc"/>
+<circle cx="50.0" cy="250.0" r="25" fill="#e939dc"/>
+<circle cx="50.0" cy="250.0" r="22" fill="#e939dc"/>
+<circle cx="50.0" cy="250.0" r="17" fill="#e31794"/>
+<circle cx="50.0" cy="250.0" r="9" fill="#f8efc9"/>
+<circle cx="50.0" cy="250.0" r="2" fill="#f1a975"/>
+<circle cx="50.0" cy="250.0" r="0" fill="#f8efc9"/>
+<rect x="100" y="200" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="150.0" cy="250.0" r="46" fill="#f4ec8e"/>
+<circle cx="150.0" cy="250.0" r="42" fill="#f8efc9"/>
+<circle cx="150.0" cy="250.0" r="38" fill="#e31794"/>
+<circle cx="150.0" cy="250.0" r="29" fill="#e31794"/>
+<circle cx="150.0" cy="250.0" r="23" fill="#f4ec8e"/>
+<circle cx="150.0" cy="250.0" r="15" fill="#f8efc9"/>
+<circle cx="150.0" cy="250.0" r="8" fill="#f4ec8e"/>
+<circle cx="150.0" cy="250.0" r="0" fill="#f8efc9"/>
+<circle cx="150.0" cy="250.0" r="-7" fill="#e31794"/>
+<circle cx="150.0" cy="250.0" r="-9" fill="#f1a975"/>
+<rect x="200" y="200" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="250.0" cy="250.0" r="48" fill="#f4ec8e"/>
+<circle cx="250.0" cy="250.0" r="43" fill="#e31794"/>
+<circle cx="250.0" cy="250.0" r="40" fill="#f8efc9"/>
+<circle cx="250.0" cy="250.0" r="31" fill="#f1a975"/>
+<circle cx="250.0" cy="250.0" r="23" fill="#f4ec8e"/>
+<circle cx="250.0" cy="250.0" r="18" fill="#e31794"/>
+<circle cx="250.0" cy="250.0" r="13" fill="#e939dc"/>
+<circle cx="250.0" cy="250.0" r="4" fill="#f4ec8e"/>
+<circle cx="250.0" cy="250.0" r="-3" fill="#e31794"/>
+<circle cx="250.0" cy="250.0" r="-10" fill="#e31794"/>
+<rect x="300" y="200" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="350.0" cy="250.0" r="46" fill="#e939dc"/>
+<circle cx="350.0" cy="250.0" r="44" fill="#f8efc9"/>
+<circle cx="350.0" cy="250.0" r="39" fill="#e31794"/>
+<circle cx="350.0" cy="250.0" r="33" fill="#f1a975"/>
+<circle cx="350.0" cy="250.0" r="27" fill="#e939dc"/>
+<circle cx="350.0" cy="250.0" r="20" fill="#e31794"/>
+<circle cx="350.0" cy="250.0" r="17" fill="#e939dc"/>
+<circle cx="350.0" cy="250.0" r="10" fill="#f4ec8e"/>
+<circle cx="350.0" cy="250.0" r="7" fill="#f8efc9"/>
+<circle cx="350.0" cy="250.0" r="0" fill="#f4ec8e"/>
+<rect x="400" y="200" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="450.0" cy="250.0" r="46" fill="#e31794"/>
+<circle cx="450.0" cy="250.0" r="39" fill="#f8efc9"/>
+<circle cx="450.0" cy="250.0" r="34" fill="#e31794"/>
+<circle cx="450.0" cy="250.0" r="30" fill="#f1a975"/>
+<circle cx="450.0" cy="250.0" r="21" fill="#f1a975"/>
+<circle cx="450.0" cy="250.0" r="18" fill="#f8efc9"/>
+<circle cx="450.0" cy="250.0" r="10" fill="#f1a975"/>
+<circle cx="450.0" cy="250.0" r="8" fill="#f8efc9"/>
+<circle cx="450.0" cy="250.0" r="3" fill="#e31794"/>
+<circle cx="450.0" cy="250.0" r="0" fill="#f8efc9"/>
+<rect x="500" y="200" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="550.0" cy="250.0" r="42" fill="#e939dc"/>
+<circle cx="550.0" cy="250.0" r="40" fill="#f1a975"/>
+<circle cx="550.0" cy="250.0" r="35" fill="#e31794"/>
+<circle cx="550.0" cy="250.0" r="28" fill="#f8efc9"/>
+<circle cx="550.0" cy="250.0" r="21" fill="#f4ec8e"/>
+<circle cx="550.0" cy="250.0" r="17" fill="#f1a975"/>
+<circle cx="550.0" cy="250.0" r="11" fill="#f8efc9"/>
+<circle cx="550.0" cy="250.0" r="6" fill="#e31794"/>
+<circle cx="550.0" cy="250.0" r="4" fill="#f1a975"/>
+<circle cx="550.0" cy="250.0" r="-2" fill="#f1a975"/>
+<rect x="600" y="200" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="650.0" cy="250.0" r="48" fill="#e31794"/>
+<circle cx="650.0" cy="250.0" r="40" fill="#e939dc"/>
+<circle cx="650.0" cy="250.0" r="35" fill="#f4ec8e"/>
+<circle cx="650.0" cy="250.0" r="32" fill="#e939dc"/>
+<circle cx="650.0" cy="250.0" r="23" fill="#e31794"/>
+<circle cx="650.0" cy="250.0" r="20" fill="#e31794"/>
+<circle cx="650.0" cy="250.0" r="16" fill="#e939dc"/>
+<circle cx="650.0" cy="250.0" r="9" fill="#f4ec8e"/>
+<circle cx="650.0" cy="250.0" r="5" fill="#e31794"/>
+<circle cx="650.0" cy="250.0" r="0" fill="#e31794"/>
+<rect x="700" y="200" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="750.0" cy="250.0" r="48" fill="#f8efc9"/>
+<circle cx="750.0" cy="250.0" r="39" fill="#f8efc9"/>
+<circle cx="750.0" cy="250.0" r="31" fill="#f1a975"/>
+<circle cx="750.0" cy="250.0" r="22" fill="#e31794"/>
+<circle cx="750.0" cy="250.0" r="13" fill="#f1a975"/>
+<circle cx="750.0" cy="250.0" r="5" fill="#f4ec8e"/>
+<circle cx="750.0" cy="250.0" r="0" fill="#e939dc"/>
+<circle cx="750.0" cy="250.0" r="-7" fill="#e31794"/>
+<circle cx="750.0" cy="250.0" r="-13" fill="#e31794"/>
+<circle cx="750.0" cy="250.0" r="-20" fill="#e939dc"/>
+<rect x="800" y="200" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="850.0" cy="250.0" r="46" fill="#e939dc"/>
+<circle cx="850.0" cy="250.0" r="40" fill="#e939dc"/>
+<circle cx="850.0" cy="250.0" r="37" fill="#f8efc9"/>
+<circle cx="850.0" cy="250.0" r="32" fill="#f4ec8e"/>
+<circle cx="850.0" cy="250.0" r="25" fill="#f4ec8e"/>
+<circle cx="850.0" cy="250.0" r="22" fill="#e31794"/>
+<circle cx="850.0" cy="250.0" r="18" fill="#f8efc9"/>
+<circle cx="850.0" cy="250.0" r="14" fill="#e31794"/>
+<circle cx="850.0" cy="250.0" r="10" fill="#f8efc9"/>
+<circle cx="850.0" cy="250.0" r="8" fill="#f1a975"/>
+<rect x="0" y="300" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="50.0" cy="350.0" r="45" fill="#e31794"/>
+<circle cx="50.0" cy="350.0" r="38" fill="#f8efc9"/>
+<circle cx="50.0" cy="350.0" r="29" fill="#e31794"/>
+<circle cx="50.0" cy="350.0" r="27" fill="#e939dc"/>
+<circle cx="50.0" cy="350.0" r="24" fill="#f8efc9"/>
+<circle cx="50.0" cy="350.0" r="19" fill="#e31794"/>
+<circle cx="50.0" cy="350.0" r="17" fill="#e939dc"/>
+<circle cx="50.0" cy="350.0" r="10" fill="#f1a975"/>
+<circle cx="50.0" cy="350.0" r="8" fill="#f4ec8e"/>
+<circle cx="50.0" cy="350.0" r="-1" fill="#f4ec8e"/>
+<rect x="100" y="300" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="150.0" cy="350.0" r="48" fill="#e31794"/>
+<circle cx="150.0" cy="350.0" r="46" fill="#f4ec8e"/>
+<circle cx="150.0" cy="350.0" r="41" fill="#f1a975"/>
+<circle cx="150.0" cy="350.0" r="35" fill="#f8efc9"/>
+<circle cx="150.0" cy="350.0" r="33" fill="#e939dc"/>
+<circle cx="150.0" cy="350.0" r="30" fill="#f1a975"/>
+<circle cx="150.0" cy="350.0" r="24" fill="#f1a975"/>
+<circle cx="150.0" cy="350.0" r="15" fill="#f8efc9"/>
+<circle cx="150.0" cy="350.0" r="13" fill="#f8efc9"/>
+<circle cx="150.0" cy="350.0" r="11" fill="#f1a975"/>
+<rect x="200" y="300" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="250.0" cy="350.0" r="46" fill="#f8efc9"/>
+<circle cx="250.0" cy="350.0" r="38" fill="#e31794"/>
+<circle cx="250.0" cy="350.0" r="36" fill="#f4ec8e"/>
+<circle cx="250.0" cy="350.0" r="29" fill="#f8efc9"/>
+<circle cx="250.0" cy="350.0" r="25" fill="#e939dc"/>
+<circle cx="250.0" cy="350.0" r="20" fill="#f4ec8e"/>
+<circle cx="250.0" cy="350.0" r="18" fill="#e31794"/>
+<circle cx="250.0" cy="350.0" r="15" fill="#e939dc"/>
+<circle cx="250.0" cy="350.0" r="10" fill="#e31794"/>
+<circle cx="250.0" cy="350.0" r="4" fill="#f4ec8e"/>
+<rect x="300" y="300" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="350.0" cy="350.0" r="46" fill="#e31794"/>
+<circle cx="350.0" cy="350.0" r="41" fill="#f4ec8e"/>
+<circle cx="350.0" cy="350.0" r="35" fill="#f4ec8e"/>
+<circle cx="350.0" cy="350.0" r="33" fill="#e31794"/>
+<circle cx="350.0" cy="350.0" r="30" fill="#f8efc9"/>
+<circle cx="350.0" cy="350.0" r="27" fill="#f1a975"/>
+<circle cx="350.0" cy="350.0" r="20" fill="#f8efc9"/>
+<circle cx="350.0" cy="350.0" r="12" fill="#e31794"/>
+<circle cx="350.0" cy="350.0" r="5" fill="#e31794"/>
+<circle cx="350.0" cy="350.0" r="1" fill="#e31794"/>
+<rect x="400" y="300" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="450.0" cy="350.0" r="42" fill="#f8efc9"/>
+<circle cx="450.0" cy="350.0" r="38" fill="#f1a975"/>
+<circle cx="450.0" cy="350.0" r="31" fill="#f4ec8e"/>
+<circle cx="450.0" cy="350.0" r="29" fill="#e31794"/>
+<circle cx="450.0" cy="350.0" r="26" fill="#e939dc"/>
+<circle cx="450.0" cy="350.0" r="24" fill="#f4ec8e"/>
+<circle cx="450.0" cy="350.0" r="22" fill="#e31794"/>
+<circle cx="450.0" cy="350.0" r="14" fill="#f4ec8e"/>
+<circle cx="450.0" cy="350.0" r="5" fill="#e31794"/>
+<circle cx="450.0" cy="350.0" r="-2" fill="#f1a975"/>
+<rect x="500" y="300" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="550.0" cy="350.0" r="45" fill="#e31794"/>
+<circle cx="550.0" cy="350.0" r="36" fill="#f4ec8e"/>
+<circle cx="550.0" cy="350.0" r="29" fill="#f4ec8e"/>
+<circle cx="550.0" cy="350.0" r="27" fill="#e31794"/>
+<circle cx="550.0" cy="350.0" r="21" fill="#f1a975"/>
+<circle cx="550.0" cy="350.0" r="12" fill="#e939dc"/>
+<circle cx="550.0" cy="350.0" r="7" fill="#f8efc9"/>
+<circle cx="550.0" cy="350.0" r="5" fill="#e31794"/>
+<circle cx="550.0" cy="350.0" r="-2" fill="#f1a975"/>
+<circle cx="550.0" cy="350.0" r="-4" fill="#e31794"/>
+<rect x="600" y="300" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="650.0" cy="350.0" r="42" fill="#f1a975"/>
+<circle cx="650.0" cy="350.0" r="38" fill="#e31794"/>
+<circle cx="650.0" cy="350.0" r="32" fill="#e31794"/>
+<circle cx="650.0" cy="350.0" r="28" fill="#f4ec8e"/>
+<circle cx="650.0" cy="350.0" r="25" fill="#e939dc"/>
+<circle cx="650.0" cy="350.0" r="20" fill="#e939dc"/>
+<circle cx="650.0" cy="350.0" r="18" fill="#f8efc9"/>
+<circle cx="650.0" cy="350.0" r="13" fill="#f8efc9"/>
+<circle cx="650.0" cy="350.0" r="4" fill="#f8efc9"/>
+<circle cx="650.0" cy="350.0" r="2" fill="#f1a975"/>
+<rect x="700" y="300" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="750.0" cy="350.0" r="47" fill="#e31794"/>
+<circle cx="750.0" cy="350.0" r="41" fill="#e31794"/>
+<circle cx="750.0" cy="350.0" r="35" fill="#f1a975"/>
+<circle cx="750.0" cy="350.0" r="27" fill="#f4ec8e"/>
+<circle cx="750.0" cy="350.0" r="20" fill="#f1a975"/>
+<circle cx="750.0" cy="350.0" r="13" fill="#f8efc9"/>
+<circle cx="750.0" cy="350.0" r="8" fill="#f8efc9"/>
+<circle cx="750.0" cy="350.0" r="1" fill="#e31794"/>
+<circle cx="750.0" cy="350.0" r="-8" fill="#f4ec8e"/>
+<circle cx="750.0" cy="350.0" r="-15" fill="#e31794"/>
+<rect x="800" y="300" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="850.0" cy="350.0" r="48" fill="#f4ec8e"/>
+<circle cx="850.0" cy="350.0" r="43" fill="#e31794"/>
+<circle cx="850.0" cy="350.0" r="34" fill="#f1a975"/>
+<circle cx="850.0" cy="350.0" r="26" fill="#f4ec8e"/>
+<circle cx="850.0" cy="350.0" r="20" fill="#f1a975"/>
+<circle cx="850.0" cy="350.0" r="15" fill="#e939dc"/>
+<circle cx="850.0" cy="350.0" r="12" fill="#f1a975"/>
+<circle cx="850.0" cy="350.0" r="9" fill="#f1a975"/>
+<circle cx="850.0" cy="350.0" r="0" fill="#e31794"/>
+<circle cx="850.0" cy="350.0" r="-5" fill="#f1a975"/>
+<rect x="0" y="400" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="50.0" cy="450.0" r="46" fill="#f8efc9"/>
+<circle cx="50.0" cy="450.0" r="44" fill="#e31794"/>
+<circle cx="50.0" cy="450.0" r="40" fill="#e939dc"/>
+<circle cx="50.0" cy="450.0" r="37" fill="#e31794"/>
+<circle cx="50.0" cy="450.0" r="28" fill="#e31794"/>
+<circle cx="50.0" cy="450.0" r="24" fill="#e939dc"/>
+<circle cx="50.0" cy="450.0" r="16" fill="#f8efc9"/>
+<circle cx="50.0" cy="450.0" r="13" fill="#f8efc9"/>
+<circle cx="50.0" cy="450.0" r="11" fill="#e31794"/>
+<circle cx="50.0" cy="450.0" r="3" fill="#e31794"/>
+<rect x="100" y="400" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="150.0" cy="450.0" r="46" fill="#e939dc"/>
+<circle cx="150.0" cy="450.0" r="39" fill="#e31794"/>
+<circle cx="150.0" cy="450.0" r="36" fill="#f1a975"/>
+<circle cx="150.0" cy="450.0" r="31" fill="#e31794"/>
+<circle cx="150.0" cy="450.0" r="29" fill="#f8efc9"/>
+<circle cx="150.0" cy="450.0" r="23" fill="#e939dc"/>
+<circle cx="150.0" cy="450.0" r="21" fill="#f8efc9"/>
+<circle cx="150.0" cy="450.0" r="14" fill="#f1a975"/>
+<circle cx="150.0" cy="450.0" r="8" fill="#f1a975"/>
+<circle cx="150.0" cy="450.0" r="0" fill="#f1a975"/>
+<rect x="200" y="400" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="250.0" cy="450.0" r="42" fill="#f4ec8e"/>
+<circle cx="250.0" cy="450.0" r="34" fill="#f8efc9"/>
+<circle cx="250.0" cy="450.0" r="31" fill="#e31794"/>
+<circle cx="250.0" cy="450.0" r="23" fill="#f8efc9"/>
+<circle cx="250.0" cy="450.0" r="14" fill="#e939dc"/>
+<circle cx="250.0" cy="450.0" r="5" fill="#e31794"/>
+<circle cx="250.0" cy="450.0" r="-1" fill="#f8efc9"/>
+<circle cx="250.0" cy="450.0" r="-5" fill="#f1a975"/>
+<circle cx="250.0" cy="450.0" r="-12" fill="#f8efc9"/>
+<circle cx="250.0" cy="450.0" r="-16" fill="#e939dc"/>
+<rect x="300" y="400" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="350.0" cy="450.0" r="44" fill="#f1a975"/>
+<circle cx="350.0" cy="450.0" r="42" fill="#f8efc9"/>
+<circle cx="350.0" cy="450.0" r="39" fill="#e31794"/>
+<circle cx="350.0" cy="450.0" r="32" fill="#f1a975"/>
+<circle cx="350.0" cy="450.0" r="27" fill="#f1a975"/>
+<circle cx="350.0" cy="450.0" r="20" fill="#f1a975"/>
+<circle cx="350.0" cy="450.0" r="13" fill="#f4ec8e"/>
+<circle cx="350.0" cy="450.0" r="9" fill="#f8efc9"/>
+<circle cx="350.0" cy="450.0" r="3" fill="#f8efc9"/>
+<circle cx="350.0" cy="450.0" r="-4" fill="#f8efc9"/>
+<rect x="400" y="400" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="450.0" cy="450.0" r="43" fill="#e939dc"/>
+<circle cx="450.0" cy="450.0" r="37" fill="#e939dc"/>
+<circle cx="450.0" cy="450.0" r="28" fill="#e939dc"/>
+<circle cx="450.0" cy="450.0" r="25" fill="#f1a975"/>
+<circle cx="450.0" cy="450.0" r="21" fill="#e31794"/>
+<circle cx="450.0" cy="450.0" r="13" fill="#f4ec8e"/>
+<circle cx="450.0" cy="450.0" r="11" fill="#f4ec8e"/>
+<circle cx="450.0" cy="450.0" r="7" fill="#e939dc"/>
+<circle cx="450.0" cy="450.0" r="-2" fill="#e939dc"/>
+<circle cx="450.0" cy="450.0" r="-9" fill="#f8efc9"/>
+<rect x="500" y="400" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="550.0" cy="450.0" r="46" fill="#f1a975"/>
+<circle cx="550.0" cy="450.0" r="39" fill="#f4ec8e"/>
+<circle cx="550.0" cy="450.0" r="37" fill="#f4ec8e"/>
+<circle cx="550.0" cy="450.0" r="35" fill="#f1a975"/>
+<circle cx="550.0" cy="450.0" r="26" fill="#e31794"/>
+<circle cx="550.0" cy="450.0" r="19" fill="#e939dc"/>
+<circle cx="550.0" cy="450.0" r="15" fill="#f4ec8e"/>
+<circle cx="550.0" cy="450.0" r="8" fill="#f4ec8e"/>
+<circle cx="550.0" cy="450.0" r="4" fill="#f1a975"/>
+<circle cx="550.0" cy="450.0" r="1" fill="#f8efc9"/>
+<rect x="600" y="400" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="650.0" cy="450.0" r="48" fill="#f4ec8e"/>
+<circle cx="650.0" cy="450.0" r="39" fill="#e31794"/>
+<circle cx="650.0" cy="450.0" r="35" fill="#f8efc9"/>
+<circle cx="650.0" cy="450.0" r="28" fill="#f4ec8e"/>
+<circle cx="650.0" cy="450.0" r="23" fill="#f4ec8e"/>
+<circle cx="650.0" cy="450.0" r="19" fill="#f1a975"/>
+<circle cx="650.0" cy="450.0" r="16" fill="#e31794"/>
+<circle cx="650.0" cy="450.0" r="14" fill="#f1a975"/>
+<circle cx="650.0" cy="450.0" r="8" fill="#f4ec8e"/>
+<circle cx="650.0" cy="450.0" r="5" fill="#f4ec8e"/>
+<rect x="700" y="400" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="750.0" cy="450.0" r="43" fill="#f8efc9"/>
+<circle cx="750.0" cy="450.0" r="38" fill="#f8efc9"/>
+<circle cx="750.0" cy="450.0" r="35" fill="#f8efc9"/>
+<circle cx="750.0" cy="450.0" r="29" fill="#f1a975"/>
+<circle cx="750.0" cy="450.0" r="21" fill="#f4ec8e"/>
+<circle cx="750.0" cy="450.0" r="14" fill="#e939dc"/>
+<circle cx="750.0" cy="450.0" r="12" fill="#e939dc"/>
+<circle cx="750.0" cy="450.0" r="8" fill="#f8efc9"/>
+<circle cx="750.0" cy="450.0" r="6" fill="#e939dc"/>
+<circle cx="750.0" cy="450.0" r="-1" fill="#f8efc9"/>
+<rect x="800" y="400" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="850.0" cy="450.0" r="48" fill="#e939dc"/>
+<circle cx="850.0" cy="450.0" r="41" fill="#f4ec8e"/>
+<circle cx="850.0" cy="450.0" r="34" fill="#e939dc"/>
+<circle cx="850.0" cy="450.0" r="28" fill="#e31794"/>
+<circle cx="850.0" cy="450.0" r="19" fill="#f1a975"/>
+<circle cx="850.0" cy="450.0" r="17" fill="#e939dc"/>
+<circle cx="850.0" cy="450.0" r="13" fill="#f1a975"/>
+<circle cx="850.0" cy="450.0" r="5" fill="#e939dc"/>
+<circle cx="850.0" cy="450.0" r="-1" fill="#f1a975"/>
+<circle cx="850.0" cy="450.0" r="-6" fill="#f8efc9"/>
+<rect x="0" y="500" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="50.0" cy="550.0" r="43" fill="#e939dc"/>
+<circle cx="50.0" cy="550.0" r="39" fill="#f8efc9"/>
+<circle cx="50.0" cy="550.0" r="34" fill="#e939dc"/>
+<circle cx="50.0" cy="550.0" r="25" fill="#e939dc"/>
+<circle cx="50.0" cy="550.0" r="18" fill="#e939dc"/>
+<circle cx="50.0" cy="550.0" r="9" fill="#f4ec8e"/>
+<circle cx="50.0" cy="550.0" r="6" fill="#f1a975"/>
+<circle cx="50.0" cy="550.0" r="-3" fill="#e31794"/>
+<circle cx="50.0" cy="550.0" r="-5" fill="#e31794"/>
+<circle cx="50.0" cy="550.0" r="-10" fill="#f4ec8e"/>
+<rect x="100" y="500" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="150.0" cy="550.0" r="43" fill="#f8efc9"/>
+<circle cx="150.0" cy="550.0" r="34" fill="#f8efc9"/>
+<circle cx="150.0" cy="550.0" r="32" fill="#f4ec8e"/>
+<circle cx="150.0" cy="550.0" r="24" fill="#e939dc"/>
+<circle cx="150.0" cy="550.0" r="22" fill="#e939dc"/>
+<circle cx="150.0" cy="550.0" r="14" fill="#f4ec8e"/>
+<circle cx="150.0" cy="550.0" r="6" fill="#e31794"/>
+<circle cx="150.0" cy="550.0" r="1" fill="#e939dc"/>
+<circle cx="150.0" cy="550.0" r="-8" fill="#e939dc"/>
+<circle cx="150.0" cy="550.0" r="-17" fill="#f1a975"/>
+<rect x="200" y="500" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="250.0" cy="550.0" r="48" fill="#f1a975"/>
+<circle cx="250.0" cy="550.0" r="46" fill="#f8efc9"/>
+<circle cx="250.0" cy="550.0" r="43" fill="#f4ec8e"/>
+<circle cx="250.0" cy="550.0" r="39" fill="#e939dc"/>
+<circle cx="250.0" cy="550.0" r="34" fill="#e31794"/>
+<circle cx="250.0" cy="550.0" r="30" fill="#e31794"/>
+<circle cx="250.0" cy="550.0" r="25" fill="#f8efc9"/>
+<circle cx="250.0" cy="550.0" r="18" fill="#e31794"/>
+<circle cx="250.0" cy="550.0" r="16" fill="#e31794"/>
+<circle cx="250.0" cy="550.0" r="10" fill="#e31794"/>
+<rect x="300" y="500" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="350.0" cy="550.0" r="41" fill="#f4ec8e"/>
+<circle cx="350.0" cy="550.0" r="32" fill="#f8efc9"/>
+<circle cx="350.0" cy="550.0" r="23" fill="#e31794"/>
+<circle cx="350.0" cy="550.0" r="18" fill="#e939dc"/>
+<circle cx="350.0" cy="550.0" r="15" fill="#f8efc9"/>
+<circle cx="350.0" cy="550.0" r="13" fill="#f4ec8e"/>
+<circle cx="350.0" cy="550.0" r="8" fill="#f1a975"/>
+<circle cx="350.0" cy="550.0" r="-1" fill="#e31794"/>
+<circle cx="350.0" cy="550.0" r="-3" fill="#f1a975"/>
+<circle cx="350.0" cy="550.0" r="-11" fill="#f8efc9"/>
+<rect x="400" y="500" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="450.0" cy="550.0" r="46" fill="#f8efc9"/>
+<circle cx="450.0" cy="550.0" r="37" fill="#e31794"/>
+<circle cx="450.0" cy="550.0" r="35" fill="#f4ec8e"/>
+<circle cx="450.0" cy="550.0" r="29" fill="#f4ec8e"/>
+<circle cx="450.0" cy="550.0" r="26" fill="#e31794"/>
+<circle cx="450.0" cy="550.0" r="22" fill="#e939dc"/>
+<circle cx="450.0" cy="550.0" r="17" fill="#e31794"/>
+<circle cx="450.0" cy="550.0" r="10" fill="#e939dc"/>
+<circle cx="450.0" cy="550.0" r="1" fill="#e939dc"/>
+<circle cx="450.0" cy="550.0" r="-3" fill="#e31794"/>
+<rect x="500" y="500" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="550.0" cy="550.0" r="47" fill="#f1a975"/>
+<circle cx="550.0" cy="550.0" r="38" fill="#e939dc"/>
+<circle cx="550.0" cy="550.0" r="31" fill="#e31794"/>
+<circle cx="550.0" cy="550.0" r="23" fill="#f1a975"/>
+<circle cx="550.0" cy="550.0" r="19" fill="#e939dc"/>
+<circle cx="550.0" cy="550.0" r="11" fill="#f1a975"/>
+<circle cx="550.0" cy="550.0" r="7" fill="#f8efc9"/>
+<circle cx="550.0" cy="550.0" r="3" fill="#f8efc9"/>
+<circle cx="550.0" cy="550.0" r="0" fill="#f8efc9"/>
+<circle cx="550.0" cy="550.0" r="-4" fill="#f4ec8e"/>
+<rect x="600" y="500" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="650.0" cy="550.0" r="42" fill="#f1a975"/>
+<circle cx="650.0" cy="550.0" r="36" fill="#f8efc9"/>
+<circle cx="650.0" cy="550.0" r="27" fill="#f8efc9"/>
+<circle cx="650.0" cy="550.0" r="25" fill="#f4ec8e"/>
+<circle cx="650.0" cy="550.0" r="16" fill="#e939dc"/>
+<circle cx="650.0" cy="550.0" r="10" fill="#e939dc"/>
+<circle cx="650.0" cy="550.0" r="2" fill="#e939dc"/>
+<circle cx="650.0" cy="550.0" r="-7" fill="#e31794"/>
+<circle cx="650.0" cy="550.0" r="-16" fill="#f4ec8e"/>
+<circle cx="650.0" cy="550.0" r="-22" fill="#e31794"/>
+<rect x="700" y="500" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="750.0" cy="550.0" r="45" fill="#f4ec8e"/>
+<circle cx="750.0" cy="550.0" r="42" fill="#e31794"/>
+<circle cx="750.0" cy="550.0" r="39" fill="#e939dc"/>
+<circle cx="750.0" cy="550.0" r="31" fill="#f8efc9"/>
+<circle cx="750.0" cy="550.0" r="25" fill="#f1a975"/>
+<circle cx="750.0" cy="550.0" r="21" fill="#f1a975"/>
+<circle cx="750.0" cy="550.0" r="19" fill="#f4ec8e"/>
+<circle cx="750.0" cy="550.0" r="16" fill="#e31794"/>
+<circle cx="750.0" cy="550.0" r="9" fill="#f4ec8e"/>
+<circle cx="750.0" cy="550.0" r="2" fill="#f8efc9"/>
+<rect x="800" y="500" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="850.0" cy="550.0" r="44" fill="#e31794"/>
+<circle cx="850.0" cy="550.0" r="37" fill="#e31794"/>
+<circle cx="850.0" cy="550.0" r="33" fill="#e31794"/>
+<circle cx="850.0" cy="550.0" r="31" fill="#e31794"/>
+<circle cx="850.0" cy="550.0" r="29" fill="#e31794"/>
+<circle cx="850.0" cy="550.0" r="26" fill="#e939dc"/>
+<circle cx="850.0" cy="550.0" r="21" fill="#f4ec8e"/>
+<circle cx="850.0" cy="550.0" r="19" fill="#f1a975"/>
+<circle cx="850.0" cy="550.0" r="11" fill="#f1a975"/>
+<circle cx="850.0" cy="550.0" r="3" fill="#f8efc9"/>
+<rect x="0" y="600" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="50.0" cy="650.0" r="46" fill="#f8efc9"/>
+<circle cx="50.0" cy="650.0" r="37" fill="#e939dc"/>
+<circle cx="50.0" cy="650.0" r="34" fill="#e939dc"/>
+<circle cx="50.0" cy="650.0" r="28" fill="#e939dc"/>
+<circle cx="50.0" cy="650.0" r="24" fill="#e939dc"/>
+<circle cx="50.0" cy="650.0" r="16" fill="#f4ec8e"/>
+<circle cx="50.0" cy="650.0" r="10" fill="#e939dc"/>
+<circle cx="50.0" cy="650.0" r="3" fill="#f4ec8e"/>
+<circle cx="50.0" cy="650.0" r="0" fill="#f4ec8e"/>
+<circle cx="50.0" cy="650.0" r="-5" fill="#f1a975"/>
+<rect x="100" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="150.0" cy="650.0" r="47" fill="#f4ec8e"/>
+<circle cx="150.0" cy="650.0" r="38" fill="#f8efc9"/>
+<circle cx="150.0" cy="650.0" r="36" fill="#e939dc"/>
+<circle cx="150.0" cy="650.0" r="33" fill="#e31794"/>
+<circle cx="150.0" cy="650.0" r="31" fill="#e939dc"/>
+<circle cx="150.0" cy="650.0" r="22" fill="#f1a975"/>
+<circle cx="150.0" cy="650.0" r="16" fill="#f8efc9"/>
+<circle cx="150.0" cy="650.0" r="7" fill="#e939dc"/>
+<circle cx="150.0" cy="650.0" r="4" fill="#e939dc"/>
+<circle cx="150.0" cy="650.0" r="-4" fill="#f4ec8e"/>
+<rect x="200" y="600" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="250.0" cy="650.0" r="47" fill="#f8efc9"/>
+<circle cx="250.0" cy="650.0" r="41" fill="#e31794"/>
+<circle cx="250.0" cy="650.0" r="35" fill="#f8efc9"/>
+<circle cx="250.0" cy="650.0" r="26" fill="#f4ec8e"/>
+<circle cx="250.0" cy="650.0" r="22" fill="#e31794"/>
+<circle cx="250.0" cy="650.0" r="17" fill="#f8efc9"/>
+<circle cx="250.0" cy="650.0" r="15" fill="#e31794"/>
+<circle cx="250.0" cy="650.0" r="13" fill="#f1a975"/>
+<circle cx="250.0" cy="650.0" r="9" fill="#f1a975"/>
+<circle cx="250.0" cy="650.0" r="5" fill="#e939dc"/>
+<rect x="300" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="350.0" cy="650.0" r="46" fill="#f4ec8e"/>
+<circle cx="350.0" cy="650.0" r="38" fill="#f4ec8e"/>
+<circle cx="350.0" cy="650.0" r="29" fill="#e939dc"/>
+<circle cx="350.0" cy="650.0" r="21" fill="#f1a975"/>
+<circle cx="350.0" cy="650.0" r="18" fill="#e939dc"/>
+<circle cx="350.0" cy="650.0" r="13" fill="#e31794"/>
+<circle cx="350.0" cy="650.0" r="5" fill="#f1a975"/>
+<circle cx="350.0" cy="650.0" r="-3" fill="#f4ec8e"/>
+<circle cx="350.0" cy="650.0" r="-10" fill="#f1a975"/>
+<circle cx="350.0" cy="650.0" r="-16" fill="#f1a975"/>
+<rect x="400" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="450.0" cy="650.0" r="42" fill="#f8efc9"/>
+<circle cx="450.0" cy="650.0" r="33" fill="#f1a975"/>
+<circle cx="450.0" cy="650.0" r="24" fill="#f1a975"/>
+<circle cx="450.0" cy="650.0" r="21" fill="#e939dc"/>
+<circle cx="450.0" cy="650.0" r="17" fill="#f4ec8e"/>
+<circle cx="450.0" cy="650.0" r="9" fill="#f4ec8e"/>
+<circle cx="450.0" cy="650.0" r="7" fill="#f1a975"/>
+<circle cx="450.0" cy="650.0" r="1" fill="#e31794"/>
+<circle cx="450.0" cy="650.0" r="-7" fill="#e939dc"/>
+<circle cx="450.0" cy="650.0" r="-11" fill="#f4ec8e"/>
+<rect x="500" y="600" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="550.0" cy="650.0" r="44" fill="#f1a975"/>
+<circle cx="550.0" cy="650.0" r="38" fill="#f8efc9"/>
+<circle cx="550.0" cy="650.0" r="35" fill="#e939dc"/>
+<circle cx="550.0" cy="650.0" r="31" fill="#e31794"/>
+<circle cx="550.0" cy="650.0" r="24" fill="#f4ec8e"/>
+<circle cx="550.0" cy="650.0" r="17" fill="#e939dc"/>
+<circle cx="550.0" cy="650.0" r="15" fill="#f4ec8e"/>
+<circle cx="550.0" cy="650.0" r="8" fill="#f1a975"/>
+<circle cx="550.0" cy="650.0" r="-1" fill="#e31794"/>
+<circle cx="550.0" cy="650.0" r="-6" fill="#e939dc"/>
+<rect x="600" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="650.0" cy="650.0" r="44" fill="#f8efc9"/>
+<circle cx="650.0" cy="650.0" r="36" fill="#f8efc9"/>
+<circle cx="650.0" cy="650.0" r="30" fill="#f1a975"/>
+<circle cx="650.0" cy="650.0" r="26" fill="#f1a975"/>
+<circle cx="650.0" cy="650.0" r="21" fill="#f8efc9"/>
+<circle cx="650.0" cy="650.0" r="15" fill="#f4ec8e"/>
+<circle cx="650.0" cy="650.0" r="9" fill="#f4ec8e"/>
+<circle cx="650.0" cy="650.0" r="2" fill="#f8efc9"/>
+<circle cx="650.0" cy="650.0" r="-6" fill="#f4ec8e"/>
+<circle cx="650.0" cy="650.0" r="-9" fill="#e31794"/>
+<rect x="700" y="600" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="750.0" cy="650.0" r="41" fill="#e939dc"/>
+<circle cx="750.0" cy="650.0" r="34" fill="#e31794"/>
+<circle cx="750.0" cy="650.0" r="31" fill="#f4ec8e"/>
+<circle cx="750.0" cy="650.0" r="26" fill="#f8efc9"/>
+<circle cx="750.0" cy="650.0" r="21" fill="#e939dc"/>
+<circle cx="750.0" cy="650.0" r="16" fill="#e939dc"/>
+<circle cx="750.0" cy="650.0" r="8" fill="#f8efc9"/>
+<circle cx="750.0" cy="650.0" r="0" fill="#f4ec8e"/>
+<circle cx="750.0" cy="650.0" r="-4" fill="#f8efc9"/>
+<circle cx="750.0" cy="650.0" r="-11" fill="#e939dc"/>
+<rect x="800" y="600" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="850.0" cy="650.0" r="45" fill="#f8efc9"/>
+<circle cx="850.0" cy="650.0" r="41" fill="#e939dc"/>
+<circle cx="850.0" cy="650.0" r="36" fill="#e31794"/>
+<circle cx="850.0" cy="650.0" r="29" fill="#e939dc"/>
+<circle cx="850.0" cy="650.0" r="24" fill="#f1a975"/>
+<circle cx="850.0" cy="650.0" r="18" fill="#e939dc"/>
+<circle cx="850.0" cy="650.0" r="15" fill="#f8efc9"/>
+<circle cx="850.0" cy="650.0" r="8" fill="#e939dc"/>
+<circle cx="850.0" cy="650.0" r="0" fill="#e31794"/>
+<circle cx="850.0" cy="650.0" r="-3" fill="#e31794"/>
+<rect x="0" y="700" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="50.0" cy="750.0" r="48" fill="#e939dc"/>
+<circle cx="50.0" cy="750.0" r="42" fill="#f4ec8e"/>
+<circle cx="50.0" cy="750.0" r="37" fill="#f1a975"/>
+<circle cx="50.0" cy="750.0" r="31" fill="#f4ec8e"/>
+<circle cx="50.0" cy="750.0" r="29" fill="#f1a975"/>
+<circle cx="50.0" cy="750.0" r="21" fill="#e31794"/>
+<circle cx="50.0" cy="750.0" r="16" fill="#e939dc"/>
+<circle cx="50.0" cy="750.0" r="14" fill="#f4ec8e"/>
+<circle cx="50.0" cy="750.0" r="7" fill="#f4ec8e"/>
+<circle cx="50.0" cy="750.0" r="0" fill="#f8efc9"/>
+<rect x="100" y="700" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="150.0" cy="750.0" r="43" fill="#e939dc"/>
+<circle cx="150.0" cy="750.0" r="39" fill="#f8efc9"/>
+<circle cx="150.0" cy="750.0" r="36" fill="#f1a975"/>
+<circle cx="150.0" cy="750.0" r="27" fill="#f8efc9"/>
+<circle cx="150.0" cy="750.0" r="24" fill="#e939dc"/>
+<circle cx="150.0" cy="750.0" r="16" fill="#f8efc9"/>
+<circle cx="150.0" cy="750.0" r="11" fill="#f8efc9"/>
+<circle cx="150.0" cy="750.0" r="3" fill="#e31794"/>
+<circle cx="150.0" cy="750.0" r="0" fill="#e939dc"/>
+<circle cx="150.0" cy="750.0" r="-5" fill="#f4ec8e"/>
+<rect x="200" y="700" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="250.0" cy="750.0" r="47" fill="#f4ec8e"/>
+<circle cx="250.0" cy="750.0" r="39" fill="#f8efc9"/>
+<circle cx="250.0" cy="750.0" r="31" fill="#f1a975"/>
+<circle cx="250.0" cy="750.0" r="25" fill="#f1a975"/>
+<circle cx="250.0" cy="750.0" r="20" fill="#e31794"/>
+<circle cx="250.0" cy="750.0" r="16" fill="#f8efc9"/>
+<circle cx="250.0" cy="750.0" r="9" fill="#f8efc9"/>
+<circle cx="250.0" cy="750.0" r="5" fill="#f4ec8e"/>
+<circle cx="250.0" cy="750.0" r="2" fill="#f1a975"/>
+<circle cx="250.0" cy="750.0" r="-6" fill="#f4ec8e"/>
+<rect x="300" y="700" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="350.0" cy="750.0" r="41" fill="#f8efc9"/>
+<circle cx="350.0" cy="750.0" r="34" fill="#f4ec8e"/>
+<circle cx="350.0" cy="750.0" r="31" fill="#f8efc9"/>
+<circle cx="350.0" cy="750.0" r="26" fill="#f4ec8e"/>
+<circle cx="350.0" cy="750.0" r="23" fill="#e939dc"/>
+<circle cx="350.0" cy="750.0" r="15" fill="#f1a975"/>
+<circle cx="350.0" cy="750.0" r="13" fill="#f4ec8e"/>
+<circle cx="350.0" cy="750.0" r="6" fill="#f4ec8e"/>
+<circle cx="350.0" cy="750.0" r="-2" fill="#f1a975"/>
+<circle cx="350.0" cy="750.0" r="-6" fill="#f4ec8e"/>
+<rect x="400" y="700" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="450.0" cy="750.0" r="41" fill="#f8efc9"/>
+<circle cx="450.0" cy="750.0" r="36" fill="#f1a975"/>
+<circle cx="450.0" cy="750.0" r="32" fill="#f8efc9"/>
+<circle cx="450.0" cy="750.0" r="23" fill="#e939dc"/>
+<circle cx="450.0" cy="750.0" r="21" fill="#e939dc"/>
+<circle cx="450.0" cy="750.0" r="16" fill="#f4ec8e"/>
+<circle cx="450.0" cy="750.0" r="8" fill="#f4ec8e"/>
+<circle cx="450.0" cy="750.0" r="5" fill="#f4ec8e"/>
+<circle cx="450.0" cy="750.0" r="-1" fill="#e939dc"/>
+<circle cx="450.0" cy="750.0" r="-8" fill="#f8efc9"/>
+<rect x="500" y="700" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="550.0" cy="750.0" r="47" fill="#f1a975"/>
+<circle cx="550.0" cy="750.0" r="38" fill="#e31794"/>
+<circle cx="550.0" cy="750.0" r="33" fill="#f4ec8e"/>
+<circle cx="550.0" cy="750.0" r="30" fill="#f1a975"/>
+<circle cx="550.0" cy="750.0" r="23" fill="#e31794"/>
+<circle cx="550.0" cy="750.0" r="20" fill="#e31794"/>
+<circle cx="550.0" cy="750.0" r="13" fill="#f4ec8e"/>
+<circle cx="550.0" cy="750.0" r="7" fill="#e31794"/>
+<circle cx="550.0" cy="750.0" r="-1" fill="#e31794"/>
+<circle cx="550.0" cy="750.0" r="-7" fill="#e939dc"/>
+<rect x="600" y="700" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="650.0" cy="750.0" r="47" fill="#f8efc9"/>
+<circle cx="650.0" cy="750.0" r="45" fill="#f8efc9"/>
+<circle cx="650.0" cy="750.0" r="37" fill="#e31794"/>
+<circle cx="650.0" cy="750.0" r="30" fill="#e31794"/>
+<circle cx="650.0" cy="750.0" r="26" fill="#f8efc9"/>
+<circle cx="650.0" cy="750.0" r="18" fill="#f8efc9"/>
+<circle cx="650.0" cy="750.0" r="14" fill="#f8efc9"/>
+<circle cx="650.0" cy="750.0" r="7" fill="#e939dc"/>
+<circle cx="650.0" cy="750.0" r="2" fill="#f8efc9"/>
+<circle cx="650.0" cy="750.0" r="-3" fill="#f8efc9"/>
+<rect x="700" y="700" width="100" height="100" fill="#595959" stroke="none" />
+<circle cx="750.0" cy="750.0" r="45" fill="#e939dc"/>
+<circle cx="750.0" cy="750.0" r="38" fill="#f1a975"/>
+<circle cx="750.0" cy="750.0" r="36" fill="#f8efc9"/>
+<circle cx="750.0" cy="750.0" r="34" fill="#f1a975"/>
+<circle cx="750.0" cy="750.0" r="29" fill="#f8efc9"/>
+<circle cx="750.0" cy="750.0" r="25" fill="#f1a975"/>
+<circle cx="750.0" cy="750.0" r="23" fill="#f1a975"/>
+<circle cx="750.0" cy="750.0" r="18" fill="#f8efc9"/>
+<circle cx="750.0" cy="750.0" r="12" fill="#e31794"/>
+<circle cx="750.0" cy="750.0" r="7" fill="#f4ec8e"/>
+<rect x="800" y="700" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="850.0" cy="750.0" r="42" fill="#f1a975"/>
+<circle cx="850.0" cy="750.0" r="37" fill="#e939dc"/>
+<circle cx="850.0" cy="750.0" r="32" fill="#f4ec8e"/>
+<circle cx="850.0" cy="750.0" r="28" fill="#f4ec8e"/>
+<circle cx="850.0" cy="750.0" r="20" fill="#f1a975"/>
+<circle cx="850.0" cy="750.0" r="16" fill="#f8efc9"/>
+<circle cx="850.0" cy="750.0" r="13" fill="#f4ec8e"/>
+<circle cx="850.0" cy="750.0" r="5" fill="#f1a975"/>
+<circle cx="850.0" cy="750.0" r="3" fill="#f4ec8e"/>
+<circle cx="850.0" cy="750.0" r="-3" fill="#e31794"/>
+<rect x="0" y="800" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<circle cx="50.0" cy="850.0" r="46" fill="#e31794"/>
+<circle cx="50.0" cy="850.0" r="43" fill="#e939dc"/>
+<circle cx="50.0" cy="850.0" r="36" fill="#e939dc"/>
+<circle cx="50.0" cy="850.0" r="34" fill="#f4ec8e"/>
+<circle cx="50.0" cy="850.0" r="29" fill="#f4ec8e"/>
+<circle cx="50.0" cy="850.0" r="20" fill="#e31794"/>
+<circle cx="50.0" cy="850.0" r="12" fill="#f8efc9"/>
+<circle cx="50.0" cy="850.0" r="7" fill="#e939dc"/>
+<circle cx="50.0" cy="850.0" r="-2" fill="#e31794"/>
+<circle cx="50.0" cy="850.0" r="-6" fill="#e939dc"/>
+<rect x="100" y="800" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="150.0" cy="850.0" r="45" fill="#f4ec8e"/>
+<circle cx="150.0" cy="850.0" r="42" fill="#f1a975"/>
+<circle cx="150.0" cy="850.0" r="37" fill="#e31794"/>
+<circle cx="150.0" cy="850.0" r="28" fill="#e939dc"/>
+<circle cx="150.0" cy="850.0" r="19" fill="#e31794"/>
+<circle cx="150.0" cy="850.0" r="11" fill="#f1a975"/>
+<circle cx="150.0" cy="850.0" r="4" fill="#f1a975"/>
+<circle cx="150.0" cy="850.0" r="-1" fill="#f1a975"/>
+<circle cx="150.0" cy="850.0" r="-9" fill="#f8efc9"/>
+<circle cx="150.0" cy="850.0" r="-11" fill="#e939dc"/>
+<rect x="200" y="800" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="250.0" cy="850.0" r="43" fill="#f4ec8e"/>
+<circle cx="250.0" cy="850.0" r="41" fill="#e939dc"/>
+<circle cx="250.0" cy="850.0" r="33" fill="#e939dc"/>
+<circle cx="250.0" cy="850.0" r="24" fill="#e939dc"/>
+<circle cx="250.0" cy="850.0" r="16" fill="#f8efc9"/>
+<circle cx="250.0" cy="850.0" r="7" fill="#e31794"/>
+<circle cx="250.0" cy="850.0" r="0" fill="#f4ec8e"/>
+<circle cx="250.0" cy="850.0" r="-4" fill="#e31794"/>
+<circle cx="250.0" cy="850.0" r="-8" fill="#f8efc9"/>
+<circle cx="250.0" cy="850.0" r="-15" fill="#e31794"/>
+<rect x="300" y="800" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="350.0" cy="850.0" r="47" fill="#e31794"/>
+<circle cx="350.0" cy="850.0" r="45" fill="#e939dc"/>
+<circle cx="350.0" cy="850.0" r="40" fill="#f4ec8e"/>
+<circle cx="350.0" cy="850.0" r="38" fill="#e31794"/>
+<circle cx="350.0" cy="850.0" r="34" fill="#e939dc"/>
+<circle cx="350.0" cy="850.0" r="29" fill="#f8efc9"/>
+<circle cx="350.0" cy="850.0" r="26" fill="#e939dc"/>
+<circle cx="350.0" cy="850.0" r="17" fill="#f4ec8e"/>
+<circle cx="350.0" cy="850.0" r="8" fill="#e939dc"/>
+<circle cx="350.0" cy="850.0" r="2" fill="#f1a975"/>
+<rect x="400" y="800" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="450.0" cy="850.0" r="41" fill="#f1a975"/>
+<circle cx="450.0" cy="850.0" r="38" fill="#e939dc"/>
+<circle cx="450.0" cy="850.0" r="32" fill="#e939dc"/>
+<circle cx="450.0" cy="850.0" r="26" fill="#e31794"/>
+<circle cx="450.0" cy="850.0" r="18" fill="#e31794"/>
+<circle cx="450.0" cy="850.0" r="9" fill="#f1a975"/>
+<circle cx="450.0" cy="850.0" r="5" fill="#f8efc9"/>
+<circle cx="450.0" cy="850.0" r="-4" fill="#f8efc9"/>
+<circle cx="450.0" cy="850.0" r="-6" fill="#f4ec8e"/>
+<circle cx="450.0" cy="850.0" r="-13" fill="#f8efc9"/>
+<rect x="500" y="800" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<circle cx="550.0" cy="850.0" r="48" fill="#f1a975"/>
+<circle cx="550.0" cy="850.0" r="41" fill="#f4ec8e"/>
+<circle cx="550.0" cy="850.0" r="38" fill="#f4ec8e"/>
+<circle cx="550.0" cy="850.0" r="34" fill="#e939dc"/>
+<circle cx="550.0" cy="850.0" r="31" fill="#e939dc"/>
+<circle cx="550.0" cy="850.0" r="26" fill="#e939dc"/>
+<circle cx="550.0" cy="850.0" r="17" fill="#f4ec8e"/>
+<circle cx="550.0" cy="850.0" r="11" fill="#e939dc"/>
+<circle cx="550.0" cy="850.0" r="4" fill="#f4ec8e"/>
+<circle cx="550.0" cy="850.0" r="2" fill="#f8efc9"/>
+<rect x="600" y="800" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="650.0" cy="850.0" r="45" fill="#f8efc9"/>
+<circle cx="650.0" cy="850.0" r="41" fill="#f1a975"/>
+<circle cx="650.0" cy="850.0" r="36" fill="#f8efc9"/>
+<circle cx="650.0" cy="850.0" r="27" fill="#e31794"/>
+<circle cx="650.0" cy="850.0" r="25" fill="#f8efc9"/>
+<circle cx="650.0" cy="850.0" r="18" fill="#e939dc"/>
+<circle cx="650.0" cy="850.0" r="11" fill="#e31794"/>
+<circle cx="650.0" cy="850.0" r="8" fill="#e939dc"/>
+<circle cx="650.0" cy="850.0" r="6" fill="#e31794"/>
+<circle cx="650.0" cy="850.0" r="4" fill="#e939dc"/>
+<rect x="700" y="800" width="100" height="100" fill="#cccccc" stroke="none" />
+<circle cx="750.0" cy="850.0" r="43" fill="#f8efc9"/>
+<circle cx="750.0" cy="850.0" r="34" fill="#e31794"/>
+<circle cx="750.0" cy="850.0" r="25" fill="#f8efc9"/>
+<circle cx="750.0" cy="850.0" r="23" fill="#f4ec8e"/>
+<circle cx="750.0" cy="850.0" r="14" fill="#f1a975"/>
+<circle cx="750.0" cy="850.0" r="7" fill="#e31794"/>
+<circle cx="750.0" cy="850.0" r="1" fill="#f1a975"/>
+<circle cx="750.0" cy="850.0" r="-7" fill="#f4ec8e"/>
+<circle cx="750.0" cy="850.0" r="-10" fill="#e31794"/>
+<circle cx="750.0" cy="850.0" r="-15" fill="#f8efc9"/>
+<rect x="800" y="800" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<circle cx="850.0" cy="850.0" r="42" fill="#e31794"/>
+<circle cx="850.0" cy="850.0" r="38" fill="#f4ec8e"/>
+<circle cx="850.0" cy="850.0" r="30" fill="#f8efc9"/>
+<circle cx="850.0" cy="850.0" r="25" fill="#f4ec8e"/>
+<circle cx="850.0" cy="850.0" r="16" fill="#e31794"/>
+<circle cx="850.0" cy="850.0" r="13" fill="#f4ec8e"/>
+<circle cx="850.0" cy="850.0" r="4" fill="#e31794"/>
+<circle cx="850.0" cy="850.0" r="0" fill="#f8efc9"/>
+<circle cx="850.0" cy="850.0" r="-5" fill="#f8efc9"/>
+<circle cx="850.0" cy="850.0" r="-9" fill="#f8efc9"/>
+</svg>
