@@ -4,6 +4,8 @@ Diese Scriptsammlung dient dazu, durch verschieden Algorithmen einfache und zuf�
 
 Zusätzlich zu den SVG-Files können auch PDF, PNG Dateien erzeugt werden. Bei jedem Durchgang die verwendeten Parameter gesichert in einem eigenen File gesichert. Unter dem Verzeichnis sind zwei Files (Forground, Background) mit Farbpaletten, dadurch können zufällige erzeugte Farben erstellt werden. Die erzeugten Files werden unter dem Directory ./output abgelegt.
 
+Zur Zeit ist das Config-File "hard coded" im Programm hinterlegt. Alls nächstes soll es möglich sein, beim Aufruf des Scriptes das Config-File als Parameter übergeben zu können. 
+
 -----------------------------
 
 This collection of scripts is used to create simple and random SVG images using different algorithms. Various parameters in the config files can be influenced. The parameters are mostly self-explanatory (documentation is still to be created).
