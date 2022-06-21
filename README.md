@@ -1,11 +1,15 @@
 # Random Art Generator 2
 
-Diese Scriptsamlung diehnt dazu, durch verschieden Algoritmen einfache und zufällige SVG Bilder zu erzeigen.
-Es können diverse Parameter in den Coonfig-Files beinflusst werden. Die Parameter sind meistens selbst erklärend (Dokumentation muss noch erstellt werden)
+Diese Scriptsammlung dient dazu, durch verschieden Algorithmen einfache und zufällige SVG Bilder zu erzeigen. Es können diverse Parameter in den Config-Files beeinflusst werden. Die Parameter sind meistens selbst erklärend (Dokumentation muss noch erstellt werden)
 
-Zusätzlich zu den SVG-Files können auch PDF, PNG Dateien erzeugt werden. Bei jedem Durchgang die verwendeten Parameter gesichert in einem eigenen File gesichtert.
-Unter dem Verzeichnis sind zwei Files (Forground, Background) mit Farbpaletten, dadurch können zufällige erzeugte Farben erstellt werden.
-Dier erzeugten files werden unter dem Directoy ./output abgelegt.
+Zusätzlich zu den SVG-Files können auch PDF, PNG Dateien erzeugt werden. Bei jedem Durchgang die verwendeten Parameter gesichert in einem eigenen File gesichert. Unter dem Verzeichnis sind zwei Files (Forground, Background) mit Farbpaletten, dadurch können zufällige erzeugte Farben erstellt werden. Die erzeugten Files werden unter dem Directory ./output abgelegt.
+
+-----------------------------
+
+This collection of scripts is used to create simple and random SVG images using different algorithms. Various parameters in the config files can be influenced. The parameters are mostly self-explanatory (documentation is still to be created).
+
+In addition to SVG files, PDF, PNG files can be created. At each run the used parameters are saved in a separate file. Under the directory are two files (Forground, Background) with color palettes, so random generated colors can be created. The created files are stored in the directory ./output.
+
 
 * tci-random_art_svg-line-star.py   -> erzeugt zufällig verteilte Sterne
 * tci-random_art_svg-only-circle.py -> erzeugt zufällig verteilte Keise
