@@ -1,0 +1,31 @@
+---
+general:
+  titel: TCI Generativ Art Generator 2 Lines Only
+  describtion: Generiert mit Python
+  date: 'yes'                                              # (yes / no) puts the creation date in the header
+  autor: 'Thomas Cigolla'
+  license: CC BY-NC 4.0
+  make_png: 'yes'                                          # (yes / no)
+  make_pdf: 'no'                                           # (yes / no)
+  forground_colors: './assets/color_forground.yaml'
+  background_colors: './assets/color_background.yaml'
+note:
+  show_palette: 'no'                  # (yes / no) Shows the used palette on the output file
+grid:
+  fields_x: 9
+  fields_y: 9
+  rectwidth: 100
+  rectheight: 100
+  background_color_fill: white               # none, color name (red) or hex
+# ##################################################
+line:
+  forground_fill: palette  
+  change_color: 'yes'                # (yes / no)
+  number_lines: 500
+  degree_min: 15
+  degree_max: 180
+  line_length_min: 200
+  line_length_max: 600
+  strok_width_min: 2
+  strok_width_max: 10
+

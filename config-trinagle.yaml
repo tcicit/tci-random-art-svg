@@ -1,0 +1,65 @@
+---
+general:
+  titel: TCI Generativ Art Generator 2 Lines Only
+  describtion: Generiert mit Python
+  date: 'yes'                                              # (yes / no) puts the creation date in the header
+  autor: 'Thomas Cigolla'
+  license: CC BY-NC 4.0
+  make_png: 'yes'                                          # (yes / no)
+  make_pdf: 'no'                                           # (yes / no)
+  forground_colors: './assets/color_forground.yaml'
+  background_colors: './assets/color_background.yaml'
+note:
+  show_palette: 'no'                  # (yes / no) Shows the used palette on the output file
+grid:
+  fields_x: 9
+  fields_y: 9
+  rectwidth: 100
+  rectheight: 100
+  background_color_fill: none              # none, color name (red) or hex
+  # ################################################
+rect:
+  use_rect: 'yes'                     # (yes / no)
+  background_fill: palette # Parmeters: none, color by name or hex, background_palette
+  forground_fill: palette                # Parmeters: none, color by name or hex, forground_palette    
+  stroke_fill: palette           # Parmeters: none, color by name or hex, background_palette
+  stroke-width: 5
+  number_inner_object: 15             # You can add more object 
+  shrink_x: 5
+  shrink_y: 5
+  rotate: "none"
+  rotate_angle: 2
+  transform_random: 'yes'
+  transform_random_randrange:
+  - -2
+  - 2
+circle:
+  use_circle: 'no'
+  number_inner_object: 100
+  random_shrink: 'yes'
+  random_shrink_randrange:
+  - 2
+  - 10
+  shrink: 5
+  circle_radius: 500
+  semicircle_only: 'no'               # (yes / no)
+triangle:
+  use_triangle: 'yes'
+  number_inner_object: 30
+line:
+  number_lines: 600
+  change_color: 'no'                # (yes / no)
+  degree_min: 0
+  degree_max: 15
+  line_length_min: 200
+  line_length_max: 400
+  strok_width_min: 2
+  strok_width_max: 8
+stars:
+  degree: 15
+  number_stars: 15
+  change_color: 'no'             # (yes / no)
+  line_length_min: 40
+  line_length_max: 200
+  strok_width_min: 2
+  strok_width_max: 8
