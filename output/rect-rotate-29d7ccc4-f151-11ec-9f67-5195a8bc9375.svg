@@ -1,0 +1,1717 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            version="1.1" 
+            baseProfile="full"
+            width="900" height="900"
+            viewBox="0 0 900 900">
+            <title>TCI Generativ Art Generator 2 Lines Only</title>
+            <desc>Generiert mit Python</desc>
+            <autor>Thomas Cigolla</autor>
+            <date>2022-06-21T12:59:03.829742</date>
+            <license>CC BY-NC 4.0</license>
+
+
+            <rect x="0" y="0" width="900" height="900" fill="none" />
+
+            <rect x="0" y="0" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="0" y="0" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(1, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="50.0" fill="#1565c0"/>
+<rect x="5" y="5" width="90" height="90" fill="#0d47a1" stroke="none" transform="rotate(1, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="45.0" fill="#e3f2fd"/>
+<rect x="10" y="10" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(1, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="40.0" fill="#bbdefb"/>
+<rect x="15" y="15" width="70" height="70" fill="#0d47a1" stroke="none" transform="rotate(-1, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="35.0" fill="#1976d2"/>
+<rect x="20" y="20" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(-1, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="30.0" fill="#2196f3"/>
+<rect x="25" y="25" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(-2, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="25.0" fill="#64b5f6"/>
+<rect x="30" y="30" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(-2, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="20.0" fill="#64b5f6"/>
+<rect x="35" y="35" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(1, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="15.0" fill="#64b5f6"/>
+<rect x="40" y="40" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(1, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="10.0" fill="#2196f3"/>
+<rect x="45" y="45" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(0, 50.0, 50.0)" />
+<circle cx="50.0" cy="50.0" r="5.0" fill="#1e88e5"/>
+<rect x="100" y="0" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="100" y="0" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(1, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="50.0" fill="#1e88e5"/>
+<rect x="105" y="5" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(-2, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="45.0" fill="#e3f2fd"/>
+<rect x="110" y="10" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(-1, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="40.0" fill="#1565c0"/>
+<rect x="115" y="15" width="70" height="70" fill="#bbdefb" stroke="none" transform="rotate(1, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="35.0" fill="#2196f3"/>
+<rect x="120" y="20" width="60" height="60" fill="#2196f3" stroke="none" transform="rotate(-2, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="30.0" fill="#64b5f6"/>
+<rect x="125" y="25" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(0, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="25.0" fill="#64b5f6"/>
+<rect x="130" y="30" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(1, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="20.0" fill="#64b5f6"/>
+<rect x="135" y="35" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-2, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="15.0" fill="#64b5f6"/>
+<rect x="140" y="40" width="20" height="20" fill="#42a5f5" stroke="none" transform="rotate(0, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="10.0" fill="#1565c0"/>
+<rect x="145" y="45" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(-1, 150.0, 50.0)" />
+<circle cx="150.0" cy="50.0" r="5.0" fill="#0d47a1"/>
+<rect x="200" y="0" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="200" y="0" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(0, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="50.0" fill="#bbdefb"/>
+<rect x="205" y="5" width="90" height="90" fill="#0d47a1" stroke="none" transform="rotate(-2, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="45.0" fill="#e3f2fd"/>
+<rect x="210" y="10" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(-1, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="40.0" fill="#1565c0"/>
+<rect x="215" y="15" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(0, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="35.0" fill="#bbdefb"/>
+<rect x="220" y="20" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(1, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="30.0" fill="#0d47a1"/>
+<rect x="225" y="25" width="50" height="50" fill="#64b5f6" stroke="none" transform="rotate(-2, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="25.0" fill="#1565c0"/>
+<rect x="230" y="30" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(-2, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="20.0" fill="#42a5f5"/>
+<rect x="235" y="35" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(0, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="15.0" fill="#1e88e5"/>
+<rect x="240" y="40" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(-2, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="10.0" fill="#e3f2fd"/>
+<rect x="245" y="45" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(-2, 250.0, 50.0)" />
+<circle cx="250.0" cy="50.0" r="5.0" fill="#2196f3"/>
+<rect x="300" y="0" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="300" y="0" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(0, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="50.0" fill="#1565c0"/>
+<rect x="305" y="5" width="90" height="90" fill="#1e88e5" stroke="none" transform="rotate(-1, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="45.0" fill="#64b5f6"/>
+<rect x="310" y="10" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(-1, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="40.0" fill="#90caf9"/>
+<rect x="315" y="15" width="70" height="70" fill="#64b5f6" stroke="none" transform="rotate(-2, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="35.0" fill="#2196f3"/>
+<rect x="320" y="20" width="60" height="60" fill="#bbdefb" stroke="none" transform="rotate(-2, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="30.0" fill="#bbdefb"/>
+<rect x="325" y="25" width="50" height="50" fill="#90caf9" stroke="none" transform="rotate(-1, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="25.0" fill="#0d47a1"/>
+<rect x="330" y="30" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(-2, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="20.0" fill="#90caf9"/>
+<rect x="335" y="35" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(-2, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="15.0" fill="#42a5f5"/>
+<rect x="340" y="40" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(-2, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="10.0" fill="#1e88e5"/>
+<rect x="345" y="45" width="10" height="10" fill="#0d47a1" stroke="none" transform="rotate(0, 350.0, 50.0)" />
+<circle cx="350.0" cy="50.0" r="5.0" fill="#1e88e5"/>
+<rect x="400" y="0" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="400" y="0" width="100" height="100" fill="#1e88e5" stroke="none" transform="rotate(0, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="50.0" fill="#bbdefb"/>
+<rect x="405" y="5" width="90" height="90" fill="#2196f3" stroke="none" transform="rotate(-1, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="45.0" fill="#1e88e5"/>
+<rect x="410" y="10" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(0, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="40.0" fill="#bbdefb"/>
+<rect x="415" y="15" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(0, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="35.0" fill="#90caf9"/>
+<rect x="420" y="20" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-2, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="30.0" fill="#0d47a1"/>
+<rect x="425" y="25" width="50" height="50" fill="#90caf9" stroke="none" transform="rotate(1, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="25.0" fill="#bbdefb"/>
+<rect x="430" y="30" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(-1, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="20.0" fill="#42a5f5"/>
+<rect x="435" y="35" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(0, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="15.0" fill="#90caf9"/>
+<rect x="440" y="40" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(-2, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="10.0" fill="#1976d2"/>
+<rect x="445" y="45" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-1, 450.0, 50.0)" />
+<circle cx="450.0" cy="50.0" r="5.0" fill="#42a5f5"/>
+<rect x="500" y="0" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="500" y="0" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(-2, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="50.0" fill="#1e88e5"/>
+<rect x="505" y="5" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(0, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="45.0" fill="#42a5f5"/>
+<rect x="510" y="10" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(0, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="40.0" fill="#42a5f5"/>
+<rect x="515" y="15" width="70" height="70" fill="#64b5f6" stroke="none" transform="rotate(1, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="35.0" fill="#90caf9"/>
+<rect x="520" y="20" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(-1, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="30.0" fill="#1e88e5"/>
+<rect x="525" y="25" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(0, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="25.0" fill="#1565c0"/>
+<rect x="530" y="30" width="40" height="40" fill="#0d47a1" stroke="none" transform="rotate(1, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="20.0" fill="#90caf9"/>
+<rect x="535" y="35" width="30" height="30" fill="#1976d2" stroke="none" transform="rotate(1, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="15.0" fill="#64b5f6"/>
+<rect x="540" y="40" width="20" height="20" fill="#42a5f5" stroke="none" transform="rotate(-1, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="10.0" fill="#1e88e5"/>
+<rect x="545" y="45" width="10" height="10" fill="#e3f2fd" stroke="none" transform="rotate(-1, 550.0, 50.0)" />
+<circle cx="550.0" cy="50.0" r="5.0" fill="#90caf9"/>
+<rect x="600" y="0" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="600" y="0" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(1, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="50.0" fill="#bbdefb"/>
+<rect x="605" y="5" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(0, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="45.0" fill="#1e88e5"/>
+<rect x="610" y="10" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(0, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="40.0" fill="#42a5f5"/>
+<rect x="615" y="15" width="70" height="70" fill="#1565c0" stroke="none" transform="rotate(0, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="35.0" fill="#2196f3"/>
+<rect x="620" y="20" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(-1, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="30.0" fill="#e3f2fd"/>
+<rect x="625" y="25" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(0, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="25.0" fill="#1565c0"/>
+<rect x="630" y="30" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(-1, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="20.0" fill="#64b5f6"/>
+<rect x="635" y="35" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(1, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="15.0" fill="#64b5f6"/>
+<rect x="640" y="40" width="20" height="20" fill="#0d47a1" stroke="none" transform="rotate(0, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="10.0" fill="#1e88e5"/>
+<rect x="645" y="45" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(1, 650.0, 50.0)" />
+<circle cx="650.0" cy="50.0" r="5.0" fill="#2196f3"/>
+<rect x="700" y="0" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="700" y="0" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(1, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="50.0" fill="#2196f3"/>
+<rect x="705" y="5" width="90" height="90" fill="#90caf9" stroke="none" transform="rotate(-2, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="45.0" fill="#1e88e5"/>
+<rect x="710" y="10" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(-2, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="40.0" fill="#1565c0"/>
+<rect x="715" y="15" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(-1, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="35.0" fill="#1565c0"/>
+<rect x="720" y="20" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(0, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="30.0" fill="#bbdefb"/>
+<rect x="725" y="25" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(-2, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="25.0" fill="#64b5f6"/>
+<rect x="730" y="30" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(-2, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="20.0" fill="#1976d2"/>
+<rect x="735" y="35" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(-1, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="15.0" fill="#64b5f6"/>
+<rect x="740" y="40" width="20" height="20" fill="#0d47a1" stroke="none" transform="rotate(0, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="10.0" fill="#0d47a1"/>
+<rect x="745" y="45" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-1, 750.0, 50.0)" />
+<circle cx="750.0" cy="50.0" r="5.0" fill="#42a5f5"/>
+<rect x="800" y="0" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="800" y="0" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(-1, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="50.0" fill="#64b5f6"/>
+<rect x="805" y="5" width="90" height="90" fill="#2196f3" stroke="none" transform="rotate(1, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="45.0" fill="#bbdefb"/>
+<rect x="810" y="10" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(1, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="40.0" fill="#2196f3"/>
+<rect x="815" y="15" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(0, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="35.0" fill="#0d47a1"/>
+<rect x="820" y="20" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(1, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="30.0" fill="#90caf9"/>
+<rect x="825" y="25" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(0, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="25.0" fill="#64b5f6"/>
+<rect x="830" y="30" width="40" height="40" fill="#0d47a1" stroke="none" transform="rotate(-2, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="20.0" fill="#1e88e5"/>
+<rect x="835" y="35" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(1, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="15.0" fill="#64b5f6"/>
+<rect x="840" y="40" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(-2, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="10.0" fill="#1565c0"/>
+<rect x="845" y="45" width="10" height="10" fill="#e3f2fd" stroke="none" transform="rotate(0, 850.0, 50.0)" />
+<circle cx="850.0" cy="50.0" r="5.0" fill="#1e88e5"/>
+<rect x="0" y="100" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="0" y="100" width="100" height="100" fill="#1e88e5" stroke="none" transform="rotate(-1, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="50.0" fill="#90caf9"/>
+<rect x="5" y="105" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(-1, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="45.0" fill="#1976d2"/>
+<rect x="10" y="110" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(1, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="40.0" fill="#42a5f5"/>
+<rect x="15" y="115" width="70" height="70" fill="#0d47a1" stroke="none" transform="rotate(-2, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="35.0" fill="#1565c0"/>
+<rect x="20" y="120" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(-1, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="30.0" fill="#1e88e5"/>
+<rect x="25" y="125" width="50" height="50" fill="#bbdefb" stroke="none" transform="rotate(1, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="25.0" fill="#1565c0"/>
+<rect x="30" y="130" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(0, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="20.0" fill="#64b5f6"/>
+<rect x="35" y="135" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-1, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="15.0" fill="#0d47a1"/>
+<rect x="40" y="140" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(0, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="10.0" fill="#1e88e5"/>
+<rect x="45" y="145" width="10" height="10" fill="#1976d2" stroke="none" transform="rotate(-2, 50.0, 150.0)" />
+<circle cx="50.0" cy="150.0" r="5.0" fill="#64b5f6"/>
+<rect x="100" y="100" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="100" y="100" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(-2, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="50.0" fill="#1e88e5"/>
+<rect x="105" y="105" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(-1, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="45.0" fill="#1e88e5"/>
+<rect x="110" y="110" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(-2, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="40.0" fill="#bbdefb"/>
+<rect x="115" y="115" width="70" height="70" fill="#64b5f6" stroke="none" transform="rotate(0, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="35.0" fill="#1e88e5"/>
+<rect x="120" y="120" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(-1, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="30.0" fill="#e3f2fd"/>
+<rect x="125" y="125" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(0, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="25.0" fill="#bbdefb"/>
+<rect x="130" y="130" width="40" height="40" fill="#64b5f6" stroke="none" transform="rotate(1, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="20.0" fill="#64b5f6"/>
+<rect x="135" y="135" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(-2, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="15.0" fill="#1e88e5"/>
+<rect x="140" y="140" width="20" height="20" fill="#64b5f6" stroke="none" transform="rotate(0, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="10.0" fill="#2196f3"/>
+<rect x="145" y="145" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(1, 150.0, 150.0)" />
+<circle cx="150.0" cy="150.0" r="5.0" fill="#1565c0"/>
+<rect x="200" y="100" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="200" y="100" width="100" height="100" fill="#0d47a1" stroke="none" transform="rotate(-1, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="50.0" fill="#bbdefb"/>
+<rect x="205" y="105" width="90" height="90" fill="#90caf9" stroke="none" transform="rotate(-1, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="45.0" fill="#1565c0"/>
+<rect x="210" y="110" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(-2, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="40.0" fill="#1e88e5"/>
+<rect x="215" y="115" width="70" height="70" fill="#1565c0" stroke="none" transform="rotate(-2, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="35.0" fill="#1e88e5"/>
+<rect x="220" y="120" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(0, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="30.0" fill="#64b5f6"/>
+<rect x="225" y="125" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(1, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="25.0" fill="#1565c0"/>
+<rect x="230" y="130" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(1, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="20.0" fill="#42a5f5"/>
+<rect x="235" y="135" width="30" height="30" fill="#42a5f5" stroke="none" transform="rotate(0, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="15.0" fill="#e3f2fd"/>
+<rect x="240" y="140" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(-2, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="10.0" fill="#90caf9"/>
+<rect x="245" y="145" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(-2, 250.0, 150.0)" />
+<circle cx="250.0" cy="150.0" r="5.0" fill="#bbdefb"/>
+<rect x="300" y="100" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="300" y="100" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(1, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="50.0" fill="#64b5f6"/>
+<rect x="305" y="105" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(1, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="45.0" fill="#2196f3"/>
+<rect x="310" y="110" width="80" height="80" fill="#2196f3" stroke="none" transform="rotate(1, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="40.0" fill="#1e88e5"/>
+<rect x="315" y="115" width="70" height="70" fill="#1e88e5" stroke="none" transform="rotate(0, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="35.0" fill="#1565c0"/>
+<rect x="320" y="120" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(1, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="30.0" fill="#1565c0"/>
+<rect x="325" y="125" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(-2, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="25.0" fill="#1976d2"/>
+<rect x="330" y="130" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(-1, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="20.0" fill="#2196f3"/>
+<rect x="335" y="135" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(0, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="15.0" fill="#1e88e5"/>
+<rect x="340" y="140" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(0, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="10.0" fill="#90caf9"/>
+<rect x="345" y="145" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(0, 350.0, 150.0)" />
+<circle cx="350.0" cy="150.0" r="5.0" fill="#0d47a1"/>
+<rect x="400" y="100" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="400" y="100" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(1, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="50.0" fill="#e3f2fd"/>
+<rect x="405" y="105" width="90" height="90" fill="#2196f3" stroke="none" transform="rotate(1, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="45.0" fill="#bbdefb"/>
+<rect x="410" y="110" width="80" height="80" fill="#1565c0" stroke="none" transform="rotate(1, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="40.0" fill="#90caf9"/>
+<rect x="415" y="115" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(0, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="35.0" fill="#1565c0"/>
+<rect x="420" y="120" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(0, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="30.0" fill="#42a5f5"/>
+<rect x="425" y="125" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(-2, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="25.0" fill="#0d47a1"/>
+<rect x="430" y="130" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(-1, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="20.0" fill="#90caf9"/>
+<rect x="435" y="135" width="30" height="30" fill="#1e88e5" stroke="none" transform="rotate(0, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="15.0" fill="#e3f2fd"/>
+<rect x="440" y="140" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(1, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="10.0" fill="#e3f2fd"/>
+<rect x="445" y="145" width="10" height="10" fill="#bbdefb" stroke="none" transform="rotate(-2, 450.0, 150.0)" />
+<circle cx="450.0" cy="150.0" r="5.0" fill="#2196f3"/>
+<rect x="500" y="100" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="500" y="100" width="100" height="100" fill="#0d47a1" stroke="none" transform="rotate(0, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="50.0" fill="#e3f2fd"/>
+<rect x="505" y="105" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(-2, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="45.0" fill="#42a5f5"/>
+<rect x="510" y="110" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(0, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="40.0" fill="#1976d2"/>
+<rect x="515" y="115" width="70" height="70" fill="#bbdefb" stroke="none" transform="rotate(1, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="35.0" fill="#e3f2fd"/>
+<rect x="520" y="120" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(-2, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="30.0" fill="#e3f2fd"/>
+<rect x="525" y="125" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(0, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="25.0" fill="#e3f2fd"/>
+<rect x="530" y="130" width="40" height="40" fill="#0d47a1" stroke="none" transform="rotate(-2, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="20.0" fill="#1e88e5"/>
+<rect x="535" y="135" width="30" height="30" fill="#1976d2" stroke="none" transform="rotate(0, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="15.0" fill="#42a5f5"/>
+<rect x="540" y="140" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(0, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="10.0" fill="#90caf9"/>
+<rect x="545" y="145" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(1, 550.0, 150.0)" />
+<circle cx="550.0" cy="150.0" r="5.0" fill="#1565c0"/>
+<rect x="600" y="100" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="600" y="100" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(0, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="50.0" fill="#e3f2fd"/>
+<rect x="605" y="105" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(0, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="45.0" fill="#64b5f6"/>
+<rect x="610" y="110" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(0, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="40.0" fill="#1e88e5"/>
+<rect x="615" y="115" width="70" height="70" fill="#e3f2fd" stroke="none" transform="rotate(-1, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="35.0" fill="#42a5f5"/>
+<rect x="620" y="120" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(1, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="30.0" fill="#e3f2fd"/>
+<rect x="625" y="125" width="50" height="50" fill="#0d47a1" stroke="none" transform="rotate(0, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="25.0" fill="#64b5f6"/>
+<rect x="630" y="130" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(1, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="20.0" fill="#90caf9"/>
+<rect x="635" y="135" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(1, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="15.0" fill="#42a5f5"/>
+<rect x="640" y="140" width="20" height="20" fill="#64b5f6" stroke="none" transform="rotate(-1, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="10.0" fill="#90caf9"/>
+<rect x="645" y="145" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(1, 650.0, 150.0)" />
+<circle cx="650.0" cy="150.0" r="5.0" fill="#90caf9"/>
+<rect x="700" y="100" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="700" y="100" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(-1, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="50.0" fill="#90caf9"/>
+<rect x="705" y="105" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(-1, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="45.0" fill="#90caf9"/>
+<rect x="710" y="110" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(-2, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="40.0" fill="#2196f3"/>
+<rect x="715" y="115" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(1, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="35.0" fill="#2196f3"/>
+<rect x="720" y="120" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(1, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="30.0" fill="#1e88e5"/>
+<rect x="725" y="125" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(-2, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="25.0" fill="#90caf9"/>
+<rect x="730" y="130" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(0, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="20.0" fill="#2196f3"/>
+<rect x="735" y="135" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(-1, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="15.0" fill="#1565c0"/>
+<rect x="740" y="140" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(-1, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="10.0" fill="#64b5f6"/>
+<rect x="745" y="145" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(-2, 750.0, 150.0)" />
+<circle cx="750.0" cy="150.0" r="5.0" fill="#2196f3"/>
+<rect x="800" y="100" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="800" y="100" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(1, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="50.0" fill="#0d47a1"/>
+<rect x="805" y="105" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(1, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="45.0" fill="#1976d2"/>
+<rect x="810" y="110" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(0, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="40.0" fill="#bbdefb"/>
+<rect x="815" y="115" width="70" height="70" fill="#bbdefb" stroke="none" transform="rotate(-2, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="35.0" fill="#e3f2fd"/>
+<rect x="820" y="120" width="60" height="60" fill="#2196f3" stroke="none" transform="rotate(-2, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="30.0" fill="#e3f2fd"/>
+<rect x="825" y="125" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(-1, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="25.0" fill="#bbdefb"/>
+<rect x="830" y="130" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(1, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="20.0" fill="#64b5f6"/>
+<rect x="835" y="135" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(1, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="15.0" fill="#64b5f6"/>
+<rect x="840" y="140" width="20" height="20" fill="#42a5f5" stroke="none" transform="rotate(-2, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="10.0" fill="#64b5f6"/>
+<rect x="845" y="145" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(-2, 850.0, 150.0)" />
+<circle cx="850.0" cy="150.0" r="5.0" fill="#e3f2fd"/>
+<rect x="0" y="200" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="0" y="200" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(0, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="50.0" fill="#42a5f5"/>
+<rect x="5" y="205" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(-1, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="45.0" fill="#e3f2fd"/>
+<rect x="10" y="210" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(-2, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="40.0" fill="#42a5f5"/>
+<rect x="15" y="215" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(1, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="35.0" fill="#e3f2fd"/>
+<rect x="20" y="220" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(-2, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="30.0" fill="#e3f2fd"/>
+<rect x="25" y="225" width="50" height="50" fill="#64b5f6" stroke="none" transform="rotate(0, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="25.0" fill="#e3f2fd"/>
+<rect x="30" y="230" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(0, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="20.0" fill="#1565c0"/>
+<rect x="35" y="235" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(-1, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="15.0" fill="#1e88e5"/>
+<rect x="40" y="240" width="20" height="20" fill="#0d47a1" stroke="none" transform="rotate(0, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="10.0" fill="#bbdefb"/>
+<rect x="45" y="245" width="10" height="10" fill="#1976d2" stroke="none" transform="rotate(1, 50.0, 250.0)" />
+<circle cx="50.0" cy="250.0" r="5.0" fill="#64b5f6"/>
+<rect x="100" y="200" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="100" y="200" width="100" height="100" fill="#0d47a1" stroke="none" transform="rotate(0, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="50.0" fill="#90caf9"/>
+<rect x="105" y="205" width="90" height="90" fill="#2196f3" stroke="none" transform="rotate(0, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="45.0" fill="#0d47a1"/>
+<rect x="110" y="210" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(-2, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="40.0" fill="#0d47a1"/>
+<rect x="115" y="215" width="70" height="70" fill="#e3f2fd" stroke="none" transform="rotate(0, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="35.0" fill="#bbdefb"/>
+<rect x="120" y="220" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(-2, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="30.0" fill="#42a5f5"/>
+<rect x="125" y="225" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(1, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="25.0" fill="#e3f2fd"/>
+<rect x="130" y="230" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(-1, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="20.0" fill="#e3f2fd"/>
+<rect x="135" y="235" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-1, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="15.0" fill="#1565c0"/>
+<rect x="140" y="240" width="20" height="20" fill="#bbdefb" stroke="none" transform="rotate(-1, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="10.0" fill="#1976d2"/>
+<rect x="145" y="245" width="10" height="10" fill="#42a5f5" stroke="none" transform="rotate(1, 150.0, 250.0)" />
+<circle cx="150.0" cy="250.0" r="5.0" fill="#42a5f5"/>
+<rect x="200" y="200" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="200" y="200" width="100" height="100" fill="#0d47a1" stroke="none" transform="rotate(0, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="50.0" fill="#1e88e5"/>
+<rect x="205" y="205" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(-2, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="45.0" fill="#90caf9"/>
+<rect x="210" y="210" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(0, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="40.0" fill="#1e88e5"/>
+<rect x="215" y="215" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(1, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="35.0" fill="#1e88e5"/>
+<rect x="220" y="220" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-1, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="30.0" fill="#1565c0"/>
+<rect x="225" y="225" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(-2, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="25.0" fill="#64b5f6"/>
+<rect x="230" y="230" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(-1, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="20.0" fill="#1e88e5"/>
+<rect x="235" y="235" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(-2, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="15.0" fill="#1e88e5"/>
+<rect x="240" y="240" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(1, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="10.0" fill="#1976d2"/>
+<rect x="245" y="245" width="10" height="10" fill="#1976d2" stroke="none" transform="rotate(0, 250.0, 250.0)" />
+<circle cx="250.0" cy="250.0" r="5.0" fill="#bbdefb"/>
+<rect x="300" y="200" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="300" y="200" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(-1, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="50.0" fill="#1565c0"/>
+<rect x="305" y="205" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(0, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="45.0" fill="#1565c0"/>
+<rect x="310" y="210" width="80" height="80" fill="#2196f3" stroke="none" transform="rotate(0, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="40.0" fill="#90caf9"/>
+<rect x="315" y="215" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(-2, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="35.0" fill="#1565c0"/>
+<rect x="320" y="220" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(-1, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="30.0" fill="#1976d2"/>
+<rect x="325" y="225" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(-2, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="25.0" fill="#e3f2fd"/>
+<rect x="330" y="230" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(0, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="20.0" fill="#1976d2"/>
+<rect x="335" y="235" width="30" height="30" fill="#1e88e5" stroke="none" transform="rotate(1, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="15.0" fill="#1565c0"/>
+<rect x="340" y="240" width="20" height="20" fill="#2196f3" stroke="none" transform="rotate(-1, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="10.0" fill="#1e88e5"/>
+<rect x="345" y="245" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(-1, 350.0, 250.0)" />
+<circle cx="350.0" cy="250.0" r="5.0" fill="#bbdefb"/>
+<rect x="400" y="200" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="400" y="200" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(1, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="50.0" fill="#64b5f6"/>
+<rect x="405" y="205" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(-2, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="45.0" fill="#1e88e5"/>
+<rect x="410" y="210" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(-2, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="40.0" fill="#e3f2fd"/>
+<rect x="415" y="215" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(-2, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="35.0" fill="#2196f3"/>
+<rect x="420" y="220" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(-1, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="30.0" fill="#64b5f6"/>
+<rect x="425" y="225" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(0, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="25.0" fill="#1976d2"/>
+<rect x="430" y="230" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(-1, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="20.0" fill="#bbdefb"/>
+<rect x="435" y="235" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(-1, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="15.0" fill="#90caf9"/>
+<rect x="440" y="240" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(-2, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="10.0" fill="#1e88e5"/>
+<rect x="445" y="245" width="10" height="10" fill="#1976d2" stroke="none" transform="rotate(-2, 450.0, 250.0)" />
+<circle cx="450.0" cy="250.0" r="5.0" fill="#64b5f6"/>
+<rect x="500" y="200" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="500" y="200" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(0, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="50.0" fill="#e3f2fd"/>
+<rect x="505" y="205" width="90" height="90" fill="#1e88e5" stroke="none" transform="rotate(-1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="45.0" fill="#42a5f5"/>
+<rect x="510" y="210" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(-2, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="40.0" fill="#2196f3"/>
+<rect x="515" y="215" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="35.0" fill="#e3f2fd"/>
+<rect x="520" y="220" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(-1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="30.0" fill="#2196f3"/>
+<rect x="525" y="225" width="50" height="50" fill="#bbdefb" stroke="none" transform="rotate(-1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="25.0" fill="#1976d2"/>
+<rect x="530" y="230" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(-1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="20.0" fill="#bbdefb"/>
+<rect x="535" y="235" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="15.0" fill="#e3f2fd"/>
+<rect x="540" y="240" width="20" height="20" fill="#bbdefb" stroke="none" transform="rotate(-1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="10.0" fill="#e3f2fd"/>
+<rect x="545" y="245" width="10" height="10" fill="#bbdefb" stroke="none" transform="rotate(-1, 550.0, 250.0)" />
+<circle cx="550.0" cy="250.0" r="5.0" fill="#64b5f6"/>
+<rect x="600" y="200" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="600" y="200" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(-2, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="50.0" fill="#1976d2"/>
+<rect x="605" y="205" width="90" height="90" fill="#1e88e5" stroke="none" transform="rotate(0, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="45.0" fill="#0d47a1"/>
+<rect x="610" y="210" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(1, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="40.0" fill="#90caf9"/>
+<rect x="615" y="215" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(-2, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="35.0" fill="#1976d2"/>
+<rect x="620" y="220" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(-1, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="30.0" fill="#bbdefb"/>
+<rect x="625" y="225" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(0, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="25.0" fill="#e3f2fd"/>
+<rect x="630" y="230" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(-1, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="20.0" fill="#2196f3"/>
+<rect x="635" y="235" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(0, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="15.0" fill="#e3f2fd"/>
+<rect x="640" y="240" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(-2, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="10.0" fill="#e3f2fd"/>
+<rect x="645" y="245" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-2, 650.0, 250.0)" />
+<circle cx="650.0" cy="250.0" r="5.0" fill="#42a5f5"/>
+<rect x="700" y="200" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="700" y="200" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(-2, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="50.0" fill="#2196f3"/>
+<rect x="705" y="205" width="90" height="90" fill="#1e88e5" stroke="none" transform="rotate(0, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="45.0" fill="#0d47a1"/>
+<rect x="710" y="210" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(-2, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="40.0" fill="#1565c0"/>
+<rect x="715" y="215" width="70" height="70" fill="#1e88e5" stroke="none" transform="rotate(-2, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="35.0" fill="#bbdefb"/>
+<rect x="720" y="220" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(0, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="30.0" fill="#2196f3"/>
+<rect x="725" y="225" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(1, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="25.0" fill="#1565c0"/>
+<rect x="730" y="230" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(-2, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="20.0" fill="#1976d2"/>
+<rect x="735" y="235" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(-2, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="15.0" fill="#0d47a1"/>
+<rect x="740" y="240" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(-2, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="10.0" fill="#42a5f5"/>
+<rect x="745" y="245" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-1, 750.0, 250.0)" />
+<circle cx="750.0" cy="250.0" r="5.0" fill="#42a5f5"/>
+<rect x="800" y="200" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="800" y="200" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(-2, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="50.0" fill="#e3f2fd"/>
+<rect x="805" y="205" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(1, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="45.0" fill="#1565c0"/>
+<rect x="810" y="210" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(0, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="40.0" fill="#0d47a1"/>
+<rect x="815" y="215" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(-2, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="35.0" fill="#bbdefb"/>
+<rect x="820" y="220" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(-1, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="30.0" fill="#2196f3"/>
+<rect x="825" y="225" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(-1, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="25.0" fill="#42a5f5"/>
+<rect x="830" y="230" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(-2, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="20.0" fill="#e3f2fd"/>
+<rect x="835" y="235" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(-1, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="15.0" fill="#1565c0"/>
+<rect x="840" y="240" width="20" height="20" fill="#64b5f6" stroke="none" transform="rotate(-1, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="10.0" fill="#1976d2"/>
+<rect x="845" y="245" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(0, 850.0, 250.0)" />
+<circle cx="850.0" cy="250.0" r="5.0" fill="#1e88e5"/>
+<rect x="0" y="300" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="0" y="300" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(-2, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="50.0" fill="#1e88e5"/>
+<rect x="5" y="305" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(0, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="45.0" fill="#42a5f5"/>
+<rect x="10" y="310" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(1, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="40.0" fill="#1565c0"/>
+<rect x="15" y="315" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(0, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="35.0" fill="#1e88e5"/>
+<rect x="20" y="320" width="60" height="60" fill="#90caf9" stroke="none" transform="rotate(0, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="30.0" fill="#e3f2fd"/>
+<rect x="25" y="325" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(-2, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="25.0" fill="#0d47a1"/>
+<rect x="30" y="330" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(0, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="20.0" fill="#1565c0"/>
+<rect x="35" y="335" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(-1, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="15.0" fill="#42a5f5"/>
+<rect x="40" y="340" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(-2, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="10.0" fill="#64b5f6"/>
+<rect x="45" y="345" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(-2, 50.0, 350.0)" />
+<circle cx="50.0" cy="350.0" r="5.0" fill="#64b5f6"/>
+<rect x="100" y="300" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="100" y="300" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(-2, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="50.0" fill="#1e88e5"/>
+<rect x="105" y="305" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(-1, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="45.0" fill="#1565c0"/>
+<rect x="110" y="310" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(0, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="40.0" fill="#2196f3"/>
+<rect x="115" y="315" width="70" height="70" fill="#0d47a1" stroke="none" transform="rotate(-2, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="35.0" fill="#1565c0"/>
+<rect x="120" y="320" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-1, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="30.0" fill="#2196f3"/>
+<rect x="125" y="325" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(0, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="25.0" fill="#1565c0"/>
+<rect x="130" y="330" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(-2, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="20.0" fill="#bbdefb"/>
+<rect x="135" y="335" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(-1, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="15.0" fill="#2196f3"/>
+<rect x="140" y="340" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(-2, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="10.0" fill="#1e88e5"/>
+<rect x="145" y="345" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(0, 150.0, 350.0)" />
+<circle cx="150.0" cy="350.0" r="5.0" fill="#1e88e5"/>
+<rect x="200" y="300" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="200" y="300" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(-1, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="50.0" fill="#2196f3"/>
+<rect x="205" y="305" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(-2, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="45.0" fill="#1565c0"/>
+<rect x="210" y="310" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(-2, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="40.0" fill="#bbdefb"/>
+<rect x="215" y="315" width="70" height="70" fill="#e3f2fd" stroke="none" transform="rotate(-2, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="35.0" fill="#64b5f6"/>
+<rect x="220" y="320" width="60" height="60" fill="#2196f3" stroke="none" transform="rotate(1, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="30.0" fill="#1976d2"/>
+<rect x="225" y="325" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(-1, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="25.0" fill="#e3f2fd"/>
+<rect x="230" y="330" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(1, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="20.0" fill="#2196f3"/>
+<rect x="235" y="335" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(-2, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="15.0" fill="#bbdefb"/>
+<rect x="240" y="340" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(1, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="10.0" fill="#0d47a1"/>
+<rect x="245" y="345" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(0, 250.0, 350.0)" />
+<circle cx="250.0" cy="350.0" r="5.0" fill="#bbdefb"/>
+<rect x="300" y="300" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="300" y="300" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(-2, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="50.0" fill="#2196f3"/>
+<rect x="305" y="305" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(-1, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="45.0" fill="#e3f2fd"/>
+<rect x="310" y="310" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(-1, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="40.0" fill="#0d47a1"/>
+<rect x="315" y="315" width="70" height="70" fill="#42a5f5" stroke="none" transform="rotate(0, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="35.0" fill="#90caf9"/>
+<rect x="320" y="320" width="60" height="60" fill="#bbdefb" stroke="none" transform="rotate(0, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="30.0" fill="#1565c0"/>
+<rect x="325" y="325" width="50" height="50" fill="#90caf9" stroke="none" transform="rotate(-1, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="25.0" fill="#bbdefb"/>
+<rect x="330" y="330" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(-1, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="20.0" fill="#64b5f6"/>
+<rect x="335" y="335" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-1, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="15.0" fill="#1e88e5"/>
+<rect x="340" y="340" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(1, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="10.0" fill="#64b5f6"/>
+<rect x="345" y="345" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(0, 350.0, 350.0)" />
+<circle cx="350.0" cy="350.0" r="5.0" fill="#64b5f6"/>
+<rect x="400" y="300" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="400" y="300" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(-2, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="50.0" fill="#90caf9"/>
+<rect x="405" y="305" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(-2, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="45.0" fill="#0d47a1"/>
+<rect x="410" y="310" width="80" height="80" fill="#1565c0" stroke="none" transform="rotate(-1, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="40.0" fill="#64b5f6"/>
+<rect x="415" y="315" width="70" height="70" fill="#e3f2fd" stroke="none" transform="rotate(-1, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="35.0" fill="#e3f2fd"/>
+<rect x="420" y="320" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(-1, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="30.0" fill="#bbdefb"/>
+<rect x="425" y="325" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(1, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="25.0" fill="#2196f3"/>
+<rect x="430" y="330" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(1, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="20.0" fill="#1976d2"/>
+<rect x="435" y="335" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(1, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="15.0" fill="#64b5f6"/>
+<rect x="440" y="340" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(-2, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="10.0" fill="#1976d2"/>
+<rect x="445" y="345" width="10" height="10" fill="#42a5f5" stroke="none" transform="rotate(1, 450.0, 350.0)" />
+<circle cx="450.0" cy="350.0" r="5.0" fill="#90caf9"/>
+<rect x="500" y="300" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="500" y="300" width="100" height="100" fill="#42a5f5" stroke="none" transform="rotate(0, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="50.0" fill="#1565c0"/>
+<rect x="505" y="305" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(1, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="45.0" fill="#64b5f6"/>
+<rect x="510" y="310" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(1, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="40.0" fill="#bbdefb"/>
+<rect x="515" y="315" width="70" height="70" fill="#1e88e5" stroke="none" transform="rotate(-2, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="35.0" fill="#0d47a1"/>
+<rect x="520" y="320" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(-2, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="30.0" fill="#2196f3"/>
+<rect x="525" y="325" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(0, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="25.0" fill="#2196f3"/>
+<rect x="530" y="330" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(-2, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="20.0" fill="#1976d2"/>
+<rect x="535" y="335" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(1, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="15.0" fill="#e3f2fd"/>
+<rect x="540" y="340" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(-2, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="10.0" fill="#1565c0"/>
+<rect x="545" y="345" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(0, 550.0, 350.0)" />
+<circle cx="550.0" cy="350.0" r="5.0" fill="#90caf9"/>
+<rect x="600" y="300" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="600" y="300" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(-2, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="50.0" fill="#1e88e5"/>
+<rect x="605" y="305" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(1, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="45.0" fill="#e3f2fd"/>
+<rect x="610" y="310" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(-2, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="40.0" fill="#1e88e5"/>
+<rect x="615" y="315" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(1, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="35.0" fill="#bbdefb"/>
+<rect x="620" y="320" width="60" height="60" fill="#90caf9" stroke="none" transform="rotate(1, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="30.0" fill="#1e88e5"/>
+<rect x="625" y="325" width="50" height="50" fill="#0d47a1" stroke="none" transform="rotate(0, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="25.0" fill="#e3f2fd"/>
+<rect x="630" y="330" width="40" height="40" fill="#64b5f6" stroke="none" transform="rotate(-2, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="20.0" fill="#1e88e5"/>
+<rect x="635" y="335" width="30" height="30" fill="#1976d2" stroke="none" transform="rotate(1, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="15.0" fill="#1565c0"/>
+<rect x="640" y="340" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(-1, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="10.0" fill="#bbdefb"/>
+<rect x="645" y="345" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(0, 650.0, 350.0)" />
+<circle cx="650.0" cy="350.0" r="5.0" fill="#bbdefb"/>
+<rect x="700" y="300" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="700" y="300" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(-2, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="50.0" fill="#bbdefb"/>
+<rect x="705" y="305" width="90" height="90" fill="#1e88e5" stroke="none" transform="rotate(0, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="45.0" fill="#1e88e5"/>
+<rect x="710" y="310" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(-2, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="40.0" fill="#1976d2"/>
+<rect x="715" y="315" width="70" height="70" fill="#1e88e5" stroke="none" transform="rotate(1, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="35.0" fill="#64b5f6"/>
+<rect x="720" y="320" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(-1, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="30.0" fill="#64b5f6"/>
+<rect x="725" y="325" width="50" height="50" fill="#64b5f6" stroke="none" transform="rotate(-1, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="25.0" fill="#1e88e5"/>
+<rect x="730" y="330" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(1, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="20.0" fill="#42a5f5"/>
+<rect x="735" y="335" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(0, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="15.0" fill="#2196f3"/>
+<rect x="740" y="340" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(0, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="10.0" fill="#0d47a1"/>
+<rect x="745" y="345" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(0, 750.0, 350.0)" />
+<circle cx="750.0" cy="350.0" r="5.0" fill="#0d47a1"/>
+<rect x="800" y="300" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="800" y="300" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(0, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="50.0" fill="#90caf9"/>
+<rect x="805" y="305" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(-2, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="45.0" fill="#42a5f5"/>
+<rect x="810" y="310" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(-1, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="40.0" fill="#2196f3"/>
+<rect x="815" y="315" width="70" height="70" fill="#42a5f5" stroke="none" transform="rotate(-2, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="35.0" fill="#42a5f5"/>
+<rect x="820" y="320" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(0, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="30.0" fill="#2196f3"/>
+<rect x="825" y="325" width="50" height="50" fill="#64b5f6" stroke="none" transform="rotate(-1, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="25.0" fill="#bbdefb"/>
+<rect x="830" y="330" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(1, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="20.0" fill="#e3f2fd"/>
+<rect x="835" y="335" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(-1, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="15.0" fill="#1976d2"/>
+<rect x="840" y="340" width="20" height="20" fill="#2196f3" stroke="none" transform="rotate(-1, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="10.0" fill="#0d47a1"/>
+<rect x="845" y="345" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-2, 850.0, 350.0)" />
+<circle cx="850.0" cy="350.0" r="5.0" fill="#e3f2fd"/>
+<rect x="0" y="400" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="0" y="400" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(0, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="50.0" fill="#bbdefb"/>
+<rect x="5" y="405" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(-1, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="45.0" fill="#0d47a1"/>
+<rect x="10" y="410" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(0, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="40.0" fill="#bbdefb"/>
+<rect x="15" y="415" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(1, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="35.0" fill="#0d47a1"/>
+<rect x="20" y="420" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(0, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="30.0" fill="#90caf9"/>
+<rect x="25" y="425" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(-2, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="25.0" fill="#1e88e5"/>
+<rect x="30" y="430" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(0, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="20.0" fill="#90caf9"/>
+<rect x="35" y="435" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(0, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="15.0" fill="#2196f3"/>
+<rect x="40" y="440" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(0, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="10.0" fill="#0d47a1"/>
+<rect x="45" y="445" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(-2, 50.0, 450.0)" />
+<circle cx="50.0" cy="450.0" r="5.0" fill="#42a5f5"/>
+<rect x="100" y="400" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="100" y="400" width="100" height="100" fill="#42a5f5" stroke="none" transform="rotate(1, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="50.0" fill="#0d47a1"/>
+<rect x="105" y="405" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(0, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="45.0" fill="#bbdefb"/>
+<rect x="110" y="410" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(-2, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="40.0" fill="#bbdefb"/>
+<rect x="115" y="415" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(-1, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="35.0" fill="#1e88e5"/>
+<rect x="120" y="420" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(-2, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="30.0" fill="#1565c0"/>
+<rect x="125" y="425" width="50" height="50" fill="#64b5f6" stroke="none" transform="rotate(1, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="25.0" fill="#64b5f6"/>
+<rect x="130" y="430" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(-2, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="20.0" fill="#e3f2fd"/>
+<rect x="135" y="435" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(-1, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="15.0" fill="#1565c0"/>
+<rect x="140" y="440" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(-1, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="10.0" fill="#1565c0"/>
+<rect x="145" y="445" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(0, 150.0, 450.0)" />
+<circle cx="150.0" cy="450.0" r="5.0" fill="#1565c0"/>
+<rect x="200" y="400" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="200" y="400" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(0, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="50.0" fill="#64b5f6"/>
+<rect x="205" y="405" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(-1, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="45.0" fill="#42a5f5"/>
+<rect x="210" y="410" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(-2, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="40.0" fill="#42a5f5"/>
+<rect x="215" y="415" width="70" height="70" fill="#42a5f5" stroke="none" transform="rotate(0, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="35.0" fill="#e3f2fd"/>
+<rect x="220" y="420" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(-2, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="30.0" fill="#1565c0"/>
+<rect x="225" y="425" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(-1, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="25.0" fill="#1565c0"/>
+<rect x="230" y="430" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(1, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="20.0" fill="#1565c0"/>
+<rect x="235" y="435" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(-2, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="15.0" fill="#2196f3"/>
+<rect x="240" y="440" width="20" height="20" fill="#bbdefb" stroke="none" transform="rotate(0, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="10.0" fill="#1565c0"/>
+<rect x="245" y="445" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(-1, 250.0, 450.0)" />
+<circle cx="250.0" cy="450.0" r="5.0" fill="#90caf9"/>
+<rect x="300" y="400" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="300" y="400" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(0, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="50.0" fill="#42a5f5"/>
+<rect x="305" y="405" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(1, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="45.0" fill="#1976d2"/>
+<rect x="310" y="410" width="80" height="80" fill="#1565c0" stroke="none" transform="rotate(1, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="40.0" fill="#90caf9"/>
+<rect x="315" y="415" width="70" height="70" fill="#64b5f6" stroke="none" transform="rotate(1, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="35.0" fill="#42a5f5"/>
+<rect x="320" y="420" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(0, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="30.0" fill="#0d47a1"/>
+<rect x="325" y="425" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(-2, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="25.0" fill="#64b5f6"/>
+<rect x="330" y="430" width="40" height="40" fill="#64b5f6" stroke="none" transform="rotate(0, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="20.0" fill="#90caf9"/>
+<rect x="335" y="435" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(-2, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="15.0" fill="#42a5f5"/>
+<rect x="340" y="440" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(0, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="10.0" fill="#bbdefb"/>
+<rect x="345" y="445" width="10" height="10" fill="#42a5f5" stroke="none" transform="rotate(-1, 350.0, 450.0)" />
+<circle cx="350.0" cy="450.0" r="5.0" fill="#90caf9"/>
+<rect x="400" y="400" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="400" y="400" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(0, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="50.0" fill="#bbdefb"/>
+<rect x="405" y="405" width="90" height="90" fill="#2196f3" stroke="none" transform="rotate(0, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="45.0" fill="#2196f3"/>
+<rect x="410" y="410" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(-2, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="40.0" fill="#0d47a1"/>
+<rect x="415" y="415" width="70" height="70" fill="#42a5f5" stroke="none" transform="rotate(1, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="35.0" fill="#bbdefb"/>
+<rect x="420" y="420" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(1, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="30.0" fill="#42a5f5"/>
+<rect x="425" y="425" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(-1, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="25.0" fill="#1e88e5"/>
+<rect x="430" y="430" width="40" height="40" fill="#bbdefb" stroke="none" transform="rotate(-2, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="20.0" fill="#1e88e5"/>
+<rect x="435" y="435" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(1, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="15.0" fill="#90caf9"/>
+<rect x="440" y="440" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(-1, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="10.0" fill="#90caf9"/>
+<rect x="445" y="445" width="10" height="10" fill="#42a5f5" stroke="none" transform="rotate(0, 450.0, 450.0)" />
+<circle cx="450.0" cy="450.0" r="5.0" fill="#1976d2"/>
+<rect x="500" y="400" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="500" y="400" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(-2, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="50.0" fill="#1976d2"/>
+<rect x="505" y="405" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(-2, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="45.0" fill="#bbdefb"/>
+<rect x="510" y="410" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(-2, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="40.0" fill="#64b5f6"/>
+<rect x="515" y="415" width="70" height="70" fill="#1565c0" stroke="none" transform="rotate(-2, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="35.0" fill="#90caf9"/>
+<rect x="520" y="420" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(-2, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="30.0" fill="#1976d2"/>
+<rect x="525" y="425" width="50" height="50" fill="#0d47a1" stroke="none" transform="rotate(0, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="25.0" fill="#1565c0"/>
+<rect x="530" y="430" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(-2, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="20.0" fill="#1e88e5"/>
+<rect x="535" y="435" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-2, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="15.0" fill="#bbdefb"/>
+<rect x="540" y="440" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(0, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="10.0" fill="#0d47a1"/>
+<rect x="545" y="445" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(1, 550.0, 450.0)" />
+<circle cx="550.0" cy="450.0" r="5.0" fill="#64b5f6"/>
+<rect x="600" y="400" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="600" y="400" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(1, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="50.0" fill="#42a5f5"/>
+<rect x="605" y="405" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(0, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="45.0" fill="#0d47a1"/>
+<rect x="610" y="410" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(0, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="40.0" fill="#2196f3"/>
+<rect x="615" y="415" width="70" height="70" fill="#0d47a1" stroke="none" transform="rotate(0, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="35.0" fill="#bbdefb"/>
+<rect x="620" y="420" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(-2, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="30.0" fill="#bbdefb"/>
+<rect x="625" y="425" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(-1, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="25.0" fill="#2196f3"/>
+<rect x="630" y="430" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(-1, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="20.0" fill="#0d47a1"/>
+<rect x="635" y="435" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-2, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="15.0" fill="#0d47a1"/>
+<rect x="640" y="440" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(1, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="10.0" fill="#90caf9"/>
+<rect x="645" y="445" width="10" height="10" fill="#bbdefb" stroke="none" transform="rotate(-2, 650.0, 450.0)" />
+<circle cx="650.0" cy="450.0" r="5.0" fill="#42a5f5"/>
+<rect x="700" y="400" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="700" y="400" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(-1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="50.0" fill="#0d47a1"/>
+<rect x="705" y="405" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="45.0" fill="#1565c0"/>
+<rect x="710" y="410" width="80" height="80" fill="#2196f3" stroke="none" transform="rotate(1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="40.0" fill="#42a5f5"/>
+<rect x="715" y="415" width="70" height="70" fill="#bbdefb" stroke="none" transform="rotate(-1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="35.0" fill="#1976d2"/>
+<rect x="720" y="420" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="30.0" fill="#64b5f6"/>
+<rect x="725" y="425" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(0, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="25.0" fill="#1565c0"/>
+<rect x="730" y="430" width="40" height="40" fill="#bbdefb" stroke="none" transform="rotate(-1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="20.0" fill="#42a5f5"/>
+<rect x="735" y="435" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(-1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="15.0" fill="#0d47a1"/>
+<rect x="740" y="440" width="20" height="20" fill="#0d47a1" stroke="none" transform="rotate(0, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="10.0" fill="#e3f2fd"/>
+<rect x="745" y="445" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(1, 750.0, 450.0)" />
+<circle cx="750.0" cy="450.0" r="5.0" fill="#1e88e5"/>
+<rect x="800" y="400" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="800" y="400" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(-1, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="50.0" fill="#90caf9"/>
+<rect x="805" y="405" width="90" height="90" fill="#0d47a1" stroke="none" transform="rotate(-2, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="45.0" fill="#64b5f6"/>
+<rect x="810" y="410" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(0, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="40.0" fill="#1565c0"/>
+<rect x="815" y="415" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(0, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="35.0" fill="#e3f2fd"/>
+<rect x="820" y="420" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(1, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="30.0" fill="#e3f2fd"/>
+<rect x="825" y="425" width="50" height="50" fill="#bbdefb" stroke="none" transform="rotate(0, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="25.0" fill="#0d47a1"/>
+<rect x="830" y="430" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(-2, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="20.0" fill="#2196f3"/>
+<rect x="835" y="435" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(-2, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="15.0" fill="#1565c0"/>
+<rect x="840" y="440" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(1, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="10.0" fill="#2196f3"/>
+<rect x="845" y="445" width="10" height="10" fill="#bbdefb" stroke="none" transform="rotate(-2, 850.0, 450.0)" />
+<circle cx="850.0" cy="450.0" r="5.0" fill="#bbdefb"/>
+<rect x="0" y="500" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="0" y="500" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(-2, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="50.0" fill="#64b5f6"/>
+<rect x="5" y="505" width="90" height="90" fill="#0d47a1" stroke="none" transform="rotate(0, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="45.0" fill="#e3f2fd"/>
+<rect x="10" y="510" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(-2, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="40.0" fill="#e3f2fd"/>
+<rect x="15" y="515" width="70" height="70" fill="#1e88e5" stroke="none" transform="rotate(0, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="35.0" fill="#2196f3"/>
+<rect x="20" y="520" width="60" height="60" fill="#2196f3" stroke="none" transform="rotate(1, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="30.0" fill="#42a5f5"/>
+<rect x="25" y="525" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(1, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="25.0" fill="#42a5f5"/>
+<rect x="30" y="530" width="40" height="40" fill="#0d47a1" stroke="none" transform="rotate(0, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="20.0" fill="#bbdefb"/>
+<rect x="35" y="535" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(1, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="15.0" fill="#0d47a1"/>
+<rect x="40" y="540" width="20" height="20" fill="#bbdefb" stroke="none" transform="rotate(-1, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="10.0" fill="#1976d2"/>
+<rect x="45" y="545" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-2, 50.0, 550.0)" />
+<circle cx="50.0" cy="550.0" r="5.0" fill="#1565c0"/>
+<rect x="100" y="500" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="100" y="500" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(-2, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="50.0" fill="#64b5f6"/>
+<rect x="105" y="505" width="90" height="90" fill="#0d47a1" stroke="none" transform="rotate(-1, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="45.0" fill="#2196f3"/>
+<rect x="110" y="510" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(-2, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="40.0" fill="#bbdefb"/>
+<rect x="115" y="515" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(-2, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="35.0" fill="#2196f3"/>
+<rect x="120" y="520" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(-1, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="30.0" fill="#1e88e5"/>
+<rect x="125" y="525" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(0, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="25.0" fill="#1565c0"/>
+<rect x="130" y="530" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(-1, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="20.0" fill="#0d47a1"/>
+<rect x="135" y="535" width="30" height="30" fill="#1e88e5" stroke="none" transform="rotate(-1, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="15.0" fill="#bbdefb"/>
+<rect x="140" y="540" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(1, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="10.0" fill="#2196f3"/>
+<rect x="145" y="545" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(-2, 150.0, 550.0)" />
+<circle cx="150.0" cy="550.0" r="5.0" fill="#2196f3"/>
+<rect x="200" y="500" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="200" y="500" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(-1, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="50.0" fill="#2196f3"/>
+<rect x="205" y="505" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(-2, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="45.0" fill="#1976d2"/>
+<rect x="210" y="510" width="80" height="80" fill="#2196f3" stroke="none" transform="rotate(-1, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="40.0" fill="#0d47a1"/>
+<rect x="215" y="515" width="70" height="70" fill="#1e88e5" stroke="none" transform="rotate(-1, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="35.0" fill="#90caf9"/>
+<rect x="220" y="520" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(-1, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="30.0" fill="#90caf9"/>
+<rect x="225" y="525" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(1, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="25.0" fill="#bbdefb"/>
+<rect x="230" y="530" width="40" height="40" fill="#bbdefb" stroke="none" transform="rotate(-2, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="20.0" fill="#90caf9"/>
+<rect x="235" y="535" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(0, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="15.0" fill="#42a5f5"/>
+<rect x="240" y="540" width="20" height="20" fill="#42a5f5" stroke="none" transform="rotate(1, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="10.0" fill="#bbdefb"/>
+<rect x="245" y="545" width="10" height="10" fill="#1976d2" stroke="none" transform="rotate(0, 250.0, 550.0)" />
+<circle cx="250.0" cy="550.0" r="5.0" fill="#2196f3"/>
+<rect x="300" y="500" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="300" y="500" width="100" height="100" fill="#e3f2fd" stroke="none" transform="rotate(-1, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="50.0" fill="#90caf9"/>
+<rect x="305" y="505" width="90" height="90" fill="#0d47a1" stroke="none" transform="rotate(-1, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="45.0" fill="#0d47a1"/>
+<rect x="310" y="510" width="80" height="80" fill="#e3f2fd" stroke="none" transform="rotate(-2, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="40.0" fill="#42a5f5"/>
+<rect x="315" y="515" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(1, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="35.0" fill="#1e88e5"/>
+<rect x="320" y="520" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(1, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="30.0" fill="#42a5f5"/>
+<rect x="325" y="525" width="50" height="50" fill="#0d47a1" stroke="none" transform="rotate(1, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="25.0" fill="#1e88e5"/>
+<rect x="330" y="530" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(1, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="20.0" fill="#1e88e5"/>
+<rect x="335" y="535" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(-1, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="15.0" fill="#1976d2"/>
+<rect x="340" y="540" width="20" height="20" fill="#42a5f5" stroke="none" transform="rotate(0, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="10.0" fill="#0d47a1"/>
+<rect x="345" y="545" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(-2, 350.0, 550.0)" />
+<circle cx="350.0" cy="550.0" r="5.0" fill="#2196f3"/>
+<rect x="400" y="500" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="400" y="500" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(-2, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="50.0" fill="#0d47a1"/>
+<rect x="405" y="505" width="90" height="90" fill="#90caf9" stroke="none" transform="rotate(-2, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="45.0" fill="#e3f2fd"/>
+<rect x="410" y="510" width="80" height="80" fill="#1565c0" stroke="none" transform="rotate(0, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="40.0" fill="#90caf9"/>
+<rect x="415" y="515" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(-1, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="35.0" fill="#bbdefb"/>
+<rect x="420" y="520" width="60" height="60" fill="#90caf9" stroke="none" transform="rotate(-1, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="30.0" fill="#42a5f5"/>
+<rect x="425" y="525" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(0, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="25.0" fill="#64b5f6"/>
+<rect x="430" y="530" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(-1, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="20.0" fill="#1976d2"/>
+<rect x="435" y="535" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(-1, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="15.0" fill="#2196f3"/>
+<rect x="440" y="540" width="20" height="20" fill="#64b5f6" stroke="none" transform="rotate(-2, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="10.0" fill="#1565c0"/>
+<rect x="445" y="545" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(-2, 450.0, 550.0)" />
+<circle cx="450.0" cy="550.0" r="5.0" fill="#2196f3"/>
+<rect x="500" y="500" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="500" y="500" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(-2, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="50.0" fill="#0d47a1"/>
+<rect x="505" y="505" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(-1, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="45.0" fill="#1565c0"/>
+<rect x="510" y="510" width="80" height="80" fill="#42a5f5" stroke="none" transform="rotate(1, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="40.0" fill="#90caf9"/>
+<rect x="515" y="515" width="70" height="70" fill="#bbdefb" stroke="none" transform="rotate(-1, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="35.0" fill="#90caf9"/>
+<rect x="520" y="520" width="60" height="60" fill="#90caf9" stroke="none" transform="rotate(-2, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="30.0" fill="#42a5f5"/>
+<rect x="525" y="525" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(0, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="25.0" fill="#0d47a1"/>
+<rect x="530" y="530" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(-2, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="20.0" fill="#1e88e5"/>
+<rect x="535" y="535" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(-2, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="15.0" fill="#42a5f5"/>
+<rect x="540" y="540" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(-1, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="10.0" fill="#1976d2"/>
+<rect x="545" y="545" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(1, 550.0, 550.0)" />
+<circle cx="550.0" cy="550.0" r="5.0" fill="#42a5f5"/>
+<rect x="600" y="500" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="600" y="500" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(-1, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="50.0" fill="#1e88e5"/>
+<rect x="605" y="505" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(-1, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="45.0" fill="#90caf9"/>
+<rect x="610" y="510" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(-1, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="40.0" fill="#0d47a1"/>
+<rect x="615" y="515" width="70" height="70" fill="#e3f2fd" stroke="none" transform="rotate(-1, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="35.0" fill="#2196f3"/>
+<rect x="620" y="520" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(1, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="30.0" fill="#64b5f6"/>
+<rect x="625" y="525" width="50" height="50" fill="#90caf9" stroke="none" transform="rotate(-2, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="25.0" fill="#2196f3"/>
+<rect x="630" y="530" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(-2, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="20.0" fill="#90caf9"/>
+<rect x="635" y="535" width="30" height="30" fill="#1976d2" stroke="none" transform="rotate(0, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="15.0" fill="#1976d2"/>
+<rect x="640" y="540" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(-2, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="10.0" fill="#90caf9"/>
+<rect x="645" y="545" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(1, 650.0, 550.0)" />
+<circle cx="650.0" cy="550.0" r="5.0" fill="#0d47a1"/>
+<rect x="700" y="500" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="700" y="500" width="100" height="100" fill="#0d47a1" stroke="none" transform="rotate(1, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="50.0" fill="#2196f3"/>
+<rect x="705" y="505" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(1, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="45.0" fill="#64b5f6"/>
+<rect x="710" y="510" width="80" height="80" fill="#e3f2fd" stroke="none" transform="rotate(-1, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="40.0" fill="#bbdefb"/>
+<rect x="715" y="515" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(-2, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="35.0" fill="#64b5f6"/>
+<rect x="720" y="520" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(0, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="30.0" fill="#1e88e5"/>
+<rect x="725" y="525" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(-1, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="25.0" fill="#1e88e5"/>
+<rect x="730" y="530" width="40" height="40" fill="#64b5f6" stroke="none" transform="rotate(-2, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="20.0" fill="#42a5f5"/>
+<rect x="735" y="535" width="30" height="30" fill="#1e88e5" stroke="none" transform="rotate(-2, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="15.0" fill="#bbdefb"/>
+<rect x="740" y="540" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(0, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="10.0" fill="#2196f3"/>
+<rect x="745" y="545" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(1, 750.0, 550.0)" />
+<circle cx="750.0" cy="550.0" r="5.0" fill="#bbdefb"/>
+<rect x="800" y="500" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="800" y="500" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(0, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="50.0" fill="#1976d2"/>
+<rect x="805" y="505" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(0, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="45.0" fill="#0d47a1"/>
+<rect x="810" y="510" width="80" height="80" fill="#42a5f5" stroke="none" transform="rotate(-1, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="40.0" fill="#0d47a1"/>
+<rect x="815" y="515" width="70" height="70" fill="#0d47a1" stroke="none" transform="rotate(-2, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="35.0" fill="#e3f2fd"/>
+<rect x="820" y="520" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(1, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="30.0" fill="#64b5f6"/>
+<rect x="825" y="525" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(1, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="25.0" fill="#1976d2"/>
+<rect x="830" y="530" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(0, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="20.0" fill="#1e88e5"/>
+<rect x="835" y="535" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(-1, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="15.0" fill="#1565c0"/>
+<rect x="840" y="540" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(0, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="10.0" fill="#bbdefb"/>
+<rect x="845" y="545" width="10" height="10" fill="#e3f2fd" stroke="none" transform="rotate(-1, 850.0, 550.0)" />
+<circle cx="850.0" cy="550.0" r="5.0" fill="#bbdefb"/>
+<rect x="0" y="600" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="0" y="600" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(-2, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="50.0" fill="#1976d2"/>
+<rect x="5" y="605" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="45.0" fill="#64b5f6"/>
+<rect x="10" y="610" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="40.0" fill="#1565c0"/>
+<rect x="15" y="615" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="35.0" fill="#1565c0"/>
+<rect x="20" y="620" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="30.0" fill="#bbdefb"/>
+<rect x="25" y="625" width="50" height="50" fill="#64b5f6" stroke="none" transform="rotate(1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="25.0" fill="#e3f2fd"/>
+<rect x="30" y="630" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="20.0" fill="#64b5f6"/>
+<rect x="35" y="635" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(0, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="15.0" fill="#0d47a1"/>
+<rect x="40" y="640" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="10.0" fill="#1565c0"/>
+<rect x="45" y="645" width="10" height="10" fill="#0d47a1" stroke="none" transform="rotate(1, 50.0, 650.0)" />
+<circle cx="50.0" cy="650.0" r="5.0" fill="#64b5f6"/>
+<rect x="100" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="100" y="600" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(-2, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="50.0" fill="#2196f3"/>
+<rect x="105" y="605" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(-1, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="45.0" fill="#1976d2"/>
+<rect x="110" y="610" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(-1, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="40.0" fill="#e3f2fd"/>
+<rect x="115" y="615" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(0, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="35.0" fill="#1976d2"/>
+<rect x="120" y="620" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(0, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="30.0" fill="#90caf9"/>
+<rect x="125" y="625" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(1, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="25.0" fill="#90caf9"/>
+<rect x="130" y="630" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(0, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="20.0" fill="#1565c0"/>
+<rect x="135" y="635" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(0, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="15.0" fill="#e3f2fd"/>
+<rect x="140" y="640" width="20" height="20" fill="#0d47a1" stroke="none" transform="rotate(0, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="10.0" fill="#e3f2fd"/>
+<rect x="145" y="645" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(-1, 150.0, 650.0)" />
+<circle cx="150.0" cy="650.0" r="5.0" fill="#1976d2"/>
+<rect x="200" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="200" y="600" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(-2, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="50.0" fill="#0d47a1"/>
+<rect x="205" y="605" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(0, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="45.0" fill="#1976d2"/>
+<rect x="210" y="610" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(-2, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="40.0" fill="#bbdefb"/>
+<rect x="215" y="615" width="70" height="70" fill="#e3f2fd" stroke="none" transform="rotate(0, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="35.0" fill="#1565c0"/>
+<rect x="220" y="620" width="60" height="60" fill="#64b5f6" stroke="none" transform="rotate(0, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="30.0" fill="#e3f2fd"/>
+<rect x="225" y="625" width="50" height="50" fill="#90caf9" stroke="none" transform="rotate(0, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="25.0" fill="#1565c0"/>
+<rect x="230" y="630" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(-1, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="20.0" fill="#bbdefb"/>
+<rect x="235" y="635" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(0, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="15.0" fill="#e3f2fd"/>
+<rect x="240" y="640" width="20" height="20" fill="#42a5f5" stroke="none" transform="rotate(-1, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="10.0" fill="#0d47a1"/>
+<rect x="245" y="645" width="10" height="10" fill="#0d47a1" stroke="none" transform="rotate(-2, 250.0, 650.0)" />
+<circle cx="250.0" cy="650.0" r="5.0" fill="#1565c0"/>
+<rect x="300" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="300" y="600" width="100" height="100" fill="#0d47a1" stroke="none" transform="rotate(0, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="50.0" fill="#1565c0"/>
+<rect x="305" y="605" width="90" height="90" fill="#1e88e5" stroke="none" transform="rotate(-1, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="45.0" fill="#90caf9"/>
+<rect x="310" y="610" width="80" height="80" fill="#1976d2" stroke="none" transform="rotate(0, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="40.0" fill="#90caf9"/>
+<rect x="315" y="615" width="70" height="70" fill="#64b5f6" stroke="none" transform="rotate(-1, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="35.0" fill="#e3f2fd"/>
+<rect x="320" y="620" width="60" height="60" fill="#bbdefb" stroke="none" transform="rotate(0, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="30.0" fill="#64b5f6"/>
+<rect x="325" y="625" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(1, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="25.0" fill="#bbdefb"/>
+<rect x="330" y="630" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(1, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="20.0" fill="#1565c0"/>
+<rect x="335" y="635" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(1, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="15.0" fill="#e3f2fd"/>
+<rect x="340" y="640" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(-1, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="10.0" fill="#64b5f6"/>
+<rect x="345" y="645" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(1, 350.0, 650.0)" />
+<circle cx="350.0" cy="650.0" r="5.0" fill="#42a5f5"/>
+<rect x="400" y="600" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="400" y="600" width="100" height="100" fill="#1e88e5" stroke="none" transform="rotate(-2, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="50.0" fill="#90caf9"/>
+<rect x="405" y="605" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(-2, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="45.0" fill="#64b5f6"/>
+<rect x="410" y="610" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(0, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="40.0" fill="#2196f3"/>
+<rect x="415" y="615" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(1, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="35.0" fill="#0d47a1"/>
+<rect x="420" y="620" width="60" height="60" fill="#90caf9" stroke="none" transform="rotate(0, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="30.0" fill="#64b5f6"/>
+<rect x="425" y="625" width="50" height="50" fill="#bbdefb" stroke="none" transform="rotate(-1, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="25.0" fill="#90caf9"/>
+<rect x="430" y="630" width="40" height="40" fill="#64b5f6" stroke="none" transform="rotate(1, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="20.0" fill="#1976d2"/>
+<rect x="435" y="635" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(-1, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="15.0" fill="#1976d2"/>
+<rect x="440" y="640" width="20" height="20" fill="#0d47a1" stroke="none" transform="rotate(1, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="10.0" fill="#0d47a1"/>
+<rect x="445" y="645" width="10" height="10" fill="#1976d2" stroke="none" transform="rotate(1, 450.0, 650.0)" />
+<circle cx="450.0" cy="650.0" r="5.0" fill="#0d47a1"/>
+<rect x="500" y="600" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="500" y="600" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(-2, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="50.0" fill="#1565c0"/>
+<rect x="505" y="605" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(-1, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="45.0" fill="#0d47a1"/>
+<rect x="510" y="610" width="80" height="80" fill="#2196f3" stroke="none" transform="rotate(-2, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="40.0" fill="#42a5f5"/>
+<rect x="515" y="615" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(-1, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="35.0" fill="#2196f3"/>
+<rect x="520" y="620" width="60" height="60" fill="#bbdefb" stroke="none" transform="rotate(-1, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="30.0" fill="#bbdefb"/>
+<rect x="525" y="625" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(-1, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="25.0" fill="#e3f2fd"/>
+<rect x="530" y="630" width="40" height="40" fill="#64b5f6" stroke="none" transform="rotate(-2, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="20.0" fill="#42a5f5"/>
+<rect x="535" y="635" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(-1, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="15.0" fill="#1565c0"/>
+<rect x="540" y="640" width="20" height="20" fill="#0d47a1" stroke="none" transform="rotate(-1, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="10.0" fill="#e3f2fd"/>
+<rect x="545" y="645" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(-1, 550.0, 650.0)" />
+<circle cx="550.0" cy="650.0" r="5.0" fill="#0d47a1"/>
+<rect x="600" y="600" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="600" y="600" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(-2, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="50.0" fill="#e3f2fd"/>
+<rect x="605" y="605" width="90" height="90" fill="#2196f3" stroke="none" transform="rotate(1, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="45.0" fill="#1565c0"/>
+<rect x="610" y="610" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(1, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="40.0" fill="#2196f3"/>
+<rect x="615" y="615" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(0, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="35.0" fill="#e3f2fd"/>
+<rect x="620" y="620" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(0, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="30.0" fill="#42a5f5"/>
+<rect x="625" y="625" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(-1, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="25.0" fill="#90caf9"/>
+<rect x="630" y="630" width="40" height="40" fill="#1565c0" stroke="none" transform="rotate(-1, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="20.0" fill="#90caf9"/>
+<rect x="635" y="635" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(1, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="15.0" fill="#bbdefb"/>
+<rect x="640" y="640" width="20" height="20" fill="#2196f3" stroke="none" transform="rotate(-1, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="10.0" fill="#1565c0"/>
+<rect x="645" y="645" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(-2, 650.0, 650.0)" />
+<circle cx="650.0" cy="650.0" r="5.0" fill="#64b5f6"/>
+<rect x="700" y="600" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="700" y="600" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(-2, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="50.0" fill="#42a5f5"/>
+<rect x="705" y="605" width="90" height="90" fill="#90caf9" stroke="none" transform="rotate(-1, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="45.0" fill="#bbdefb"/>
+<rect x="710" y="610" width="80" height="80" fill="#1565c0" stroke="none" transform="rotate(-1, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="40.0" fill="#1976d2"/>
+<rect x="715" y="615" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(-2, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="35.0" fill="#1976d2"/>
+<rect x="720" y="620" width="60" height="60" fill="#bbdefb" stroke="none" transform="rotate(-1, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="30.0" fill="#2196f3"/>
+<rect x="725" y="625" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(1, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="25.0" fill="#bbdefb"/>
+<rect x="730" y="630" width="40" height="40" fill="#bbdefb" stroke="none" transform="rotate(1, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="20.0" fill="#2196f3"/>
+<rect x="735" y="635" width="30" height="30" fill="#42a5f5" stroke="none" transform="rotate(-1, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="15.0" fill="#2196f3"/>
+<rect x="740" y="640" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(0, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="10.0" fill="#42a5f5"/>
+<rect x="745" y="645" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(-2, 750.0, 650.0)" />
+<circle cx="750.0" cy="650.0" r="5.0" fill="#2196f3"/>
+<rect x="800" y="600" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="800" y="600" width="100" height="100" fill="#42a5f5" stroke="none" transform="rotate(-2, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="50.0" fill="#e3f2fd"/>
+<rect x="805" y="605" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(1, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="45.0" fill="#42a5f5"/>
+<rect x="810" y="610" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(0, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="40.0" fill="#1e88e5"/>
+<rect x="815" y="615" width="70" height="70" fill="#1e88e5" stroke="none" transform="rotate(0, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="35.0" fill="#64b5f6"/>
+<rect x="820" y="620" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-1, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="30.0" fill="#64b5f6"/>
+<rect x="825" y="625" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(1, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="25.0" fill="#1976d2"/>
+<rect x="830" y="630" width="40" height="40" fill="#bbdefb" stroke="none" transform="rotate(0, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="20.0" fill="#1976d2"/>
+<rect x="835" y="635" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(-1, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="15.0" fill="#0d47a1"/>
+<rect x="840" y="640" width="20" height="20" fill="#2196f3" stroke="none" transform="rotate(0, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="10.0" fill="#1e88e5"/>
+<rect x="845" y="645" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(0, 850.0, 650.0)" />
+<circle cx="850.0" cy="650.0" r="5.0" fill="#e3f2fd"/>
+<rect x="0" y="700" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="0" y="700" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(-1, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="50.0" fill="#42a5f5"/>
+<rect x="5" y="705" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(1, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="45.0" fill="#90caf9"/>
+<rect x="10" y="710" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(0, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="40.0" fill="#bbdefb"/>
+<rect x="15" y="715" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(0, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="35.0" fill="#64b5f6"/>
+<rect x="20" y="720" width="60" height="60" fill="#2196f3" stroke="none" transform="rotate(1, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="30.0" fill="#2196f3"/>
+<rect x="25" y="725" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(0, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="25.0" fill="#90caf9"/>
+<rect x="30" y="730" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(0, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="20.0" fill="#90caf9"/>
+<rect x="35" y="735" width="30" height="30" fill="#42a5f5" stroke="none" transform="rotate(0, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="15.0" fill="#42a5f5"/>
+<rect x="40" y="740" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(1, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="10.0" fill="#1e88e5"/>
+<rect x="45" y="745" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-1, 50.0, 750.0)" />
+<circle cx="50.0" cy="750.0" r="5.0" fill="#1565c0"/>
+<rect x="100" y="700" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="100" y="700" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(0, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="50.0" fill="#64b5f6"/>
+<rect x="105" y="705" width="90" height="90" fill="#42a5f5" stroke="none" transform="rotate(-1, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="45.0" fill="#1976d2"/>
+<rect x="110" y="710" width="80" height="80" fill="#42a5f5" stroke="none" transform="rotate(-2, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="40.0" fill="#bbdefb"/>
+<rect x="115" y="715" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(-2, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="35.0" fill="#2196f3"/>
+<rect x="120" y="720" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(0, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="30.0" fill="#64b5f6"/>
+<rect x="125" y="725" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(-1, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="25.0" fill="#bbdefb"/>
+<rect x="130" y="730" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(0, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="20.0" fill="#0d47a1"/>
+<rect x="135" y="735" width="30" height="30" fill="#2196f3" stroke="none" transform="rotate(-1, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="15.0" fill="#0d47a1"/>
+<rect x="140" y="740" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(1, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="10.0" fill="#1565c0"/>
+<rect x="145" y="745" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-2, 150.0, 750.0)" />
+<circle cx="150.0" cy="750.0" r="5.0" fill="#42a5f5"/>
+<rect x="200" y="700" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="200" y="700" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(0, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="50.0" fill="#1976d2"/>
+<rect x="205" y="705" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(0, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="45.0" fill="#0d47a1"/>
+<rect x="210" y="710" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(0, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="40.0" fill="#90caf9"/>
+<rect x="215" y="715" width="70" height="70" fill="#1565c0" stroke="none" transform="rotate(-1, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="35.0" fill="#42a5f5"/>
+<rect x="220" y="720" width="60" height="60" fill="#42a5f5" stroke="none" transform="rotate(-2, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="30.0" fill="#2196f3"/>
+<rect x="225" y="725" width="50" height="50" fill="#bbdefb" stroke="none" transform="rotate(1, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="25.0" fill="#42a5f5"/>
+<rect x="230" y="730" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(0, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="20.0" fill="#1565c0"/>
+<rect x="235" y="735" width="30" height="30" fill="#64b5f6" stroke="none" transform="rotate(-2, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="15.0" fill="#64b5f6"/>
+<rect x="240" y="740" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(1, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="10.0" fill="#1565c0"/>
+<rect x="245" y="745" width="10" height="10" fill="#1976d2" stroke="none" transform="rotate(-2, 250.0, 750.0)" />
+<circle cx="250.0" cy="750.0" r="5.0" fill="#bbdefb"/>
+<rect x="300" y="700" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="300" y="700" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(1, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="50.0" fill="#2196f3"/>
+<rect x="305" y="705" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(-2, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="45.0" fill="#1976d2"/>
+<rect x="310" y="710" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(1, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="40.0" fill="#64b5f6"/>
+<rect x="315" y="715" width="70" height="70" fill="#64b5f6" stroke="none" transform="rotate(1, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="35.0" fill="#90caf9"/>
+<rect x="320" y="720" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(1, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="30.0" fill="#42a5f5"/>
+<rect x="325" y="725" width="50" height="50" fill="#90caf9" stroke="none" transform="rotate(0, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="25.0" fill="#1e88e5"/>
+<rect x="330" y="730" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(-2, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="20.0" fill="#1e88e5"/>
+<rect x="335" y="735" width="30" height="30" fill="#1565c0" stroke="none" transform="rotate(-2, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="15.0" fill="#64b5f6"/>
+<rect x="340" y="740" width="20" height="20" fill="#42a5f5" stroke="none" transform="rotate(0, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="10.0" fill="#42a5f5"/>
+<rect x="345" y="745" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(-1, 350.0, 750.0)" />
+<circle cx="350.0" cy="750.0" r="5.0" fill="#1565c0"/>
+<rect x="400" y="700" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="400" y="700" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(-1, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="50.0" fill="#1e88e5"/>
+<rect x="405" y="705" width="90" height="90" fill="#64b5f6" stroke="none" transform="rotate(-1, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="45.0" fill="#90caf9"/>
+<rect x="410" y="710" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(-2, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="40.0" fill="#90caf9"/>
+<rect x="415" y="715" width="70" height="70" fill="#bbdefb" stroke="none" transform="rotate(-2, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="35.0" fill="#1e88e5"/>
+<rect x="420" y="720" width="60" height="60" fill="#0d47a1" stroke="none" transform="rotate(0, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="30.0" fill="#90caf9"/>
+<rect x="425" y="725" width="50" height="50" fill="#64b5f6" stroke="none" transform="rotate(-2, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="25.0" fill="#bbdefb"/>
+<rect x="430" y="730" width="40" height="40" fill="#bbdefb" stroke="none" transform="rotate(-1, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="20.0" fill="#64b5f6"/>
+<rect x="435" y="735" width="30" height="30" fill="#1976d2" stroke="none" transform="rotate(1, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="15.0" fill="#42a5f5"/>
+<rect x="440" y="740" width="20" height="20" fill="#90caf9" stroke="none" transform="rotate(1, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="10.0" fill="#1976d2"/>
+<rect x="445" y="745" width="10" height="10" fill="#e3f2fd" stroke="none" transform="rotate(-2, 450.0, 750.0)" />
+<circle cx="450.0" cy="750.0" r="5.0" fill="#0d47a1"/>
+<rect x="500" y="700" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="500" y="700" width="100" height="100" fill="#0d47a1" stroke="none" transform="rotate(-2, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="50.0" fill="#1976d2"/>
+<rect x="505" y="705" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(0, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="45.0" fill="#1565c0"/>
+<rect x="510" y="710" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(-1, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="40.0" fill="#64b5f6"/>
+<rect x="515" y="715" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(1, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="35.0" fill="#bbdefb"/>
+<rect x="520" y="720" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(1, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="30.0" fill="#0d47a1"/>
+<rect x="525" y="725" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(1, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="25.0" fill="#90caf9"/>
+<rect x="530" y="730" width="40" height="40" fill="#1976d2" stroke="none" transform="rotate(-2, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="20.0" fill="#42a5f5"/>
+<rect x="535" y="735" width="30" height="30" fill="#1976d2" stroke="none" transform="rotate(1, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="15.0" fill="#1565c0"/>
+<rect x="540" y="740" width="20" height="20" fill="#bbdefb" stroke="none" transform="rotate(0, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="10.0" fill="#1565c0"/>
+<rect x="545" y="745" width="10" height="10" fill="#42a5f5" stroke="none" transform="rotate(-2, 550.0, 750.0)" />
+<circle cx="550.0" cy="750.0" r="5.0" fill="#e3f2fd"/>
+<rect x="600" y="700" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="600" y="700" width="100" height="100" fill="#1e88e5" stroke="none" transform="rotate(-1, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="50.0" fill="#1565c0"/>
+<rect x="605" y="705" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(-2, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="45.0" fill="#e3f2fd"/>
+<rect x="610" y="710" width="80" height="80" fill="#2196f3" stroke="none" transform="rotate(0, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="40.0" fill="#1e88e5"/>
+<rect x="615" y="715" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(1, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="35.0" fill="#bbdefb"/>
+<rect x="620" y="720" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-2, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="30.0" fill="#64b5f6"/>
+<rect x="625" y="725" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(0, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="25.0" fill="#1e88e5"/>
+<rect x="630" y="730" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(-1, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="20.0" fill="#90caf9"/>
+<rect x="635" y="735" width="30" height="30" fill="#1e88e5" stroke="none" transform="rotate(0, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="15.0" fill="#90caf9"/>
+<rect x="640" y="740" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(-1, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="10.0" fill="#0d47a1"/>
+<rect x="645" y="745" width="10" height="10" fill="#90caf9" stroke="none" transform="rotate(1, 650.0, 750.0)" />
+<circle cx="650.0" cy="750.0" r="5.0" fill="#bbdefb"/>
+<rect x="700" y="700" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="700" y="700" width="100" height="100" fill="#1565c0" stroke="none" transform="rotate(0, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="50.0" fill="#64b5f6"/>
+<rect x="705" y="705" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(-2, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="45.0" fill="#2196f3"/>
+<rect x="710" y="710" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(1, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="40.0" fill="#1565c0"/>
+<rect x="715" y="715" width="70" height="70" fill="#64b5f6" stroke="none" transform="rotate(-2, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="35.0" fill="#42a5f5"/>
+<rect x="720" y="720" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(-1, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="30.0" fill="#1e88e5"/>
+<rect x="725" y="725" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(1, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="25.0" fill="#bbdefb"/>
+<rect x="730" y="730" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(1, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="20.0" fill="#1e88e5"/>
+<rect x="735" y="735" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(-1, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="15.0" fill="#64b5f6"/>
+<rect x="740" y="740" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(0, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="10.0" fill="#64b5f6"/>
+<rect x="745" y="745" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(1, 750.0, 750.0)" />
+<circle cx="750.0" cy="750.0" r="5.0" fill="#1976d2"/>
+<rect x="800" y="700" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="800" y="700" width="100" height="100" fill="#42a5f5" stroke="none" transform="rotate(0, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="50.0" fill="#90caf9"/>
+<rect x="805" y="705" width="90" height="90" fill="#90caf9" stroke="none" transform="rotate(1, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="45.0" fill="#e3f2fd"/>
+<rect x="810" y="710" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(0, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="40.0" fill="#42a5f5"/>
+<rect x="815" y="715" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(-2, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="35.0" fill="#bbdefb"/>
+<rect x="820" y="720" width="60" height="60" fill="#1565c0" stroke="none" transform="rotate(1, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="30.0" fill="#1976d2"/>
+<rect x="825" y="725" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(-2, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="25.0" fill="#e3f2fd"/>
+<rect x="830" y="730" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(-1, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="20.0" fill="#90caf9"/>
+<rect x="835" y="735" width="30" height="30" fill="#0d47a1" stroke="none" transform="rotate(-2, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="15.0" fill="#0d47a1"/>
+<rect x="840" y="740" width="20" height="20" fill="#1976d2" stroke="none" transform="rotate(0, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="10.0" fill="#0d47a1"/>
+<rect x="845" y="745" width="10" height="10" fill="#2196f3" stroke="none" transform="rotate(0, 850.0, 750.0)" />
+<circle cx="850.0" cy="750.0" r="5.0" fill="#64b5f6"/>
+<rect x="0" y="800" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="0" y="800" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(-2, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="50.0" fill="#bbdefb"/>
+<rect x="5" y="805" width="90" height="90" fill="#1e88e5" stroke="none" transform="rotate(-2, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="45.0" fill="#42a5f5"/>
+<rect x="10" y="810" width="80" height="80" fill="#1565c0" stroke="none" transform="rotate(-2, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="40.0" fill="#1976d2"/>
+<rect x="15" y="815" width="70" height="70" fill="#1565c0" stroke="none" transform="rotate(-1, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="35.0" fill="#1565c0"/>
+<rect x="20" y="820" width="60" height="60" fill="#90caf9" stroke="none" transform="rotate(-1, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="30.0" fill="#e3f2fd"/>
+<rect x="25" y="825" width="50" height="50" fill="#1976d2" stroke="none" transform="rotate(-1, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="25.0" fill="#e3f2fd"/>
+<rect x="30" y="830" width="40" height="40" fill="#e3f2fd" stroke="none" transform="rotate(1, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="20.0" fill="#1976d2"/>
+<rect x="35" y="835" width="30" height="30" fill="#1e88e5" stroke="none" transform="rotate(1, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="15.0" fill="#e3f2fd"/>
+<rect x="40" y="840" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(1, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="10.0" fill="#1e88e5"/>
+<rect x="45" y="845" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(-2, 50.0, 850.0)" />
+<circle cx="50.0" cy="850.0" r="5.0" fill="#90caf9"/>
+<rect x="100" y="800" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="100" y="800" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(-1, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="50.0" fill="#2196f3"/>
+<rect x="105" y="805" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(-2, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="45.0" fill="#1565c0"/>
+<rect x="110" y="810" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(-1, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="40.0" fill="#42a5f5"/>
+<rect x="115" y="815" width="70" height="70" fill="#e3f2fd" stroke="none" transform="rotate(0, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="35.0" fill="#2196f3"/>
+<rect x="120" y="820" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-2, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="30.0" fill="#42a5f5"/>
+<rect x="125" y="825" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(-2, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="25.0" fill="#90caf9"/>
+<rect x="130" y="830" width="40" height="40" fill="#42a5f5" stroke="none" transform="rotate(-1, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="20.0" fill="#64b5f6"/>
+<rect x="135" y="835" width="30" height="30" fill="#42a5f5" stroke="none" transform="rotate(0, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="15.0" fill="#bbdefb"/>
+<rect x="140" y="840" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(1, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="10.0" fill="#e3f2fd"/>
+<rect x="145" y="845" width="10" height="10" fill="#e3f2fd" stroke="none" transform="rotate(-1, 150.0, 850.0)" />
+<circle cx="150.0" cy="850.0" r="5.0" fill="#1e88e5"/>
+<rect x="200" y="800" width="100" height="100" fill="#f2f2f2" stroke="none" />
+<rect x="200" y="800" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(-2, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="50.0" fill="#1e88e5"/>
+<rect x="205" y="805" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(-1, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="45.0" fill="#1565c0"/>
+<rect x="210" y="810" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(0, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="40.0" fill="#1976d2"/>
+<rect x="215" y="815" width="70" height="70" fill="#2196f3" stroke="none" transform="rotate(1, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="35.0" fill="#64b5f6"/>
+<rect x="220" y="820" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(0, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="30.0" fill="#90caf9"/>
+<rect x="225" y="825" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(1, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="25.0" fill="#e3f2fd"/>
+<rect x="230" y="830" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(0, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="20.0" fill="#42a5f5"/>
+<rect x="235" y="835" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(1, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="15.0" fill="#2196f3"/>
+<rect x="240" y="840" width="20" height="20" fill="#2196f3" stroke="none" transform="rotate(-1, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="10.0" fill="#1976d2"/>
+<rect x="245" y="845" width="10" height="10" fill="#64b5f6" stroke="none" transform="rotate(-2, 250.0, 850.0)" />
+<circle cx="250.0" cy="850.0" r="5.0" fill="#2196f3"/>
+<rect x="300" y="800" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="300" y="800" width="100" height="100" fill="#90caf9" stroke="none" transform="rotate(-1, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="50.0" fill="#2196f3"/>
+<rect x="305" y="805" width="90" height="90" fill="#0d47a1" stroke="none" transform="rotate(-2, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="45.0" fill="#42a5f5"/>
+<rect x="310" y="810" width="80" height="80" fill="#2196f3" stroke="none" transform="rotate(-1, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="40.0" fill="#90caf9"/>
+<rect x="315" y="815" width="70" height="70" fill="#1976d2" stroke="none" transform="rotate(-2, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="35.0" fill="#e3f2fd"/>
+<rect x="320" y="820" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(-1, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="30.0" fill="#42a5f5"/>
+<rect x="325" y="825" width="50" height="50" fill="#bbdefb" stroke="none" transform="rotate(0, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="25.0" fill="#0d47a1"/>
+<rect x="330" y="830" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(-1, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="20.0" fill="#bbdefb"/>
+<rect x="335" y="835" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(-2, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="15.0" fill="#64b5f6"/>
+<rect x="340" y="840" width="20" height="20" fill="#64b5f6" stroke="none" transform="rotate(0, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="10.0" fill="#1e88e5"/>
+<rect x="345" y="845" width="10" height="10" fill="#bbdefb" stroke="none" transform="rotate(1, 350.0, 850.0)" />
+<circle cx="350.0" cy="850.0" r="5.0" fill="#1976d2"/>
+<rect x="400" y="800" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="400" y="800" width="100" height="100" fill="#bbdefb" stroke="none" transform="rotate(-2, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="50.0" fill="#2196f3"/>
+<rect x="405" y="805" width="90" height="90" fill="#1565c0" stroke="none" transform="rotate(0, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="45.0" fill="#bbdefb"/>
+<rect x="410" y="810" width="80" height="80" fill="#0d47a1" stroke="none" transform="rotate(-2, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="40.0" fill="#90caf9"/>
+<rect x="415" y="815" width="70" height="70" fill="#0d47a1" stroke="none" transform="rotate(-1, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="35.0" fill="#90caf9"/>
+<rect x="420" y="820" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(0, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="30.0" fill="#1565c0"/>
+<rect x="425" y="825" width="50" height="50" fill="#e3f2fd" stroke="none" transform="rotate(-2, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="25.0" fill="#42a5f5"/>
+<rect x="430" y="830" width="40" height="40" fill="#0d47a1" stroke="none" transform="rotate(-1, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="20.0" fill="#1e88e5"/>
+<rect x="435" y="835" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-1, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="15.0" fill="#1565c0"/>
+<rect x="440" y="840" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(-1, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="10.0" fill="#90caf9"/>
+<rect x="445" y="845" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(-1, 450.0, 850.0)" />
+<circle cx="450.0" cy="850.0" r="5.0" fill="#1976d2"/>
+<rect x="500" y="800" width="100" height="100" fill="#7f7f7f" stroke="none" />
+<rect x="500" y="800" width="100" height="100" fill="#2196f3" stroke="none" transform="rotate(-2, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="50.0" fill="#42a5f5"/>
+<rect x="505" y="805" width="90" height="90" fill="#e3f2fd" stroke="none" transform="rotate(-2, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="45.0" fill="#2196f3"/>
+<rect x="510" y="810" width="80" height="80" fill="#1e88e5" stroke="none" transform="rotate(-1, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="40.0" fill="#1565c0"/>
+<rect x="515" y="815" width="70" height="70" fill="#42a5f5" stroke="none" transform="rotate(-2, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="35.0" fill="#bbdefb"/>
+<rect x="520" y="820" width="60" height="60" fill="#2196f3" stroke="none" transform="rotate(-2, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="30.0" fill="#42a5f5"/>
+<rect x="525" y="825" width="50" height="50" fill="#1e88e5" stroke="none" transform="rotate(0, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="25.0" fill="#90caf9"/>
+<rect x="530" y="830" width="40" height="40" fill="#90caf9" stroke="none" transform="rotate(0, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="20.0" fill="#64b5f6"/>
+<rect x="535" y="835" width="30" height="30" fill="#e3f2fd" stroke="none" transform="rotate(-2, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="15.0" fill="#64b5f6"/>
+<rect x="540" y="840" width="20" height="20" fill="#2196f3" stroke="none" transform="rotate(1, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="10.0" fill="#90caf9"/>
+<rect x="545" y="845" width="10" height="10" fill="#42a5f5" stroke="none" transform="rotate(0, 550.0, 850.0)" />
+<circle cx="550.0" cy="850.0" r="5.0" fill="#2196f3"/>
+<rect x="600" y="800" width="100" height="100" fill="#a5a5a5" stroke="none" />
+<rect x="600" y="800" width="100" height="100" fill="#64b5f6" stroke="none" transform="rotate(-1, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="50.0" fill="#64b5f6"/>
+<rect x="605" y="805" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(-2, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="45.0" fill="#1565c0"/>
+<rect x="610" y="810" width="80" height="80" fill="#bbdefb" stroke="none" transform="rotate(-1, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="40.0" fill="#42a5f5"/>
+<rect x="615" y="815" width="70" height="70" fill="#90caf9" stroke="none" transform="rotate(-1, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="35.0" fill="#42a5f5"/>
+<rect x="620" y="820" width="60" height="60" fill="#1976d2" stroke="none" transform="rotate(0, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="30.0" fill="#1976d2"/>
+<rect x="625" y="825" width="50" height="50" fill="#1565c0" stroke="none" transform="rotate(1, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="25.0" fill="#42a5f5"/>
+<rect x="630" y="830" width="40" height="40" fill="#1e88e5" stroke="none" transform="rotate(-2, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="20.0" fill="#1976d2"/>
+<rect x="635" y="835" width="30" height="30" fill="#bbdefb" stroke="none" transform="rotate(-1, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="15.0" fill="#42a5f5"/>
+<rect x="640" y="840" width="20" height="20" fill="#1565c0" stroke="none" transform="rotate(-2, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="10.0" fill="#2196f3"/>
+<rect x="645" y="845" width="10" height="10" fill="#1565c0" stroke="none" transform="rotate(-1, 650.0, 850.0)" />
+<circle cx="650.0" cy="850.0" r="5.0" fill="#0d47a1"/>
+<rect x="700" y="800" width="100" height="100" fill="#cccccc" stroke="none" />
+<rect x="700" y="800" width="100" height="100" fill="#1976d2" stroke="none" transform="rotate(1, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="50.0" fill="#1e88e5"/>
+<rect x="705" y="805" width="90" height="90" fill="#1976d2" stroke="none" transform="rotate(1, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="45.0" fill="#1565c0"/>
+<rect x="710" y="810" width="80" height="80" fill="#90caf9" stroke="none" transform="rotate(-2, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="40.0" fill="#64b5f6"/>
+<rect x="715" y="815" width="70" height="70" fill="#0d47a1" stroke="none" transform="rotate(1, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="35.0" fill="#2196f3"/>
+<rect x="720" y="820" width="60" height="60" fill="#e3f2fd" stroke="none" transform="rotate(0, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="30.0" fill="#e3f2fd"/>
+<rect x="725" y="825" width="50" height="50" fill="#2196f3" stroke="none" transform="rotate(-1, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="25.0" fill="#1e88e5"/>
+<rect x="730" y="830" width="40" height="40" fill="#bbdefb" stroke="none" transform="rotate(1, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="20.0" fill="#2196f3"/>
+<rect x="735" y="835" width="30" height="30" fill="#1976d2" stroke="none" transform="rotate(0, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="15.0" fill="#1e88e5"/>
+<rect x="740" y="840" width="20" height="20" fill="#1e88e5" stroke="none" transform="rotate(1, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="10.0" fill="#2196f3"/>
+<rect x="745" y="845" width="10" height="10" fill="#1e88e5" stroke="none" transform="rotate(0, 750.0, 850.0)" />
+<circle cx="750.0" cy="850.0" r="5.0" fill="#1e88e5"/>
+<rect x="800" y="800" width="100" height="100" fill="#595959" stroke="none" />
+<rect x="800" y="800" width="100" height="100" fill="#1e88e5" stroke="none" transform="rotate(1, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="50.0" fill="#1565c0"/>
+<rect x="805" y="805" width="90" height="90" fill="#bbdefb" stroke="none" transform="rotate(-2, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="45.0" fill="#0d47a1"/>
+<rect x="810" y="810" width="80" height="80" fill="#64b5f6" stroke="none" transform="rotate(1, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="40.0" fill="#90caf9"/>
+<rect x="815" y="815" width="70" height="70" fill="#1565c0" stroke="none" transform="rotate(1, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="35.0" fill="#e3f2fd"/>
+<rect x="820" y="820" width="60" height="60" fill="#1e88e5" stroke="none" transform="rotate(1, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="30.0" fill="#0d47a1"/>
+<rect x="825" y="825" width="50" height="50" fill="#42a5f5" stroke="none" transform="rotate(0, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="25.0" fill="#bbdefb"/>
+<rect x="830" y="830" width="40" height="40" fill="#2196f3" stroke="none" transform="rotate(0, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="20.0" fill="#bbdefb"/>
+<rect x="835" y="835" width="30" height="30" fill="#90caf9" stroke="none" transform="rotate(-2, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="15.0" fill="#1e88e5"/>
+<rect x="840" y="840" width="20" height="20" fill="#e3f2fd" stroke="none" transform="rotate(-1, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="10.0" fill="#1565c0"/>
+<rect x="845" y="845" width="10" height="10" fill="#bbdefb" stroke="none" transform="rotate(-1, 850.0, 850.0)" />
+<circle cx="850.0" cy="850.0" r="5.0" fill="#e3f2fd"/>
+</svg>
