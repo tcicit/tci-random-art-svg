@@ -46,11 +46,6 @@ datetime
 
     # sudo apt-get install cairosvg
 
-
-
-
-
-
 ## Beispiele  / Example
 
 

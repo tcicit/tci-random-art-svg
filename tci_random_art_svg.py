@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Modul for TCI Generativ Art Generator 2
 Autor: Thomas Cigolla
@@ -5,6 +6,7 @@ Date: 16.06.2022
 Version: 0.1
 """
 import random
+from xml.dom.pulldom import default_bufsize
 import numpy as np
 import json
 import yaml
@@ -12,6 +14,46 @@ import math
 import cairosvg
 import pathlib
 from datetime import datetime
+import sys
+import argparse
+from pathlib import Path
+import uuid
+
+def get_config_file(default_config_file):
+
+    # Create the parser
+    parser = argparse.ArgumentParser()
+    
+    # Add an argument
+    parser.add_argument('-c', '--config', type=str, help='Config File name')
+    parser.add_argument('-d', '--default', action='store_true', help='Using the default Config File')
+    
+    # Parse the argument
+    args = parser.parse_args()
+    
+    if (args.default):
+        print (f'Using Default Config-File: {default_config_file}' )
+        data = default_config_file
+    elif (args.config):
+        path = Path(args.config)
+
+        if path.is_file():
+            print(f'The file {args.config} exists')
+            data = args.config
+        else:
+            print(f'The file {args.config} does not exist')
+            sys.exit(2)
+    else:
+        print ("No parameters are submitted. Use -h/--help for descriptin.")
+        sys.exit(2)
+
+    return data
+
+
+def output_file(prefix):
+    run_id = uuid.uuid1()
+    print(f'Processing run_id: {run_id}')
+    return  f'./output/{prefix}-{run_id}'
 
 
 def read_file(file_name):
@@ -66,8 +108,7 @@ def header(config):
             <desc>{config["general"]["describtion"]}</desc>
             <autor>{config["general"]["autor"]}</autor>
             <date>{now}</date>
-            <license>{config["general"]["license"]}</license>\n
-
+            <license>{config["general"]["license"]}</license>
             <rect x="0" y="0" width="{w}" height="{h}" fill="{bg_fill}" />\n
             """
 

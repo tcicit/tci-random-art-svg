@@ -6,18 +6,17 @@ Rotate
 30.04.2022
 """
 import random
-import uuid
 import tci_random_art_svg as tci_svg
 
+default_config_file = 'config-semicircle.yaml'
+config_file = tci_svg.get_config_file(default_config_file )
+config = tci_svg.read_file(config_file)
 
-config = tci_svg.read_file('config-semicircle.yaml')
-forground = tci_svg.read_file('/home/tci/Dokumente/Entwicklung/Python/tci-random-art-svg/assets/color_forground.yaml')
-background = tci_svg.read_file('/home/tci/Dokumente/Entwicklung/Python/tci-random-art-svg/assets/color_background.yaml')
+prefix = "semicircle"
+out_filename = tci_svg.output_file(prefix)
 
-# out_filename = "./output/my_file"
-run_id = uuid.uuid1()
-print(f'Processing run_id: {run_id}')
-out_filename = f'./output/semicircle-{run_id}'
+forground = tci_svg.read_file(config["general"]["forground_colors"])
+background = tci_svg.read_file(config["general"]["background_colors"])
 
 forground_palette, text_froground = tci_svg.get_palette(forground)
 background_palette, text_background = tci_svg.get_palette(background)
@@ -29,8 +28,6 @@ data = tci_svg.header(config)
 f.write(data) 
 
 # init
-i = 0
-j = 0
 rectx = 0
 recty = 0
 radiusx = 0

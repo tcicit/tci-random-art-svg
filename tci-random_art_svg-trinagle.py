@@ -20,29 +20,23 @@ Aufteilung des Rechteckes für Dreieck (polygon)
   ------|--------|--------
   0,100 | 50,100 | 100,100 
 
-
-
 """
 import random
-import uuid
 import tci_random_art_svg as tci_svg
 
-config = tci_svg.read_file('config-trinagle.yaml')
+default_config_file = 'config-trinagle.yaml'
+config_file = tci_svg.get_config_file(default_config_file )
+config = tci_svg.read_file(config_file)
+
+prefix = "triangle"
+out_filename = tci_svg.output_file(prefix)
+
 forground = tci_svg.read_file(config["general"]["forground_colors"])
 background = tci_svg.read_file(config["general"]["background_colors"])
 
-
 # init
-i = 0
-j = 0
 rectx = 0
 recty = 0
-
-# out_filename = "./output/my_file" 
-run_id = uuid.uuid1()
-print(f'Processing run_id: {run_id}')
-out_filename = f'./output/triangle-{run_id}'
-
 
 forground_palette, text_froground = tci_svg.get_palette(forground)
 background_palette, text_background = tci_svg.get_palette(background)

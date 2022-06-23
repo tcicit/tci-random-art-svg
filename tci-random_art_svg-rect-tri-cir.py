@@ -7,21 +7,21 @@ Circle
 30.04.2022
 """
 import random
-import uuid
 import tci_random_art_svg as tci_svg
 
-config = tci_svg.read_file('config-rect-tri-cir.yaml')
+default_config_file = 'config-rect-tri-cir.yaml'
+config_file = tci_svg.get_config_file(default_config_file )
+config = tci_svg.read_file(config_file)
+
+prefix = "rect-tri-cir"
+out_filename = tci_svg.output_file(prefix)
+
 forground = tci_svg.read_file(config["general"]["forground_colors"])
 background = tci_svg.read_file(config["general"]["background_colors"])
 
 # init
 rectx = 0
 recty = 0
-
-# out_filename = "./output/my_file" 
-run_id = uuid.uuid1()
-print(f'Processing run_id: {run_id}')
-out_filename = f'./output/rect-tri-cir_{run_id}'
 
 forground_palette, text_froground = tci_svg.get_palette(forground)
 background_palette, text_background = tci_svg.get_palette(background)

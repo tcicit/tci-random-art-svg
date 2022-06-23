@@ -6,18 +6,17 @@ Rotate
 30.04.2022
 """
 import random
-import uuid
 import tci_random_art_svg as tci_svg
 
+default_config_file = 'config-rect-rotate-fall.yaml'
+config_file = tci_svg.get_config_file(default_config_file )
+config = tci_svg.read_file(config_file)
 
-config = tci_svg.read_file('config-rect-rotate-fall.yaml')
+prefix = "rect-rotate-fall"
+out_filename = tci_svg.output_file(prefix)
+
 forground = tci_svg.read_file(config["general"]["forground_colors"])
 background = tci_svg.read_file(config["general"]["background_colors"])
-
-# out_filename = "./output/my_file"
-run_id = uuid.uuid1()
-print(f'Processing run_id: {run_id}')
-out_filename = f'./output/rect-rotate-{run_id}'
 
 forground_palette, text_froground = tci_svg.get_palette(forground)
 background_palette, text_background = tci_svg.get_palette(background)

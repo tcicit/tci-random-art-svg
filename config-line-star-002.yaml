@@ -13,13 +13,13 @@ note:
   show_palette: 'no'                  # (yes / no) Shows the used palette on the output file
 grid:
   fields_x: 9
-  fields_y: 9
-  rectwidth: 100
-  rectheight: 100
+  fields_y: 12
+  rectwidth: 200
+  rectheight: 200
   background_color_fill: black               # none, color name (red) or hex
   # ################################################
 line:
-  number_lines: 600
+  number_lines: 800
   change_color: 'no'                # (yes / no)
   degree_min: 0
   degree_max: 15
@@ -29,8 +29,8 @@ line:
   strok_width_max: 8
 stars:
   degree: 15
-  number_stars: 15
-  change_color: 'no'             # (yes / no)
+  number_stars: 30
+  change_color: 'yes'             # (yes / no)
   line_length_min: 40
   line_length_max: 200
   strok_width_min: 2

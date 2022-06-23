@@ -1,21 +1,19 @@
-
+#!/usr/bin/env python3
 """
 TCI Generativ Art Generator 2
 Line Star
 """
 import random
-import uuid
 import tci_random_art_svg as tci_svg
 
+default_config_file = 'config-line-star.yaml'
+config_file = tci_svg.get_config_file(default_config_file )
+config = tci_svg.read_file(config_file)
 
-config = tci_svg.read_file('config-line-star.yaml')
+prefix = "line-star"
+out_filename = tci_svg.output_file(prefix)
+
 forground = tci_svg.read_file(config["general"]["forground_colors"])
-
-#out_filename = "./output/my_file" 
-run_id = uuid.uuid1()
-print(f'Processing run_id: {run_id}')
-out_filename = f'./output/line-star-{run_id}'
-
 forground_palette, text_froground = tci_svg.get_palette(forground)
 
 # Grid-Dimension berechnen
