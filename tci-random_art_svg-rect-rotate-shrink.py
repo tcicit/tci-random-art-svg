@@ -69,7 +69,7 @@ for i in range(config["grid"]["fields_y"]):
             arguments2["center_y"]          = center_y 
              
             if config["rect"]["rotate"] == "yes":
-                if arguments2["rotate_angel"] < 360:
+                if arguments2["rotate_angle"] < 360:
                     arguments2["rotate_angle"] += config["rect"]["rotate_angle"]
                 else: 
                     arguments2["rotate_angle"] = 0

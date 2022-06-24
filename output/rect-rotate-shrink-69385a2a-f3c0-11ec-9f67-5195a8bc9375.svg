@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            version="1.1" 
+            baseProfile="full"
+            width="1000" height="1000"
+            viewBox="0 0 1000 1000">
+            <title>TCI Generativ Art Generator 2 Lines Only</title>
+            <desc>Generiert mit Python</desc>
+            <autor>Thomas Cigolla</autor>
+            <date>2022-06-24T15:20:26.628467</date>
+            <license>CC BY-NC 4.0</license>
+            <rect x="0" y="0" width="1000" height="1000" fill="none" />
+
+            <rect x="0" y="0" width="1000" height="1000" fill="none" stroke="none" />
+<rect x="0" y="0" width="1000" height="1000" fill="#e2cbb5" stroke="none" />
+<rect x="50" y="50" width="900" height="900" fill="#cd9886" stroke="none" />
+<rect x="100" y="100" width="800" height="800" fill="#928a7e" stroke="none" />
+<rect x="150" y="150" width="700" height="700" fill="#ac443a" stroke="none" />
+<rect x="200" y="200" width="600" height="600" fill="#81868b" stroke="none" />
+<rect x="250" y="250" width="500" height="500" fill="#74393b" stroke="none" />
+<rect x="300" y="300" width="400" height="400" fill="#c6d5cc" stroke="none" />
+<rect x="350" y="350" width="300" height="300" fill="#ddbf99" stroke="none" />
+<rect x="400" y="400" width="200" height="200" fill="#d46c40" stroke="none" />
+<rect x="450" y="450" width="100" height="100" fill="#c6d5cc" stroke="none" />
+</svg>

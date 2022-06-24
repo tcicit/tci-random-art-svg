@@ -1,0 +1,46 @@
+---
+general:
+  titel: TCI Generativ Art Generator 2 Lines Only
+  describtion: Generiert mit Python
+  date: 'yes'                                              # (yes / no) puts the creation date in the header
+  autor: 'Thomas Cigolla'
+  license: CC BY-NC 4.0
+  make_png: 'yes'                                          # (yes / no)
+  make_pdf: 'no'                                           # (yes / no)
+  forground_colors: './assets/color_forground.yaml'
+  background_colors: './assets/color_background.yaml'
+note:
+  show_palette: 'no'                  # (yes / no) Shows the used palette on the output file
+grid:
+  fields_x: 3
+  fields_y: 3
+  rectwidth: 1000
+  rectheight: 1000
+  background_color_fill: none              # none, color name (red) or hex
+  # ################################################
+rect:
+  use_rect: 'yes'                         # (yes / no)
+  background_fill: 'no'     # Parmeters: none, color by name or hex, background_palette
+  forground_fill: palette       # Parmeters: none, color by name or hex, forground_palette    
+  stroke_fill: 'no'          # Parmeters: none, color by name or hex, background_palette
+  stroke_width: 'no'
+  number_inner_object: 100                 # You can add more object 
+  shrink_x: 5
+  shrink_y: 5
+  rotate: "yes"
+  rotate_angle: 2
+  transform_random: 'no'
+  transform_random_randrange:
+  - -2
+  - 2
+circle:
+  use_circle: 'no'
+  number_inner_object: 100
+  random_shrink: 'yes'
+  random_shrink_randrange:
+  - 2
+  - 10
+  shrink: 5
+  circle_radius: 500
+  semicircle_only: 'no'               # (yes / no)
+

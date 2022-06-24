@@ -1,0 +1,43 @@
+circle:
+    circle_radius: 500
+    number_inner_object: 100
+    random_shrink: 'yes'
+    random_shrink_randrange:
+    - 2
+    - 10
+    semicircle_only: 'no'
+    shrink: 5
+    use_circle: 'no'
+general:
+    autor: Thomas Cigolla
+    background_colors: ./assets/color_background.yaml
+    date: 'yes'
+    describtion: Generiert mit Python
+    forground_colors: ./assets/color_forground.yaml
+    license: CC BY-NC 4.0
+    make_pdf: 'no'
+    make_png: 'yes'
+    titel: TCI Generativ Art Generator 2 Lines Only
+grid:
+    background_color_fill: none
+    fields_x: 1
+    fields_y: 1
+    rectheight: 1000
+    rectwidth: 1000
+note:
+    show_palette: 'no'
+rect:
+    background_fill: 'no'
+    forground_fill: palette
+    number_inner_object: 100
+    rotate: 'yes'
+    rotate_angle: 2
+    shrink_x: 5
+    shrink_y: 5
+    stroke_fill: 'no'
+    stroke_width: 'no'
+    transform_random: 'no'
+    transform_random_randrange:
+    - -2
+    - 2
+    use_rect: 'yes'

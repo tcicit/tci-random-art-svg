@@ -1,0 +1,335 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            version="1.1" 
+            baseProfile="full"
+            width="900" height="900"
+            viewBox="0 0 900 900">
+            <title>TCI Generativ Art Generator 2 Semicircle</title>
+            <desc>Generiert mit Python</desc>
+            <autor>Thomas Cigolla</autor>
+            <date>2022-06-24T10:40:58.185954</date>
+            <license>CC BY-NC 4.0</license>
+            <rect x="0" y="0" width="900" height="900" fill="none" />
+
+            <rect x="0" y="0" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#943a4d" ><path d="M 0.0 49.99999999999999 A 50.0 50.0 0 0 0 100.0 50.000000000000014 L 50.0 50.0 Z"/>
+</g>
+<rect x="100" y="0" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#5a5550" ><path d="M 200.0 50.0 A 50.0 50.0 0 0 0 100.0 49.99999999999999 L 150.0 50.0 Z"/>
+</g>
+<g stroke="none" fill="#45423e" ><path d="M 180.0 50.0 A 30.0 30.0 0 0 0 120.0 49.99999999999999 L 150.0 50.0 Z"/>
+</g>
+<rect x="200" y="0" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#c6d5cc" ><path d="M 250.0 100.0 A 50.0 50.0 0 0 0 250.00000000000003 0.0 L 250.0 50.0 Z"/>
+</g>
+<g stroke="none" fill="#bcbbb6" ><path d="M 250.0 80.0 A 30.0 30.0 0 0 0 250.0 20.0 L 250.0 50.0 Z"/>
+</g>
+<rect x="300" y="0" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#428f70" ><path d="M 300.0 49.99999999999999 A 50.0 50.0 0 0 0 400.0 50.000000000000014 L 350.0 50.0 Z"/>
+</g>
+<rect x="400" y="0" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#b8a136" ><path d="M 450.0 0.0 A 50.0 50.0 0 0 0 450.0 100.0 L 450.0 50.0 Z"/>
+</g>
+<rect x="500" y="0" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#d9e1dd" ><path d="M 600.0 50.0 A 50.0 50.0 0 0 0 500.0 49.99999999999999 L 550.0 50.0 Z"/>
+</g>
+<g stroke="none" fill="#eadbc0" ><path d="M 580.0 50.0 A 30.0 30.0 0 0 0 520.0 49.99999999999999 L 550.0 50.0 Z"/>
+</g>
+<rect x="600" y="0" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#7aa7cb" ><path d="M 650.0 100.0 A 50.0 50.0 0 0 0 650.0 0.0 L 650.0 50.0 Z"/>
+</g>
+<rect x="700" y="0" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#d8b29a" ><path d="M 800.0 50.0 A 50.0 50.0 0 0 0 700.0 49.99999999999999 L 750.0 50.0 Z"/>
+</g>
+<g stroke="none" fill="#d8b29a" ><path d="M 780.0 50.0 A 30.0 30.0 0 0 0 720.0 49.99999999999999 L 750.0 50.0 Z"/>
+</g>
+<rect x="800" y="0" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#74393b" ><path d="M 800.0 49.99999999999999 A 50.0 50.0 0 0 0 900.0 50.000000000000014 L 850.0 50.0 Z"/>
+</g>
+<g stroke="none" fill="#403c3a" ><path d="M 820.0 49.99999999999999 A 30.0 30.0 0 0 0 880.0 50.00000000000001 L 850.0 50.0 Z"/>
+</g>
+<rect x="0" y="100" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#5a5550" ><path d="M 49.99999999999999 200.0 A 50.0 50.0 0 0 0 50.000000000000014 100.0 L 50.0 150.0 Z"/>
+</g>
+<rect x="100" y="100" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#b7a392" ><path d="M 100.0 150.0 A 50.0 50.0 0 0 0 200.0 150.0 L 150.0 150.0 Z"/>
+</g>
+<g stroke="none" fill="#bcbbb6" ><path d="M 120.0 150.0 A 30.0 30.0 0 0 0 180.0 150.0 L 150.0 150.0 Z"/>
+</g>
+<rect x="200" y="100" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#3957a5" ><path d="M 300.0 150.0 A 50.0 50.0 0 0 0 200.0 150.0 L 250.0 150.0 Z"/>
+</g>
+<rect x="300" y="100" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#7aa7cb" ><path d="M 300.0 150.0 A 50.0 50.0 0 0 0 400.0 150.0 L 350.0 150.0 Z"/>
+</g>
+<g stroke="none" fill="#ddbf99" ><path d="M 320.0 150.0 A 30.0 30.0 0 0 0 380.0 150.0 L 350.0 150.0 Z"/>
+</g>
+<rect x="400" y="100" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#e6cdbf" ><path d="M 400.0 150.0 A 50.0 50.0 0 0 0 500.0 150.0 L 450.0 150.0 Z"/>
+</g>
+<g stroke="none" fill="#5e6061" ><path d="M 420.0 150.0 A 30.0 30.0 0 0 0 480.0 150.0 L 450.0 150.0 Z"/>
+</g>
+<rect x="500" y="100" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#d9e1dd" ><path d="M 500.0 150.0 A 50.0 50.0 0 0 0 600.0 150.0 L 550.0 150.0 Z"/>
+</g>
+<rect x="600" y="100" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#428f70" ><path d="M 650.0 200.0 A 50.0 50.0 0 0 0 650.0 100.0 L 650.0 150.0 Z"/>
+</g>
+<rect x="700" y="100" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#3e6e90" ><path d="M 750.0 200.0 A 50.0 50.0 0 0 0 750.0 100.0 L 750.0 150.0 Z"/>
+</g>
+<rect x="800" y="100" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#7fa25a" ><path d="M 800.0 150.0 A 50.0 50.0 0 0 0 900.0 150.0 L 850.0 150.0 Z"/>
+</g>
+<rect x="0" y="200" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#81868b" ><path d="M 100.0 250.0 A 50.0 50.0 0 0 0 0.0 250.0 L 50.0 250.0 Z"/>
+</g>
+<g stroke="none" fill="#f2bb1d" ><path d="M 80.0 250.0 A 30.0 30.0 0 0 0 20.0 250.0 L 50.0 250.0 Z"/>
+</g>
+<rect x="100" y="200" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#c45e3a" ><path d="M 150.0 300.0 A 50.0 50.0 0 0 0 150.00000000000003 200.0 L 150.0 250.0 Z"/>
+</g>
+<rect x="200" y="200" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#b7a392" ><path d="M 200.0 250.0 A 50.0 50.0 0 0 0 300.0 250.0 L 250.0 250.0 Z"/>
+</g>
+<g stroke="none" fill="#bcbbb6" ><path d="M 220.0 250.0 A 30.0 30.0 0 0 0 280.0 250.0 L 250.0 250.0 Z"/>
+</g>
+<rect x="300" y="200" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#eae4d7" ><path d="M 400.0 250.0 A 50.0 50.0 0 0 0 300.0 250.0 L 350.0 250.0 Z"/>
+</g>
+<g stroke="none" fill="#7aa7cb" ><path d="M 380.0 250.0 A 30.0 30.0 0 0 0 320.0 250.0 L 350.0 250.0 Z"/>
+</g>
+<rect x="400" y="200" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#3e6f42" ><path d="M 500.0 250.0 A 50.0 50.0 0 0 0 400.0 250.0 L 450.0 250.0 Z"/>
+</g>
+<rect x="500" y="200" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#becbb7" ><path d="M 550.0 300.0 A 50.0 50.0 0 0 0 550.0 200.0 L 550.0 250.0 Z"/>
+</g>
+<rect x="600" y="200" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#679dae" ><path d="M 600.0 250.0 A 50.0 50.0 0 0 0 700.0 250.0 L 650.0 250.0 Z"/>
+</g>
+<rect x="700" y="200" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#68443c" ><path d="M 800.0 250.0 A 50.0 50.0 0 0 0 700.0 250.0 L 750.0 250.0 Z"/>
+</g>
+<g stroke="none" fill="#ddbf99" ><path d="M 780.0 250.0 A 30.0 30.0 0 0 0 720.0 250.0 L 750.0 250.0 Z"/>
+</g>
+<rect x="800" y="200" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#928a7e" ><path d="M 800.0 250.0 A 50.0 50.0 0 0 0 900.0 250.0 L 850.0 250.0 Z"/>
+</g>
+<g stroke="none" fill="#7fa25a" ><path d="M 820.0 250.0 A 30.0 30.0 0 0 0 880.0 250.0 L 850.0 250.0 Z"/>
+</g>
+<rect x="0" y="300" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#406e58" ><path d="M 100.0 350.0 A 50.0 50.0 0 0 0 0.0 350.0 L 50.0 350.0 Z"/>
+</g>
+<rect x="100" y="300" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#4c423d" ><path d="M 200.0 350.0 A 50.0 50.0 0 0 0 100.0 350.0 L 150.0 350.0 Z"/>
+</g>
+<g stroke="none" fill="#dbbeaa" ><path d="M 180.0 350.0 A 30.0 30.0 0 0 0 120.0 350.0 L 150.0 350.0 Z"/>
+</g>
+<rect x="200" y="300" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#becbb7" ><path d="M 250.0 400.0 A 50.0 50.0 0 0 0 250.00000000000003 300.0 L 250.0 350.0 Z"/>
+</g>
+<g stroke="none" fill="#428f70" ><path d="M 250.0 380.0 A 30.0 30.0 0 0 0 250.0 320.0 L 250.0 350.0 Z"/>
+</g>
+<rect x="300" y="300" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#8fabc9" ><path d="M 350.0 300.0 A 50.0 50.0 0 0 0 350.0 400.0 L 350.0 350.0 Z"/>
+</g>
+<rect x="400" y="300" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#81868b" ><path d="M 500.0 350.0 A 50.0 50.0 0 0 0 400.0 350.0 L 450.0 350.0 Z"/>
+</g>
+<rect x="500" y="300" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#abbdc8" ><path d="M 600.0 350.0 A 50.0 50.0 0 0 0 500.0 350.0 L 550.0 350.0 Z"/>
+</g>
+<g stroke="none" fill="#b8a136" ><path d="M 580.0 350.0 A 30.0 30.0 0 0 0 520.0 350.0 L 550.0 350.0 Z"/>
+</g>
+<rect x="600" y="300" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#4d6aa8" ><path d="M 600.0 350.0 A 50.0 50.0 0 0 0 700.0 350.0 L 650.0 350.0 Z"/>
+</g>
+<rect x="700" y="300" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#8b4d3e" ><path d="M 800.0 350.0 A 50.0 50.0 0 0 0 700.0 350.0 L 750.0 350.0 Z"/>
+</g>
+<rect x="800" y="300" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#5e6061" ><path d="M 800.0 350.0 A 50.0 50.0 0 0 0 900.0 350.0 L 850.0 350.0 Z"/>
+</g>
+<g stroke="none" fill="#403c3a" ><path d="M 820.0 350.0 A 30.0 30.0 0 0 0 880.0 350.0 L 850.0 350.0 Z"/>
+</g>
+<rect x="0" y="400" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#68443c" ><path d="M 49.99999999999999 500.0 A 50.0 50.0 0 0 0 50.000000000000014 400.0 L 50.0 450.0 Z"/>
+</g>
+<g stroke="none" fill="#eacfb9" ><path d="M 49.99999999999999 480.0 A 30.0 30.0 0 0 0 50.00000000000001 420.0 L 50.0 450.0 Z"/>
+</g>
+<rect x="100" y="400" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#3a3b3b" ><path d="M 200.0 450.0 A 50.0 50.0 0 0 0 100.0 450.0 L 150.0 450.0 Z"/>
+</g>
+<rect x="200" y="400" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#81868b" ><path d="M 250.0 500.0 A 50.0 50.0 0 0 0 250.00000000000003 400.0 L 250.0 450.0 Z"/>
+</g>
+<rect x="300" y="400" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#e6cdbf" ><path d="M 350.0 400.0 A 50.0 50.0 0 0 0 350.0 500.0 L 350.0 450.0 Z"/>
+</g>
+<rect x="400" y="400" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#b7a392" ><path d="M 450.0 500.0 A 50.0 50.0 0 0 0 450.0 400.0 L 450.0 450.0 Z"/>
+</g>
+<rect x="500" y="400" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#8f3a43" ><path d="M 550.0 400.0 A 50.0 50.0 0 0 0 550.0 500.0 L 550.0 450.0 Z"/>
+</g>
+<rect x="600" y="400" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#ac443a" ><path d="M 650.0 500.0 A 50.0 50.0 0 0 0 650.0 400.0 L 650.0 450.0 Z"/>
+</g>
+<rect x="700" y="400" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#7aa7cb" ><path d="M 750.0 400.0 A 50.0 50.0 0 0 0 750.0 500.0 L 750.0 450.0 Z"/>
+</g>
+<g stroke="none" fill="#7aa7cb" ><path d="M 750.0 420.0 A 30.0 30.0 0 0 0 750.0 480.0 L 750.0 450.0 Z"/>
+</g>
+<rect x="800" y="400" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#ac443a" ><path d="M 850.0 400.0 A 50.0 50.0 0 0 0 850.0 500.0 L 850.0 450.0 Z"/>
+</g>
+<g stroke="none" fill="#91afa1" ><path d="M 850.0 420.0 A 30.0 30.0 0 0 0 850.0 480.0 L 850.0 450.0 Z"/>
+</g>
+<rect x="0" y="500" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#4c423d" ><path d="M 0.0 550.0 A 50.0 50.0 0 0 0 100.0 550.0 L 50.0 550.0 Z"/>
+</g>
+<g stroke="none" fill="#ddbf99" ><path d="M 20.0 550.0 A 30.0 30.0 0 0 0 80.0 550.0 L 50.0 550.0 Z"/>
+</g>
+<rect x="100" y="500" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#a8c4c1" ><path d="M 200.0 550.0 A 50.0 50.0 0 0 0 100.0 550.0 L 150.0 550.0 Z"/>
+</g>
+<rect x="200" y="500" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#dba3af" ><path d="M 200.0 550.0 A 50.0 50.0 0 0 0 300.0 550.0 L 250.0 550.0 Z"/>
+</g>
+<g stroke="none" fill="#8fabc9" ><path d="M 220.0 550.0 A 30.0 30.0 0 0 0 280.0 550.0 L 250.0 550.0 Z"/>
+</g>
+<rect x="300" y="500" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#3e6e90" ><path d="M 350.0 600.0 A 50.0 50.0 0 0 0 350.0 500.0 L 350.0 550.0 Z"/>
+</g>
+<rect x="400" y="500" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#dbb07f" ><path d="M 400.0 550.0 A 50.0 50.0 0 0 0 500.0 550.0 L 450.0 550.0 Z"/>
+</g>
+<rect x="500" y="500" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#c4d39b" ><path d="M 600.0 550.0 A 50.0 50.0 0 0 0 500.0 550.0 L 550.0 550.0 Z"/>
+</g>
+<rect x="600" y="500" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#406e58" ><path d="M 600.0 550.0 A 50.0 50.0 0 0 0 700.0 550.0 L 650.0 550.0 Z"/>
+</g>
+<rect x="700" y="500" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#bcbbb6" ><path d="M 750.0 500.0 A 50.0 50.0 0 0 0 750.0 600.0 L 750.0 550.0 Z"/>
+</g>
+<rect x="800" y="500" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#92969a" ><path d="M 800.0 550.0 A 50.0 50.0 0 0 0 900.0 550.0 L 850.0 550.0 Z"/>
+</g>
+<g stroke="none" fill="#b8a136" ><path d="M 820.0 550.0 A 30.0 30.0 0 0 0 880.0 550.0 L 850.0 550.0 Z"/>
+</g>
+<rect x="0" y="600" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#cd9886" ><path d="M 100.0 650.0 A 50.0 50.0 0 0 0 0.0 650.0 L 50.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#68443c" ><path d="M 80.0 650.0 A 30.0 30.0 0 0 0 20.0 650.0 L 50.0 650.0 Z"/>
+</g>
+<rect x="100" y="600" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#dbb07f" ><path d="M 150.0 700.0 A 50.0 50.0 0 0 0 150.00000000000003 600.0 L 150.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#d8b29a" ><path d="M 150.0 680.0 A 30.0 30.0 0 0 0 150.0 620.0 L 150.0 650.0 Z"/>
+</g>
+<rect x="200" y="600" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#eacfa6" ><path d="M 250.0 700.0 A 50.0 50.0 0 0 0 250.00000000000003 600.0 L 250.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#c4d39b" ><path d="M 250.0 680.0 A 30.0 30.0 0 0 0 250.0 620.0 L 250.0 650.0 Z"/>
+</g>
+<rect x="300" y="600" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#dba3af" ><path d="M 350.0 700.0 A 50.0 50.0 0 0 0 350.0 600.0 L 350.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#943a4d" ><path d="M 350.0 680.0 A 30.0 30.0 0 0 0 350.0 620.0 L 350.0 650.0 Z"/>
+</g>
+<rect x="400" y="600" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#928a7e" ><path d="M 450.0 600.0 A 50.0 50.0 0 0 0 450.0 700.0 L 450.0 650.0 Z"/>
+</g>
+<rect x="500" y="600" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#abbdc8" ><path d="M 550.0 700.0 A 50.0 50.0 0 0 0 550.0 600.0 L 550.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#5e6061" ><path d="M 550.0 680.0 A 30.0 30.0 0 0 0 550.0 620.0 L 550.0 650.0 Z"/>
+</g>
+<rect x="600" y="600" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#403c3a" ><path d="M 650.0 600.0 A 50.0 50.0 0 0 0 650.0 700.0 L 650.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#bcbbb6" ><path d="M 650.0 620.0 A 30.0 30.0 0 0 0 650.0 680.0 L 650.0 650.0 Z"/>
+</g>
+<rect x="700" y="600" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#68443c" ><path d="M 750.0 700.0 A 50.0 50.0 0 0 0 750.0 600.0 L 750.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#428f70" ><path d="M 750.0 680.0 A 30.0 30.0 0 0 0 750.0 620.0 L 750.0 650.0 Z"/>
+</g>
+<rect x="800" y="600" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#74393b" ><path d="M 800.0 650.0 A 50.0 50.0 0 0 0 900.0 650.0 L 850.0 650.0 Z"/>
+</g>
+<g stroke="none" fill="#929494" ><path d="M 820.0 650.0 A 30.0 30.0 0 0 0 880.0 650.0 L 850.0 650.0 Z"/>
+</g>
+<rect x="0" y="700" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#b67b66" ><path d="M 50.0 700.0 A 50.0 50.0 0 0 0 49.99999999999999 800.0 L 50.0 750.0 Z"/>
+</g>
+<g stroke="none" fill="#eadbc0" ><path d="M 50.0 720.0 A 30.0 30.0 0 0 0 49.99999999999999 780.0 L 50.0 750.0 Z"/>
+</g>
+<rect x="100" y="700" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#f2bb1d" ><path d="M 150.0 700.0 A 50.0 50.0 0 0 0 150.0 800.0 L 150.0 750.0 Z"/>
+</g>
+<rect x="200" y="700" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#c45e3a" ><path d="M 300.0 750.0 A 50.0 50.0 0 0 0 200.0 750.0 L 250.0 750.0 Z"/>
+</g>
+<rect x="300" y="700" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#bcbbb6" ><path d="M 350.0 700.0 A 50.0 50.0 0 0 0 350.0 800.0 L 350.0 750.0 Z"/>
+</g>
+<g stroke="none" fill="#45423e" ><path d="M 350.0 720.0 A 30.0 30.0 0 0 0 350.0 780.0 L 350.0 750.0 Z"/>
+</g>
+<rect x="400" y="700" width="100" height="100" fill="#d9c681" stroke="none" />
+<g stroke="none" fill="#c4d39b" ><path d="M 450.0 800.0 A 50.0 50.0 0 0 0 450.0 700.0 L 450.0 750.0 Z"/>
+</g>
+<rect x="500" y="700" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#9b3738" ><path d="M 550.0 700.0 A 50.0 50.0 0 0 0 550.0 800.0 L 550.0 750.0 Z"/>
+</g>
+<rect x="600" y="700" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#744438" ><path d="M 650.0 800.0 A 50.0 50.0 0 0 0 650.0 700.0 L 650.0 750.0 Z"/>
+</g>
+<g stroke="none" fill="#406e58" ><path d="M 650.0 780.0 A 30.0 30.0 0 0 0 650.0 720.0 L 650.0 750.0 Z"/>
+</g>
+<rect x="700" y="700" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#dba3af" ><path d="M 750.0 700.0 A 50.0 50.0 0 0 0 750.0 800.0 L 750.0 750.0 Z"/>
+</g>
+<g stroke="none" fill="#403c3a" ><path d="M 750.0 720.0 A 30.0 30.0 0 0 0 750.0 780.0 L 750.0 750.0 Z"/>
+</g>
+<rect x="800" y="700" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#b7a392" ><path d="M 850.0 800.0 A 50.0 50.0 0 0 0 850.0 700.0 L 850.0 750.0 Z"/>
+</g>
+<rect x="0" y="800" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#c45e3a" ><path d="M 50.0 800.0 A 50.0 50.0 0 0 0 49.99999999999999 900.0 L 50.0 850.0 Z"/>
+</g>
+<g stroke="none" fill="#5e6061" ><path d="M 50.0 820.0 A 30.0 30.0 0 0 0 49.99999999999999 880.0 L 50.0 850.0 Z"/>
+</g>
+<rect x="100" y="800" width="100" height="100" fill="#18446e" stroke="none" />
+<g stroke="none" fill="#ac443a" ><path d="M 200.0 850.0 A 50.0 50.0 0 0 0 100.0 850.0 L 150.0 850.0 Z"/>
+</g>
+<rect x="200" y="800" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#eae4d7" ><path d="M 250.0 900.0 A 50.0 50.0 0 0 0 250.00000000000003 800.0 L 250.0 850.0 Z"/>
+</g>
+<rect x="300" y="800" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#4c423d" ><path d="M 350.0 800.0 A 50.0 50.0 0 0 0 350.0 900.0 L 350.0 850.0 Z"/>
+</g>
+<g stroke="none" fill="#428f70" ><path d="M 350.0 820.0 A 30.0 30.0 0 0 0 350.0 880.0 L 350.0 850.0 Z"/>
+</g>
+<rect x="400" y="800" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#eadbc0" ><path d="M 450.0 900.0 A 50.0 50.0 0 0 0 450.0 800.0 L 450.0 850.0 Z"/>
+</g>
+<g stroke="none" fill="#60646a" ><path d="M 450.0 880.0 A 30.0 30.0 0 0 0 450.0 820.0 L 450.0 850.0 Z"/>
+</g>
+<rect x="500" y="800" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#92969a" ><path d="M 600.0 850.0 A 50.0 50.0 0 0 0 500.0 850.0 L 550.0 850.0 Z"/>
+</g>
+<rect x="600" y="800" width="100" height="100" fill="#d9d7a5" stroke="none" />
+<g stroke="none" fill="#f2bb1d" ><path d="M 600.0 850.0 A 50.0 50.0 0 0 0 700.0 850.0 L 650.0 850.0 Z"/>
+</g>
+<rect x="700" y="800" width="100" height="100" fill="#1a7886" stroke="none" />
+<g stroke="none" fill="#929494" ><path d="M 800.0 850.0 A 50.0 50.0 0 0 0 700.0 850.0 L 750.0 850.0 Z"/>
+</g>
+<rect x="800" y="800" width="100" height="100" fill="#77cbbe" stroke="none" />
+<g stroke="none" fill="#406e58" ><path d="M 800.0 850.0 A 50.0 50.0 0 0 0 900.0 850.0 L 850.0 850.0 Z"/>
+</g>
+<g stroke="none" fill="#dc8d67" ><path d="M 820.0 850.0 A 30.0 30.0 0 0 0 880.0 850.0 L 850.0 850.0 Z"/>
+</g>
+</svg>
