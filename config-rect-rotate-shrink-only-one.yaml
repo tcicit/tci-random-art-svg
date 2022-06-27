@@ -27,14 +27,14 @@ rect:
   number_inner_object: 100                 # You can add more object 
   shrink_x: 5
   shrink_y: 5
-  rotate: "yes"
+  rotate: "no"
   rotate_angle: 2
-  transform_random: 'no'
+  transform_random: 'yes'
   transform_random_randrange:
   - -2
   - 2
 circle:
-  use_circle: 'no'
+  use_circle: 'yes'
   number_inner_object: 100
   random_shrink: 'yes'
   random_shrink_randrange:
