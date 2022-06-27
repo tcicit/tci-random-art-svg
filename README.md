@@ -4,7 +4,10 @@ Diese Scriptsammlung dient dazu, durch verschieden Algorithmen einfache und zuf�
 
 Zusätzlich zu den SVG-Files können auch PDF, PNG Dateien erzeugt werden. Bei jedem Durchgang die verwendeten Parameter gesichert in einem eigenen File gesichert. Unter dem Verzeichnis sind zwei Files (Forground, Background) mit Farbpaletten, dadurch können zufällige erzeugte Farben erstellt werden. Die erzeugten Files werden unter dem Directory ./output abgelegt.
 
-Zur Zeit ist das Config-File "hard coded" im Programm hinterlegt. Alls nächstes soll es möglich sein, beim Aufruf des Scriptes das Config-File als Parameter übergeben zu können. 
+Zum Starten des Scriptes können folgende Parameter verwendet werden:
+
+    -d / --default (benützt das im Script definierte Konfigurations-File)
+    -c / --config <<FILENAME>> (mit diesem Parameter kann ein individuellse Konfigruations-File angegeben werden)
 
 -----------------------------
 
@@ -12,6 +15,12 @@ This collection of scripts is used to create simple and random SVG images using 
 
 In addition to SVG files, PDF, PNG files can be created. At each run the used parameters are saved in a separate file. Under the directory are two files (Forground, Background) with color palettes, so random generated colors can be created. The created files are stored in the directory ./output.
 
+The following parameters can be used to start the script:
+
+    -d / --default (uses the configuration file defined in the script)
+    -c / --config <<FILENAME>> (with this parameter an individual configuration file can be specified)
+
+-------------------------------
 
 * tci-random_art_svg-line-star.py   -> erzeugt zufällig verteilte Sterne
 * tci-random_art_svg-only-circle.py -> erzeugt zufällig verteilte Keise
@@ -22,6 +31,8 @@ In addition to SVG files, PDF, PNG files can be created. At each run the used pa
 * tci-random_art_svg-semicircle.py -> erzeugt ein Bild bei dem die Rechtecke mit Halbkeisen gefüllt sind
 * tci-random_art_svg-trinagle.py -> erzeugt ein Bild mit verschieden ausgereichteten Dreiecken
 * tci-random_art_svg.py -> Modul mit den standart Funktuionen 
+* tci-random_art_svg_rect-0001.py -> Verschieden grosse Rechtecke 
+
 
 ## Verwendete Python Module
 
@@ -35,7 +46,7 @@ cairosvg
 pathlib
 datetime
 
-### Installation cairosvg unter Linux
+### Installation cairosvg unter Linux (Mint, Ubuntu)
 
 
     Update the package index:
