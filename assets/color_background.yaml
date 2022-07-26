@@ -27,4 +27,17 @@ background_palette_4:
   - '#495057'
   - '#343a40'
   - '#212529'
+background_palette_5:
+  - "#C1B1C8"
+  - "#9A9A9A"
+  - "#CAC1C7"
+  - "#C8BBBE"
+  - "#D9CBCB"
+  - "#C3BDBB"
+  - "#F1E3C2"
+  - "#B6B8AE"
+  - "#A1B9A1"
+  - "#AAC6BA"
+  - "#888888"
+  - "#E5E5E5"
 
